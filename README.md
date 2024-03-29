@@ -22,8 +22,8 @@ The `requirements.txt` file lists the packages and dependencies used for this pr
     - `app.py`: Source code for the GUI.
     - `communities.csv `: A file containing clustered communities after running the app.
     - `dist_matrix.csv`: Distance matrix used to generate an adjacency matrix for creating the graph.
-- `code/`: Directory containing all the code used for analyses and visualizations.
-    - `data/`: Directory containing subdirectories to be used with the code relevant to standardizing files. 
+- `code_and_resources/`: Directory containing all the code used for analyses and visualizations.
+    - `data/`: Directory containing subdirectories to be used with the code relevant to standardizing files. These subdirectories are empty. Users should put their cleaned CSV files into the `cleaned/` folder to start with. After running `sanitization.py`, files will automatically get added to the `sanitized/` folder. Similarly, after running `filter_pvals.py`, files will automatically get added to the `filtered/` folder. 
         - `cleaned/`: Directory containing all the datasets in CSV format after cleaning.
         - `filtered/`: Directory containing all the datasets after being filtered for p-value < 0.05, where applicable.
         - `sanitized/`: Directory containing all the data files after gene name sanitization.
