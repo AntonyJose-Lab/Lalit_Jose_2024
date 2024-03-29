@@ -79,5 +79,5 @@ df = df.transpose()     # Transposing the dataframe
 df = df.dropna()    # Dropping null values from the dataframe
 
     
-os.chdir("../code")
+os.chdir("../code_and_resources")
 df.to_csv("TableOccupancy_full.csv", index=True)     # Saving the Dataframe as a CSV.
