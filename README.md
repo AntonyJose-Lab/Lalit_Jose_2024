@@ -43,4 +43,3 @@ The `requirements.txt` file lists the packages and dependencies used for this pr
     - `TableOccupancy.py`: Code used to create a TableOccupancy file listng how many datasets each gene occurs in.
     - `Wormbase_Gene_Sanitizer_Database_DownloadedOn_10-30-2023.txt`: Wormbase Gene Sanitizer Database downloaded on October 30, 2023.
     - `WormExp_2_0_info_20170727_Unique_Studies.xlsx`: An Excel file containing URLs for the 461 datasets included in WormExp 2.0 as on 27 Jan 2023.
-- `data_full/`: Directory containing the 432 filtered datasets used for the analyses in this study.
