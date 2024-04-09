@@ -31,8 +31,8 @@ The `requirements.txt` file lists the packages and dependencies used for this pr
     - `dataset_wormexp_overlap.ipynb`: Code used to determine how many datasets chosen for this study overlap with the 461 included in WormExp 2.0 as on 27 Jan 2023.
     - `df_na_full.csv`: A CSV file that shows gene presence and absence in datasets.
     - `Extended_Data_Table.xlsx`: An Excel file containing names of all studies and their corresponding URLs used in this study.
-    - `fig1C.ipynb`: Code used to generate Figure 1C. 
-    - `fig1D_fig1E.ipynb`: Code used to generate Figure 1D and Figure 1E.
+    - `fig1D.ipynb`: Code used to generate Figure 1D. 
+    - `fig1F_fig1G.ipynb`: Code used to generate Figure 1F and Figure 1G.
     - `fig2.ipynb`: Code used to generate Figure 2.
     - `filter_pvals.py`: Code used to filter datasets for p-value < 0.05.
     - `sanitization.py`: Code used to sanitize gene names.
