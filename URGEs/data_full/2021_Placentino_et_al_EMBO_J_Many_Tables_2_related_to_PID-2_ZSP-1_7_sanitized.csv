@@ -1,0 +1,36 @@
+# Table EV2. Tables listing the significantly enriched proteins from the various IP-MS experiments. The different Tabs of this excel file list the enriched protein lists belonging to the indicated figure panels. Genes that are of direct interest to this study,or with previous links to small RNAs are indicated in bold. The differences between the measured LFQ for each protein between the two strains used for each volcano plots are represented in log2 scale.
+#
+# Figure S4G
+# volcano_enriched_reduced_xf184_vs_PID2 (IP on endogenous PID-2 in pid-4 mutant versus pid-2 mutant)
+Gene.IDs,Protein.IDs,difference_xf184_PID2,log10.pvalue_xf184_PID2,Input,Suggested Match,History
+Y66H1A.4,Y66H1A.4,2.09449980524884,5.81660868007351,Y66H1A.4,WBGene00022046,Sequence name for WBGene00022046(garr-1). History: N.A.
+pid-5,Y45G5AM.2a,8.15590192620922,5.78075850897261,pid-5,WBGene00021555,Public name for WBGene00021555. History: N.A.
+pid-2,Y48G1C.1,7.78846294010652,4.11748855006641,pid-2,WBGene00021676,Public name for WBGene00021676. History: Renamed on 2021-03-11
+kin-19,C03C10.1,1.9653471045454,3.27209771881171,kin-19,WBGene00002202,Public name for WBGene00002202. History: N.A.
+K01G5.5,K01G5.5,1.16063313609746,3.25026591017956,K01G5.5,WBGene00010478,Public name for WBGene00010478. History: N.A.
+rmd-2,C27H6.4c,1.04476916883995,3.13390679461556,rmd-2,WBGene00007786,Public name for WBGene00007786. History: N.A.
+par-5,M117.2a,1.85482265006773,2.17691619078821,par-5,WBGene00003920,Public name for WBGene00003920. History: N.A.
+F08F3.4,F08F3.4,1.45856501765193,2.0672816852157,F08F3.4,WBGene00017262,Public name for WBGene00017262. History: N.A.
+rpl-31,W09C5.6a,1.26988561618009,1.8538110986299,rpl-31,WBGene00004445,Public name for WBGene00004445. History: N.A.
+sams-1,C49F5.1,1.93783153376141,1.8293931877264,sams-1,WBGene00008205,Public name for WBGene00008205. History: Renamed on 2016-06-14
+app-1,W03G9.4,1.88902532556623,1.80880790514782,app-1,WBGene00000155,Public name for WBGene00000155. History: N.A.
+pmt-2,F54D11.1,2.19880856593339,1.6454405139113,pmt-2,WBGene00018811,Public name for WBGene00018811. History: N.A.
+T07C4.3,T07C4.3b,1.76997022897357,1.54512996736805,T07C4.3,WBGene00011560,Public name for WBGene00011560. History: N.A.
+pcp-3,F23B2.11,2.28331216559283,1.53316281977311,pcp-3,WBGene00003958,Public name for WBGene00003958. History: N.A.
+pmp-5,T10H9.5a,2.50131915971649,1.47433560973598,pmp-5,WBGene00004062,Public name for WBGene00004062. History: N.A.
+ahcy-1,K02F2.2,1.82406742114591,1.47122109156091,ahcy-1,WBGene00019322,Public name for WBGene00019322. History: Renamed on 2005-02-01; Renamed on 2015-03-05
+rpl-22,C27A2.2a,1.74821806439453,1.46629078172594,rpl-22,WBGene00004434,Public name for WBGene00004434. History: N.A.
+R09H10.5,R09H10.5,2.26865440855489,1.44044318119726,R09H10.5,WBGene00011182,Public name for WBGene00011182. History: N.A.
+daf-41,ZC395.10,1.92888910965383,1.43657296038547,daf-41,WBGene00022599,Public name for WBGene00022599. History: N.A.
+acdh-1,C55B7.4a,1.64877576468982,1.39357664225924,acdh-1,WBGene00016943,Public name for WBGene00016943. History: Renamed on 2004-08-25
+mboa-6,R155.1a,1.09621694905368,1.38884123991726,mboa-6,WBGene00020115,Public name for WBGene00020115. History: N.A.
+rpl-43,Y48B6A.2,2.03001395541689,1.32370159000594,rpl-43,WBGene00004456,Public name for WBGene00004456. History: N.A.
+vps-2,Y46G5A.12,2.17561077400259,1.30452993527567,vps-2,WBGene00012903,Public name for WBGene00012903. History: N.A.
+ifd-1,R04E5.10b,-1.82531765678417,2.13475904123306,ifd-1,WBGene00002057,Public name for WBGene00002057. History: N.A.
+lfi-1,ZC8.4d,-1.20984228214905,2.11657376743041,lfi-1,WBGene00022500,Public name for WBGene00022500. History: N.A.
+T23E7.2,T23E7.2b,-1.07488462682925,1.85605689479213,T23E7.2,WBGene00020732,Public name for WBGene00020732. History: N.A.
+tag-10,C31C9.1d,-1.04901666698376,1.68711789456139,tag-10,WBGene00006404,Public name for WBGene00006404. History: N.A.
+vit-6,K07H8.6a,-1.02273445300841,1.65091490394282,vit-6,WBGene00006930,Public name for WBGene00006930. History: N.A.
+nep-17,F54F11.2a,-1.49502304019955,1.53802154181966,nep-17,WBGene00010070,Public name for WBGene00010070. History: N.A.
+C46C2.2,C46C2.2,-1.21665834684554,1.51935023637258,C46C2.2,WBGene00008110,Public name for WBGene00008110. History: N.A.
+F38B6.4,F38B6.4,-1.46464694860962,1.3210828802984,F38B6.4,WBGene00018174,Public name for WBGene00018174. History: N.A.

@@ -1,0 +1,18 @@
+# Table EV2. Tables listing the significantly enriched proteins from the various IP-MS experiments. The different Tabs of this excel file list the enriched protein lists belonging to the indicated figure panels. Genes that are of direct interest to this study,or with previous links to small RNAs are indicated in bold. The differences between the measured LFQ for each protein between the two strains used for each volcano plots are represented in log2 scale.
+#
+# Figure 4B
+# volcano_enriched_reduced_PID2_vs_N2 (IP on endogenous PID-2)
+Gene.IDs,Protein.IDs,difference_PID2_N2,log10.pvalue_PID2_N2,Input,Suggested Match,History
+ifd-1,R04E5.10b,1.87489969696035,1.93841663775383,ifd-1,WBGene00002057,Public name for WBGene00002057. History: N.A.
+ifb-2,F10C1.7a,1.09703338838683,1.62527068048705,ifb-2,WBGene00002054,Public name for WBGene00002054. History: N.A.
+prdh-1,B0513.5a,1.55554808715558,1.30523653626793,prdh-1,WBGene00007197,Public name for WBGene00007197. History: N.A.
+vha-4,T01H3.1,3.61849709697159,1.30479585592757,vha-4,WBGene00006913,Public name for WBGene00006913. History: N.A.
+pid-5,Y45G5AM.2a,-7.13762452132405,4.6023043912329,pid-5,WBGene00021555,Public name for WBGene00021555. History: N.A.
+pid-2,Y48G1C.1,-7.6838840231065,4.04937508650292,pid-2,WBGene00021676,Public name for WBGene00021676. History: Renamed on 2021-03-11
+pid-4,W03G9.2,-5.8062686755945,3.94366325636874,pid-4,WBGene00021014,Public name for WBGene00021014. History: N.A.
+kin-19,C03C10.1,-2.22523033256136,2.72451610471791,kin-19,WBGene00002202,Public name for WBGene00002202. History: N.A.
+par-5,M117.2a,-1.6168644057319,2.04269159204922,par-5,WBGene00003920,Public name for WBGene00003920. History: N.A.
+R09H10.5,R09H10.5,-2.28065026475173,1.67502007851581,R09H10.5,WBGene00011182,Public name for WBGene00011182. History: N.A.
+T07C4.3,T07C4.3b,-1.66032023585447,1.47565849818937,T07C4.3,WBGene00011560,Public name for WBGene00011560. History: N.A.
+app-1,W03G9.4,-1.39754674957893,1.3580235909677,app-1,WBGene00000155,Public name for WBGene00000155. History: N.A.
+pmp-5,T10H9.5a,-2.3968260258033,1.35145004523903,pmp-5,WBGene00004062,Public name for WBGene00004062. History: N.A.

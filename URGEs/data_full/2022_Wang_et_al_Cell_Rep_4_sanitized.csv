@@ -1,0 +1,418 @@
+# Table S2.  Heritable Dysregulated Genes upon Hypoxia Treatment
+# Heritable Downregulated Genes Only in WT but Not in hrde-1 Mutant
+Regulation Direction,Gene name,Input,Suggested Match,History
+Transgenerational downregulated,WBGene00006780,WBGene00006780,WBGene00006780,History: N.A.
+Transgenerational downregulated,WBGene00019282,WBGene00019282,WBGene00019282,History: N.A.
+Transgenerational downregulated,WBGene00014153,WBGene00014153,WBGene00014153,History: N.A.
+Transgenerational downregulated,WBGene00007296,WBGene00007296,WBGene00007296,History: N.A.
+Transgenerational downregulated,WBGene00006575,WBGene00006575,WBGene00006575,History: Renamed on 2005-11-09
+Transgenerational downregulated,WBGene00001131,WBGene00001131,WBGene00001131,History: N.A.
+Transgenerational downregulated,WBGene00006538,WBGene00006538,WBGene00006538,History: N.A.
+Transgenerational downregulated,WBGene00007139,WBGene00007139,WBGene00007139,History: N.A.
+Transgenerational downregulated,WBGene00008401,WBGene00008401,WBGene00008401,History: N.A.
+Transgenerational downregulated,WBGene00000478,WBGene00000478,WBGene00000478,History: N.A.
+Transgenerational downregulated,WBGene00001858,WBGene00001858,WBGene00001858,History: Renamed on 2010-11-12
+Transgenerational downregulated,WBGene00007266,WBGene00007266,WBGene00007266,History: N.A.
+Transgenerational downregulated,WBGene00000037,WBGene00000037,WBGene00000037,History: Renamed on 2019-05-20
+Transgenerational downregulated,WBGene00011383,WBGene00011383,WBGene00011383,History: N.A.
+Transgenerational downregulated,WBGene00010976,WBGene00010976,WBGene00010976,History: N.A.
+Transgenerational downregulated,WBGene00018742,WBGene00018742,WBGene00018742,History: N.A.
+Transgenerational downregulated,WBGene00003778,WBGene00003778,WBGene00003778,History: N.A.
+Transgenerational downregulated,WBGene00016071,WBGene00016071,WBGene00016071,"History: Split into C24H12.19(WBGene00235338). History of WBGene00016071: Split into ""WBGene00235338"" on 2013-09-12"
+Transgenerational downregulated,WBGene00001072,WBGene00001072,WBGene00001072,"History: Split into T14B4.19(WBGene00302993). History of WBGene00001072: Split into ""WBGene00302993"" on 2018-03-06"
+Transgenerational downregulated,WBGene00021919,WBGene00021919,WBGene00021919,History: N.A.
+Transgenerational downregulated,WBGene00022033,WBGene00022033,WBGene00022033,"History: Split into Y65B4BM.3(WBGene00302974). History of WBGene00022033: Split into ""WBGene00302974"" on 2018-03-06"
+Transgenerational downregulated,WBGene00022396,WBGene00022396,WBGene00022396,History: N.A.
+Transgenerational downregulated,WBGene00015781,WBGene00015781,WBGene00015781,History: N.A.
+Transgenerational downregulated,WBGene00009743,WBGene00009743,WBGene00009743,History: N.A.
+Transgenerational downregulated,WBGene00021915,WBGene00021915,WBGene00021915,History: N.A.
+Transgenerational downregulated,WBGene00010262,WBGene00010262,WBGene00010262,History: N.A.
+Transgenerational downregulated,WBGene00007900,WBGene00007900,WBGene00007900,History: N.A.
+Transgenerational downregulated,WBGene00003710,WBGene00003710,WBGene00003710,History: N.A.
+Transgenerational downregulated,WBGene00007481,WBGene00007481,WBGene00007481,History: N.A.
+Transgenerational downregulated,WBGene00012420,WBGene00012420,WBGene00012420,History: N.A.
+Transgenerational downregulated,WBGene00022129,WBGene00022129,WBGene00022129,History: N.A.
+Transgenerational downregulated,WBGene00012239,WBGene00012239,WBGene00012239,History: N.A.
+Transgenerational downregulated,WBGene00000455,WBGene00000455,WBGene00000455,History: N.A.
+Transgenerational downregulated,WBGene00009304,WBGene00009304,WBGene00009304,History: Renamed on 2007-10-09
+Transgenerational downregulated,WBGene00008425,WBGene00008425,WBGene00008425,History: N.A.
+Transgenerational downregulated,WBGene00009476,WBGene00009476,WBGene00009476,History: N.A.
+Transgenerational downregulated,WBGene00010738,WBGene00010738,WBGene00010738,History: N.A.
+Transgenerational downregulated,WBGene00006805,WBGene00006805,WBGene00006805,History: Renamed on 2015-03-04
+Transgenerational downregulated,WBGene00013515,WBGene00013515,WBGene00013515,History: N.A.
+Transgenerational downregulated,WBGene00018748,WBGene00018748,WBGene00018748,History: N.A.
+Transgenerational downregulated,WBGene00003933,WBGene00003933,WBGene00003933,History: Renamed on 2012-05-25
+Transgenerational downregulated,WBGene00044417,WBGene00044417,WBGene00044417,History: N.A.
+Transgenerational downregulated,WBGene00002253,WBGene00002253,WBGene00002253,History: N.A.
+Transgenerational downregulated,WBGene00000449,WBGene00000449,WBGene00000449,History: N.A.
+Transgenerational downregulated,WBGene00003003,WBGene00003003,WBGene00003003,History: N.A.
+Transgenerational downregulated,WBGene00014159,WBGene00014159,WBGene00014159,History: N.A.
+Transgenerational downregulated,WBGene00013962,WBGene00013962,WBGene00013962,History: N.A.
+Transgenerational downregulated,WBGene00008563,WBGene00008563,WBGene00008563,History: N.A.
+Transgenerational downregulated,WBGene00002051,WBGene00002051,WBGene00002051,History: N.A.
+Transgenerational downregulated,WBGene00007479,WBGene00007479,WBGene00007479,History: N.A.
+Transgenerational downregulated,WBGene00002222,WBGene00002222,WBGene00002222,"History: Split into F20C5.11(WBGene00303015). History of WBGene00002222: Split into ""WBGene00303015"" on 2018-03-06"
+Transgenerational downregulated,WBGene00002248,WBGene00002248,WBGene00002248,History: N.A.
+Transgenerational downregulated,WBGene00014089,WBGene00014089,WBGene00014089,History: N.A.
+Transgenerational downregulated,WBGene00000273,WBGene00000273,WBGene00000273,History: N.A.
+Transgenerational downregulated,WBGene00020648,WBGene00020648,WBGene00020648,"History: Split into T21D12.14(WBGene00045177). History of WBGene00020648: Split into ""WBGene00045177"" on 2006-12-04"
+Transgenerational downregulated,WBGene00022441,WBGene00022441,WBGene00022441,History: N.A.
+Transgenerational downregulated,WBGene00019278,WBGene00019278,WBGene00019278,History: N.A.
+Transgenerational downregulated,WBGene00009899,WBGene00009899,WBGene00009899,History: N.A.
+Transgenerational downregulated,WBGene00017983,WBGene00017983,WBGene00017983,History: N.A.
+Transgenerational downregulated,WBGene00007848,WBGene00007848,WBGene00007848,History: N.A.
+Transgenerational downregulated,WBGene00009926,WBGene00009926,WBGene00009926,History: Renamed on 2005-03-17
+Transgenerational downregulated,WBGene00004993,WBGene00004993,WBGene00004993,History: N.A.
+Transgenerational downregulated,WBGene00017671,WBGene00017671,WBGene00017671,History: N.A.
+Transgenerational downregulated,WBGene00008760,WBGene00008760,WBGene00008760,History: N.A.
+Transgenerational downregulated,WBGene00000792,WBGene00000792,WBGene00000792,History: N.A.
+Transgenerational downregulated,WBGene00000695,WBGene00000695,WBGene00000695,History: Renamed on 2006-06-15
+Transgenerational downregulated,WBGene00009691,WBGene00009691,WBGene00009691,History: N.A.
+Transgenerational downregulated,WBGene00012261,WBGene00012261,WBGene00012261,History: N.A.
+Transgenerational downregulated,WBGene00006444,WBGene00006444,WBGene00006444,History: Renamed on 2007-01-03
+Transgenerational downregulated,WBGene00019212,WBGene00019212,WBGene00019212,History: N.A.
+Transgenerational downregulated,WBGene00007750,WBGene00007750,WBGene00007750,History: N.A.
+Transgenerational downregulated,WBGene00011596,WBGene00011596,WBGene00011596,History: N.A.
+Transgenerational downregulated,WBGene00003968,WBGene00003968,WBGene00003968,History: N.A.
+Transgenerational downregulated,WBGene00001064,WBGene00001064,WBGene00001064,History: N.A.
+Transgenerational downregulated,WBGene00016549,WBGene00016549,WBGene00016549,History: N.A.
+Transgenerational downregulated,WBGene00009653,WBGene00009653,WBGene00009653,History: Renamed on 2022-10-03
+Transgenerational downregulated,WBGene00007044,WBGene00007044,WBGene00007044,History: Renamed on 2009-04-21
+Transgenerational downregulated,WBGene00018215,WBGene00018215,WBGene00018215,History: N.A.
+Transgenerational downregulated,WBGene00006746,WBGene00006746,WBGene00006746,History: N.A.
+Transgenerational downregulated,WBGene00011392,WBGene00011392,WBGene00011392,History: N.A.
+Transgenerational downregulated,WBGene00012226,WBGene00012226,WBGene00012226,History: N.A.
+Transgenerational downregulated,WBGene00017430,WBGene00017430,WBGene00017430,History: N.A.
+Transgenerational downregulated,WBGene00004827,WBGene00004827,WBGene00004827,History: N.A.
+Transgenerational downregulated,WBGene00022727,WBGene00022727,WBGene00022727,History: Renamed on 2016-08-02
+Transgenerational downregulated,WBGene00010742,WBGene00010742,WBGene00010742,History: N.A.
+Transgenerational downregulated,WBGene00003681,WBGene00003681,WBGene00003681,History: N.A.
+Transgenerational downregulated,WBGene00017184,WBGene00017184,WBGene00017184,History: N.A.
+Transgenerational downregulated,WBGene00004155,WBGene00004155,WBGene00004155,History: N.A.
+Transgenerational downregulated,WBGene00019612,WBGene00019612,WBGene00019612,History: N.A.
+Transgenerational downregulated,WBGene00010868,WBGene00010868,WBGene00010868,History: N.A.
+Transgenerational downregulated,WBGene00004370,WBGene00004370,WBGene00004370,History: N.A.
+Transgenerational downregulated,WBGene00014051,WBGene00014051,WBGene00014051,History: Renamed on 2013-04-12; Renamed on 2014-06-27
+Transgenerational downregulated,WBGene00020326,WBGene00020326,WBGene00020326,History: N.A.
+Transgenerational downregulated,WBGene00004949,WBGene00004949,WBGene00004949,History: N.A.
+Transgenerational downregulated,WBGene00020626,WBGene00020626,WBGene00020626,History: N.A.
+Transgenerational downregulated,WBGene00003404,WBGene00003404,WBGene00003404,History: N.A.
+Transgenerational downregulated,WBGene00012255,WBGene00012255,WBGene00012255,History: N.A.
+Transgenerational downregulated,WBGene00016295,WBGene00016295,WBGene00016295,History: N.A.
+Transgenerational downregulated,WBGene00010495,WBGene00010495,WBGene00010495,History: N.A.
+Transgenerational downregulated,WBGene00017381,WBGene00017381,WBGene00017381,History: Renamed on 2018-03-02
+Transgenerational downregulated,WBGene00017597,WBGene00017597,WBGene00017597,History: N.A.
+Transgenerational downregulated,WBGene00006649,WBGene00006649,WBGene00006649,History: N.A.
+Transgenerational downregulated,WBGene00000463,WBGene00000463,WBGene00000463,History: Renamed on 2013-07-26
+Transgenerational downregulated,WBGene00044728,WBGene00044728,WBGene00044728,History: N.A.
+Transgenerational downregulated,WBGene00006807,WBGene00006807,WBGene00006807,History: N.A.
+Transgenerational downregulated,WBGene00009288,WBGene00009288,WBGene00009288,History: N.A.
+Transgenerational downregulated,WBGene00016006,WBGene00016006,WBGene00016006,History: Renamed on 2009-10-28
+Transgenerational downregulated,WBGene00000469,WBGene00000469,WBGene00000469,History: N.A.
+Transgenerational downregulated,WBGene00006778,WBGene00006778,WBGene00006778,History: N.A.
+Transgenerational downregulated,WBGene00004236,WBGene00004236,WBGene00004236,History: N.A.
+Transgenerational downregulated,WBGene00001475,WBGene00001475,WBGene00001475,History: N.A.
+Transgenerational downregulated,WBGene00003377,WBGene00003377,WBGene00003377,History: N.A.
+Transgenerational downregulated,WBGene00020930,WBGene00020930,WBGene00020930,History: N.A.
+Transgenerational downregulated,WBGene00006970,WBGene00006970,WBGene00006970,History: Renamed on 2011-09-30
+Transgenerational downregulated,WBGene00018468,WBGene00018468,WBGene00018468,History: Renamed on 2014-01-06; Renamed on 2017-04-28
+Transgenerational downregulated,WBGene00010585,WBGene00010585,WBGene00010585,History: N.A.
+Transgenerational downregulated,WBGene00006543,WBGene00006543,WBGene00006543,History: Renamed on 2013-07-31
+Transgenerational downregulated,WBGene00004213,WBGene00004213,WBGene00004213,History: N.A.
+Transgenerational downregulated,WBGene00019832,WBGene00019832,WBGene00019832,History: N.A.
+Transgenerational downregulated,WBGene00009717,WBGene00009717,WBGene00009717,History: N.A.
+Transgenerational downregulated,WBGene00003567,WBGene00003567,WBGene00003567,History: N.A.
+Transgenerational downregulated,WBGene00011838,WBGene00011838,WBGene00011838,History: N.A.
+Transgenerational downregulated,WBGene00017154,WBGene00017154,WBGene00017154,History: N.A.
+Transgenerational downregulated,WBGene00303015,WBGene00303015,WBGene00303015,History: N.A.
+Transgenerational downregulated,WBGene00004987,WBGene00004987,WBGene00004987,History: N.A.
+Transgenerational downregulated,WBGene00008438,WBGene00008438,WBGene00008438,History: N.A.
+Transgenerational downregulated,WBGene00002282,WBGene00002282,WBGene00002282,History: Renamed on 2011-09-23
+Transgenerational downregulated,WBGene00000448,WBGene00000448,WBGene00000448,History: Renamed on 2013-02-08; Renamed on 2017-10-13
+Transgenerational downregulated,WBGene00006366,WBGene00006366,WBGene00006366,History: N.A.
+Transgenerational downregulated,WBGene00016422,WBGene00016422,WBGene00016422,History: N.A.
+Transgenerational downregulated,WBGene00044068,WBGene00044068,WBGene00044068,History: Renamed on 2006-06-16; Renamed on 2006-10-09; Renamed on 2006-11-08
+Transgenerational downregulated,WBGene00000170,WBGene00000170,WBGene00000170,History: N.A.
+Transgenerational downregulated,WBGene00015824,WBGene00015824,WBGene00015824,History: N.A.
+Transgenerational downregulated,WBGene00020537,WBGene00020537,WBGene00020537,"History: Split into T16A1.10(WBGene00269431). History of WBGene00020537: Split into ""WBGene00269431"" on 2016-04-19"
+Transgenerational downregulated,WBGene00011955,WBGene00011955,WBGene00011955,History: N.A.
+Transgenerational downregulated,WBGene00018729,WBGene00018729,WBGene00018729,History: N.A.
+Transgenerational downregulated,WBGene00018304,WBGene00018304,WBGene00018304,History: N.A.
+Transgenerational downregulated,WBGene00006809,WBGene00006809,WBGene00006809,History: N.A.
+Transgenerational downregulated,WBGene00006367,WBGene00006367,WBGene00006367,History: N.A.
+Transgenerational downregulated,WBGene00003623,WBGene00003623,WBGene00003623,History: N.A.
+Transgenerational downregulated,WBGene00013266,WBGene00013266,WBGene00013266,History: N.A.
+Transgenerational downregulated,WBGene00011763,WBGene00011763,WBGene00011763,History: N.A.
+Transgenerational downregulated,WBGene00019064,WBGene00019064,WBGene00019064,History: N.A.
+Transgenerational downregulated,WBGene00004048,WBGene00004048,WBGene00004048,History: N.A.
+Transgenerational downregulated,WBGene00007908,WBGene00007908,WBGene00007908,History: N.A.
+Transgenerational downregulated,WBGene00006852,WBGene00006852,WBGene00006852,History: N.A.
+Transgenerational downregulated,WBGene00019960,WBGene00019960,WBGene00019960,History: N.A.
+Transgenerational downregulated,WBGene00019779,WBGene00019779,WBGene00019779,History: N.A.
+Transgenerational downregulated,WBGene00008591,WBGene00008591,WBGene00008591,History: N.A.
+Transgenerational downregulated,WBGene00001069,WBGene00001069,WBGene00001069,History: N.A.
+Transgenerational downregulated,WBGene00017133,WBGene00017133,WBGene00017133,History: N.A.
+Transgenerational downregulated,WBGene00006956,WBGene00006956,WBGene00006956,History: N.A.
+Transgenerational downregulated,WBGene00000858,WBGene00000858,WBGene00000858,History: N.A.
+Transgenerational downregulated,WBGene00012186,WBGene00012186,WBGene00012186,History: Renamed on 2005-03-17
+Transgenerational downregulated,WBGene00001945,WBGene00001945,WBGene00001945,History: N.A.
+Transgenerational downregulated,WBGene00001948,WBGene00001948,WBGene00001948,History: N.A.
+Transgenerational downregulated,WBGene00022837,WBGene00022837,WBGene00022837,History: N.A.
+Transgenerational downregulated,WBGene00000674,WBGene00000674,WBGene00000674,History: N.A.
+Transgenerational downregulated,WBGene00006063,WBGene00006063,WBGene00006063,History: N.A.
+Transgenerational downregulated,WBGene00020160,WBGene00020160,WBGene00020160,History: N.A.
+Transgenerational downregulated,WBGene00015779,WBGene00015779,WBGene00015779,History: N.A.
+Transgenerational downregulated,WBGene00011175,WBGene00011175,WBGene00011175,History: N.A.
+Transgenerational downregulated,WBGene00006870,WBGene00006870,WBGene00006870,History: Renamed on 2013-10-08
+Transgenerational downregulated,WBGene00020833,WBGene00020833,WBGene00020833,History: N.A.
+Transgenerational downregulated,WBGene00219758,WBGene00219758,WBGene00219758,History: N.A.
+Transgenerational downregulated,WBGene00015518,WBGene00015518,WBGene00015518,History: N.A.
+Transgenerational downregulated,WBGene00000928,WBGene00000928,WBGene00000928,History: N.A.
+Transgenerational downregulated,WBGene00001707,WBGene00001707,WBGene00001707,History: N.A.
+Transgenerational downregulated,WBGene00016093,WBGene00016093,WBGene00016093,History: N.A.
+Transgenerational downregulated,WBGene00019751,WBGene00019751,WBGene00019751,History: N.A.
+Transgenerational downregulated,WBGene00010221,WBGene00010221,WBGene00010221,History: N.A.
+Transgenerational downregulated,WBGene00010177,WBGene00010177,WBGene00010177,"History: Split into T06E8.8(WBGene00303063). History of WBGene00010177: Split into ""WBGene00303063"" on 2018-03-02"
+Transgenerational downregulated,WBGene00010931,WBGene00010931,WBGene00010931,History: N.A.
+Transgenerational downregulated,WBGene00018697,WBGene00018697,WBGene00018697,History: N.A.
+Transgenerational downregulated,WBGene00018803,WBGene00018803,WBGene00018803,History: N.A.
+Transgenerational downregulated,WBGene00001210,WBGene00001210,WBGene00001210,History: N.A.
+Transgenerational downregulated,WBGene00000650,WBGene00000650,WBGene00000650,History: N.A.
+Transgenerational downregulated,WBGene00017901,WBGene00017901,WBGene00017901,History: N.A.
+Transgenerational downregulated,WBGene00004233,WBGene00004233,WBGene00004233,History: N.A.
+Transgenerational downregulated,WBGene00022816,WBGene00022816,WBGene00022816,History: Renamed on 2019-05-20
+Transgenerational downregulated,WBGene00011326,WBGene00011326,WBGene00011326,"History: Split into ""WBGene00045409"" on 2007-05-02"
+Transgenerational downregulated,WBGene00008320,WBGene00008320,WBGene00008320,History: N.A.
+Transgenerational downregulated,WBGene00011522,WBGene00011522,WBGene00011522,History: N.A.
+Transgenerational downregulated,WBGene00012107,WBGene00012107,WBGene00012107,History: N.A.
+Transgenerational downregulated,WBGene00001075,WBGene00001075,WBGene00001075,History: N.A.
+Transgenerational downregulated,WBGene00013416,WBGene00013416,WBGene00013416,History: N.A.
+Transgenerational downregulated,WBGene00014505,WBGene00014505,WBGene00014505,History: N.A.
+Transgenerational downregulated,WBGene00011328,WBGene00011328,WBGene00011328,History: N.A.
+Transgenerational downregulated,WBGene00011261,WBGene00011261,WBGene00011261,History: Renamed on 2011-01-18
+Transgenerational downregulated,WBGene00006775,WBGene00006775,WBGene00006775,History: N.A.
+Transgenerational downregulated,WBGene00006788,WBGene00006788,WBGene00006788,History: N.A.
+Transgenerational downregulated,WBGene00044698,WBGene00044698,WBGene00044698,History: N.A.
+Transgenerational downregulated,WBGene00006980,WBGene00006980,WBGene00006980,History: N.A.
+Transgenerational downregulated,WBGene00020854,WBGene00020854,WBGene00020854,History: N.A.
+Transgenerational downregulated,WBGene00019488,WBGene00019488,WBGene00019488,History: N.A.
+Transgenerational downregulated,WBGene00011798,WBGene00011798,WBGene00011798,History: N.A.
+Transgenerational downregulated,WBGene00001570,WBGene00001570,WBGene00001570,History: N.A.
+Transgenerational downregulated,WBGene00044066,WBGene00044066,WBGene00044066,History: Renamed on 2005-12-13
+Transgenerational downregulated,WBGene00008519,WBGene00008519,WBGene00008519,"History: Split into C29F7.8(WBGene00044405). History of WBGene00008519: Split into ""WBGene00044405"" on 2005-05-27"
+Transgenerational downregulated,WBGene00001432,WBGene00001432,WBGene00001432,History: N.A.
+Transgenerational downregulated,WBGene00009805,WBGene00009805,WBGene00009805,History: N.A.
+Transgenerational downregulated,WBGene00011508,WBGene00011508,WBGene00011508,History: N.A.
+Transgenerational downregulated,WBGene00015865,WBGene00015865,WBGene00015865,History: N.A.
+Transgenerational downregulated,WBGene00018547,WBGene00018547,WBGene00018547,History: N.A.
+Transgenerational downregulated,WBGene00013100,WBGene00013100,WBGene00013100,History: N.A.
+Transgenerational downregulated,WBGene00016539,WBGene00016539,WBGene00016539,History: Renamed on 2010-04-30; Renamed on 2011-03-03; Renamed on 2011-03-24; Renamed on 2014-04-28
+Transgenerational downregulated,WBGene00011345,WBGene00011345,WBGene00011345,History: N.A.
+Transgenerational downregulated,WBGene00019855,WBGene00019855,WBGene00019855,History: N.A.
+Transgenerational downregulated,WBGene00021505,WBGene00021505,WBGene00021505,History: N.A.
+Transgenerational downregulated,WBGene00017755,WBGene00017755,WBGene00017755,History: N.A.
+Transgenerational downregulated,WBGene00022349,WBGene00022349,WBGene00022349,History: N.A.
+Transgenerational downregulated,WBGene00007899,WBGene00007899,WBGene00007899,History: N.A.
+Transgenerational downregulated,WBGene00013543,WBGene00013543,WBGene00013543,History: N.A.
+Transgenerational downregulated,WBGene00017309,WBGene00017309,WBGene00017309,History: N.A.
+Transgenerational downregulated,WBGene00020194,WBGene00020194,WBGene00020194,History: N.A.
+Transgenerational downregulated,WBGene00013418,WBGene00013418,WBGene00013418,History: N.A.
+Transgenerational downregulated,WBGene00011868,WBGene00011868,WBGene00011868,History: N.A.
+Transgenerational downregulated,WBGene00015220,WBGene00015220,WBGene00015220,History: N.A.
+Transgenerational downregulated,WBGene00009089,WBGene00009089,WBGene00009089,History: N.A.
+Transgenerational downregulated,WBGene00022538,WBGene00022538,WBGene00022538,History: N.A.
+Transgenerational downregulated,WBGene00012899,WBGene00012899,WBGene00012899,History: N.A.
+Transgenerational downregulated,WBGene00016080,WBGene00016080,WBGene00016080,History: N.A.
+Transgenerational downregulated,WBGene00011977,WBGene00011977,WBGene00011977,History: N.A.
+Transgenerational downregulated,WBGene00011850,WBGene00011850,WBGene00011850,History: N.A.
+Transgenerational downregulated,WBGene00017483,WBGene00017483,WBGene00017483,History: N.A.
+Transgenerational downregulated,WBGene00019591,WBGene00019591,WBGene00019591,History: N.A.
+Transgenerational downregulated,WBGene00011495,WBGene00011495,WBGene00011495,History: N.A.
+Transgenerational downregulated,WBGene00017423,WBGene00017423,WBGene00017423,History: N.A.
+Transgenerational downregulated,WBGene00011995,WBGene00011995,WBGene00011995,History: Renamed on 2013-01-22
+Transgenerational downregulated,WBGene00000425,WBGene00000425,WBGene00000425,History: N.A.
+Transgenerational downregulated,WBGene00001076,WBGene00001076,WBGene00001076,History: N.A.
+Transgenerational downregulated,WBGene00009156,WBGene00009156,WBGene00009156,History: N.A.
+Transgenerational downregulated,WBGene00013900,WBGene00013900,WBGene00013900,History: N.A.
+Transgenerational downregulated,WBGene00001377,WBGene00001377,WBGene00001377,History: N.A.
+Transgenerational downregulated,WBGene00017028,WBGene00017028,WBGene00017028,History: N.A.
+Transgenerational downregulated,WBGene00020368,WBGene00020368,WBGene00020368,History: N.A.
+Transgenerational downregulated,WBGene00021576,WBGene00021576,WBGene00021576,History: N.A.
+Transgenerational downregulated,WBGene00012398,WBGene00012398,WBGene00012398,History: N.A.
+Transgenerational downregulated,WBGene00000220,WBGene00000220,WBGene00000220,History: N.A.
+Transgenerational downregulated,WBGene00000453,WBGene00000453,WBGene00000453,History: N.A.
+Transgenerational downregulated,WBGene00000992,WBGene00000992,WBGene00000992,History: N.A.
+Transgenerational downregulated,WBGene00019310,WBGene00019310,WBGene00019310,History: N.A.
+Transgenerational downregulated,WBGene00013849,WBGene00013849,WBGene00013849,History: N.A.
+Transgenerational downregulated,WBGene00003890,WBGene00003890,WBGene00003890,History: N.A.
+Transgenerational downregulated,WBGene00009692,WBGene00009692,WBGene00009692,History: N.A.
+Transgenerational downregulated,WBGene00017571,WBGene00017571,WBGene00017571,History: Renamed on 2016-08-08
+Transgenerational downregulated,WBGene00021463,WBGene00021463,WBGene00021463,History: N.A.
+Transgenerational downregulated,WBGene00000516,WBGene00000516,WBGene00000516,History: N.A.
+Transgenerational downregulated,WBGene00003675,WBGene00003675,WBGene00003675,History: N.A.
+Transgenerational downregulated,WBGene00006752,WBGene00006752,WBGene00006752,History: N.A.
+Transgenerational downregulated,WBGene00021587,WBGene00021587,WBGene00021587,History: N.A.
+Transgenerational downregulated,WBGene00001006,WBGene00001006,WBGene00001006,History: N.A.
+Transgenerational downregulated,WBGene00006321,WBGene00006321,WBGene00006321,History: N.A.
+Transgenerational downregulated,WBGene00006853,WBGene00006853,WBGene00006853,History: N.A.
+Transgenerational downregulated,WBGene00006742,WBGene00006742,WBGene00006742,History: N.A.
+Transgenerational downregulated,WBGene00006424,WBGene00006424,WBGene00006424,History: Renamed on 2006-10-16
+Transgenerational downregulated,WBGene00001410,WBGene00001410,WBGene00001410,History: N.A.
+Transgenerational downregulated,WBGene00003516,WBGene00003516,WBGene00003516,History: N.A.
+Transgenerational downregulated,WBGene00019279,WBGene00019279,WBGene00019279,History: N.A.
+Transgenerational downregulated,WBGene00016841,WBGene00016841,WBGene00016841,History: N.A.
+Transgenerational downregulated,WBGene00001820,WBGene00001820,WBGene00001820,History: N.A.
+Transgenerational downregulated,WBGene00021439,WBGene00021439,WBGene00021439,History: N.A.
+Transgenerational downregulated,WBGene00019426,WBGene00019426,WBGene00019426,History: N.A.
+Transgenerational downregulated,WBGene00004773,WBGene00004773,WBGene00004773,History: N.A.
+Transgenerational downregulated,WBGene00014213,WBGene00014213,WBGene00014213,History: N.A.
+Transgenerational downregulated,WBGene00012443,WBGene00012443,WBGene00012443,History: N.A.
+Transgenerational downregulated,WBGene00021525,WBGene00021525,WBGene00021525,History: N.A.
+Transgenerational downregulated,WBGene00020801,WBGene00020801,WBGene00020801,History: N.A.
+Transgenerational downregulated,WBGene00044772,WBGene00044772,WBGene00044772,History: N.A.
+Transgenerational downregulated,WBGene00011321,WBGene00011321,WBGene00011321,History: N.A.
+Transgenerational downregulated,WBGene00012794,WBGene00012794,WBGene00012794,History: N.A.
+Transgenerational downregulated,WBGene00008666,WBGene00008666,WBGene00008666,History: N.A.
+Transgenerational downregulated,WBGene00002827,WBGene00002827,WBGene00002827,History: N.A.
+Transgenerational downregulated,WBGene00013934,WBGene00013934,WBGene00013934,History: N.A.
+Transgenerational downregulated,WBGene00001824,WBGene00001824,WBGene00001824,History: N.A.
+Transgenerational downregulated,WBGene00006412,WBGene00006412,WBGene00006412,History: Renamed on 2019-05-20
+Transgenerational downregulated,WBGene00009973,WBGene00009973,WBGene00009973,History: N.A.
+Transgenerational downregulated,WBGene00006811,WBGene00006811,WBGene00006811,History: N.A.
+Transgenerational downregulated,WBGene00020137,WBGene00020137,WBGene00020137,History: N.A.
+Transgenerational downregulated,WBGene00008779,WBGene00008779,WBGene00008779,History: N.A.
+Intergenerational downregulated,WBGene00012421,WBGene00012421,WBGene00012421,History: N.A.
+Intergenerational downregulated,WBGene00009698,WBGene00009698,WBGene00009698,History: N.A.
+Intergenerational downregulated,WBGene00008963,WBGene00008963,WBGene00008963,History: N.A.
+Intergenerational downregulated,WBGene00000958,WBGene00000958,WBGene00000958,"History: Split into C09E10.3(WBGene00303038). History of WBGene00000958: Split into ""WBGene00303038"" on 2018-03-02"
+Intergenerational downregulated,WBGene00016734,WBGene00016734,WBGene00016734,History: N.A.
+Intergenerational downregulated,WBGene00010290,WBGene00010290,WBGene00010290,History: Renamed on 2021-01-02
+Intergenerational downregulated,WBGene00002015,WBGene00002015,WBGene00002015,History: N.A.
+Intergenerational downregulated,WBGene00004212,WBGene00004212,WBGene00004212,History: N.A.
+Intergenerational downregulated,WBGene00007984,WBGene00007984,WBGene00007984,History: N.A.
+Intergenerational downregulated,WBGene00008971,WBGene00008971,WBGene00008971,History: N.A.
+Intergenerational downregulated,WBGene00022146,WBGene00022146,WBGene00022146,History: N.A.
+Intergenerational downregulated,WBGene00019490,WBGene00019490,WBGene00019490,History: N.A.
+Intergenerational downregulated,WBGene00011794,WBGene00011794,WBGene00011794,History: N.A.
+Intergenerational downregulated,WBGene00010175,WBGene00010175,WBGene00010175,History: N.A.
+Intergenerational downregulated,WBGene00044536,WBGene00044536,WBGene00044536,History: N.A.
+Intergenerational downregulated,WBGene00020156,WBGene00020156,WBGene00020156,History: N.A.
+Intergenerational downregulated,WBGene00022418,WBGene00022418,WBGene00022418,History: N.A.
+Intergenerational downregulated,WBGene00006652,WBGene00006652,WBGene00006652,History: N.A.
+Intergenerational downregulated,WBGene00014125,WBGene00014125,WBGene00014125,History: N.A.
+Intergenerational downregulated,WBGene00001958,WBGene00001958,WBGene00001958,History: N.A.
+Intergenerational downregulated,WBGene00002020,WBGene00002020,WBGene00002020,History: N.A.
+Intergenerational downregulated,WBGene00000561,WBGene00000561,WBGene00000561,History: N.A.
+Intergenerational downregulated,WBGene00003939,WBGene00003939,WBGene00003939,History: N.A.
+Intergenerational downregulated,WBGene00001251,WBGene00001251,WBGene00001251,History: N.A.
+Intergenerational downregulated,WBGene00016359,WBGene00016359,WBGene00016359,History: N.A.
+Intergenerational downregulated,WBGene00019563,WBGene00019563,WBGene00019563,History: N.A.
+Intergenerational downregulated,WBGene00016454,WBGene00016454,WBGene00016454,History: N.A.
+Intergenerational downregulated,WBGene00004257,WBGene00004257,WBGene00004257,History: N.A.
+Intergenerational downregulated,WBGene00022614,WBGene00022614,WBGene00022614,History: N.A.
+Intergenerational downregulated,WBGene00007064,WBGene00007064,WBGene00007064,History: N.A.
+Intergenerational downregulated,WBGene00003568,WBGene00003568,WBGene00003568,History: N.A.
+Intergenerational downregulated,WBGene00010628,WBGene00010628,WBGene00010628,History: N.A.
+Intergenerational downregulated,WBGene00003006,WBGene00003006,WBGene00003006,History: N.A.
+Intergenerational downregulated,WBGene00007317,WBGene00007317,WBGene00007317,History: N.A.
+Intergenerational downregulated,WBGene00002018,WBGene00002018,WBGene00002018,History: N.A.
+Intergenerational downregulated,WBGene00007592,WBGene00007592,WBGene00007592,History: N.A.
+Intergenerational downregulated,WBGene00009020,WBGene00009020,WBGene00009020,History: N.A.
+Intergenerational downregulated,WBGene00194650,WBGene00194650,WBGene00194650,History: N.A.
+Intergenerational downregulated,WBGene00006306,WBGene00006306,WBGene00006306,History: N.A.
+Intergenerational downregulated,WBGene00002016,WBGene00002016,WBGene00002016,History: N.A.
+Intergenerational downregulated,WBGene00011042,WBGene00011042,WBGene00011042,History: N.A.
+Intergenerational downregulated,WBGene00000981,WBGene00000981,WBGene00000981,History: N.A.
+Intergenerational downregulated,WBGene00020726,WBGene00020726,WBGene00020726,History: N.A.
+Intergenerational downregulated,WBGene00007325,WBGene00007325,WBGene00007325,History: N.A.
+Intergenerational downregulated,WBGene00010063,WBGene00010063,WBGene00010063,History: N.A.
+Intergenerational downregulated,WBGene00002233,WBGene00002233,WBGene00002233,History: N.A.
+Intergenerational downregulated,WBGene00019237,WBGene00019237,WBGene00019237,History: N.A.
+Intergenerational downregulated,WBGene00015647,WBGene00015647,WBGene00015647,History: N.A.
+Intergenerational downregulated,WBGene00001460,WBGene00001460,WBGene00001460,History: N.A.
+Intergenerational downregulated,WBGene00077490,WBGene00077490,WBGene00077490,History: N.A.
+Intergenerational downregulated,WBGene00020902,WBGene00020902,WBGene00020902,History: N.A.
+Intergenerational downregulated,WBGene00004950,WBGene00004950,WBGene00004950,History: N.A.
+Intergenerational downregulated,WBGene00045379,WBGene00045379,WBGene00045379,History: N.A.
+Intergenerational downregulated,WBGene00001821,WBGene00001821,WBGene00001821,History: N.A.
+Intergenerational downregulated,WBGene00010558,WBGene00010558,WBGene00010558,History: Renamed on 2023-07-10
+Intergenerational downregulated,WBGene00009343,WBGene00009343,WBGene00009343,History: Renamed on 2005-03-17
+Intergenerational downregulated,WBGene00000395,WBGene00000395,WBGene00000395,History: N.A.
+Intergenerational downregulated,WBGene00002017,WBGene00002017,WBGene00002017,History: N.A.
+Intergenerational downregulated,WBGene00016456,WBGene00016456,WBGene00016456,History: N.A.
+Intergenerational downregulated,WBGene00000832,WBGene00000832,WBGene00000832,History: N.A.
+Intergenerational downregulated,WBGene00004013,WBGene00004013,WBGene00004013,History: N.A.
+Intergenerational downregulated,WBGene00000437,WBGene00000437,WBGene00000437,History: N.A.
+Intergenerational downregulated,WBGene00003772,WBGene00003772,WBGene00003772,History: N.A.
+Intergenerational downregulated,WBGene00018403,WBGene00018403,WBGene00018403,History: N.A.
+Intergenerational downregulated,WBGene00002019,WBGene00002019,WBGene00002019,History: N.A.
+Intergenerational downregulated,WBGene00015163,WBGene00015163,WBGene00015163,"History: Split into B0361.14(WBGene00303033). History of WBGene00015163: Split into ""WBGene00303033"" on 2018-03-02"
+Intergenerational downregulated,WBGene00010893,WBGene00010893,WBGene00010893,History: N.A.
+Intergenerational downregulated,WBGene00004746,WBGene00004746,WBGene00004746,History: N.A.
+Intergenerational downregulated,WBGene00000457,WBGene00000457,WBGene00000457,History: N.A.
+Intergenerational downregulated,WBGene00016009,WBGene00016009,WBGene00016009,History: N.A.
+Intergenerational downregulated,WBGene00077756,WBGene00077756,WBGene00077756,History: N.A.
+Intergenerational downregulated,WBGene00006812,WBGene00006812,WBGene00006812,History: N.A.
+Intergenerational downregulated,WBGene00019927,WBGene00019927,WBGene00019927,History: N.A.
+Intergenerational downregulated,WBGene00011768,WBGene00011768,WBGene00011768,History: N.A.
+Intergenerational downregulated,WBGene00006615,WBGene00006615,WBGene00006615,History: N.A.
+Intergenerational downregulated,WBGene00006830,WBGene00006830,WBGene00006830,History: N.A.
+Intergenerational downregulated,WBGene00013145,WBGene00013145,WBGene00013145,History: N.A.
+Intergenerational downregulated,WBGene00016076,WBGene00016076,WBGene00016076,History: N.A.
+Intergenerational downregulated,WBGene00002181,WBGene00002181,WBGene00002181,History: N.A.
+Intergenerational downregulated,WBGene00004215,WBGene00004215,WBGene00004215,History: Renamed on 2015-07-01
+Intergenerational downregulated,WBGene00010944,WBGene00010944,WBGene00010944,History: N.A.
+Intergenerational downregulated,WBGene00249826,WBGene00249826,WBGene00249826,History: N.A.
+Intergenerational downregulated,WBGene00018606,WBGene00018606,WBGene00018606,History: N.A.
+Intergenerational downregulated,WBGene00019703,WBGene00019703,WBGene00019703,History: N.A.
+Intergenerational downregulated,WBGene00019597,WBGene00019597,WBGene00019597,"History: Split into K09H9.8(WBGene00045387). History of WBGene00019597: Split into ""WBGene00045387"" on 2007-04-27"
+Intergenerational downregulated,WBGene00044330,WBGene00044330,WBGene00044330,History: Renamed on 2005-08-26
+Intergenerational downregulated,WBGene00003380,WBGene00003380,WBGene00003380,History: N.A.
+Intergenerational downregulated,WBGene00013082,WBGene00013082,WBGene00013082,History: N.A.
+Intergenerational downregulated,WBGene00016546,WBGene00016546,WBGene00016546,History: N.A.
+Intergenerational downregulated,WBGene00044640,WBGene00044640,WBGene00044640,History: N.A.
+Intergenerational downregulated,WBGene00013847,WBGene00013847,WBGene00013847,History: N.A.
+Intergenerational downregulated,WBGene00008910,WBGene00008910,WBGene00008910,"History: Split into F17C8.9(WBGene00185014). History of WBGene00008910: Split into ""WBGene00185014"" on 2009-02-18"
+Intergenerational downregulated,WBGene00011089,WBGene00011089,WBGene00011089,History: N.A.
+Intergenerational downregulated,WBGene00017900,WBGene00017900,WBGene00017900,History: N.A.
+Intergenerational downregulated,WBGene00000476,WBGene00000476,WBGene00000476,History: N.A.
+Intergenerational downregulated,WBGene00006818,WBGene00006818,WBGene00006818,History: N.A.
+Intergenerational downregulated,WBGene00017838,WBGene00017838,WBGene00017838,History: N.A.
+Intergenerational downregulated,WBGene00007116,WBGene00007116,WBGene00007116,History: N.A.
+Intergenerational downregulated,WBGene00021167,WBGene00021167,WBGene00021167,History: N.A.
+Intergenerational downregulated,WBGene00009226,WBGene00009226,WBGene00009226,History: N.A.
+Intergenerational downregulated,WBGene00017390,WBGene00017390,WBGene00017390,"History: Split into F12A10.9(WBGene00077704). History of WBGene00017390: Split into ""WBGene00077704"" on 2008-04-08"
+Intergenerational downregulated,WBGene00016108,WBGene00016108,WBGene00016108,History: N.A.
+Intergenerational downregulated,WBGene00007958,WBGene00007958,WBGene00007958,History: N.A.
+Intergenerational downregulated,WBGene00000120,WBGene00000120,WBGene00000120,History: Renamed on 2005-04-27
+Intergenerational downregulated,WBGene00016894,WBGene00016894,WBGene00016894,History: N.A.
+Intergenerational downregulated,WBGene00015356,WBGene00015356,WBGene00015356,History: N.A.
+Intergenerational downregulated,WBGene00013683,WBGene00013683,WBGene00013683,History: Renamed on 2008-07-18
+Intergenerational downregulated,WBGene00019160,WBGene00019160,WBGene00019160,History: Renamed on 2016-10-26; Renamed on 2018-10-09
+Intergenerational downregulated,WBGene00045387,WBGene00045387,WBGene00045387,History: N.A.
+Intergenerational downregulated,WBGene00002261,WBGene00002261,WBGene00002261,History: N.A.
+Intergenerational downregulated,WBGene00007599,WBGene00007599,WBGene00007599,History: N.A.
+Intergenerational downregulated,WBGene00002085,WBGene00002085,WBGene00002085,History: N.A.
+Intergenerational downregulated,WBGene00000482,WBGene00000482,WBGene00000482,History: N.A.
+Intergenerational downregulated,WBGene00015523,WBGene00015523,WBGene00015523,History: N.A.
+Intergenerational downregulated,WBGene00004344,WBGene00004344,WBGene00004344,History: N.A.
+Intergenerational downregulated,WBGene00020735,WBGene00020735,WBGene00020735,History: N.A.
+Intergenerational downregulated,WBGene00010251,WBGene00010251,WBGene00010251,"History: Split into marc-1(WBGene00077696), F58E6.13(WBGene00077697). History of WBGene00010251: Split into ""WBGene00077697"" on 2008-03-27"
+Intergenerational downregulated,WBGene00001448,WBGene00001448,WBGene00001448,History: N.A.
+Intergenerational downregulated,WBGene00020130,WBGene00020130,WBGene00020130,History: N.A.
+Intergenerational downregulated,WBGene00000288,WBGene00000288,WBGene00000288,History: N.A.
+Intergenerational downregulated,WBGene00001249,WBGene00001249,WBGene00001249,History: N.A.
+Intergenerational downregulated,WBGene00021909,WBGene00021909,WBGene00021909,"History: Split into Y55B1BL.2(WBGene00303093). History of WBGene00021909: Split into ""WBGene00303093"" on 2018-03-02"
+Intergenerational downregulated,WBGene00003915,WBGene00003915,WBGene00003915,History: N.A.
+Intergenerational downregulated,WBGene00004910,WBGene00004910,WBGene00004910,History: Renamed on 2010-09-28
+Intergenerational downregulated,WBGene00010838,WBGene00010838,WBGene00010838,History: N.A.
+Intergenerational downregulated,WBGene00013882,WBGene00013882,WBGene00013882,History: N.A.
+Intergenerational downregulated,WBGene00004335,WBGene00004335,WBGene00004335,History: N.A.
+Intergenerational downregulated,WBGene00001434,WBGene00001434,WBGene00001434,History: N.A.
+Intergenerational downregulated,WBGene00021773,WBGene00021773,WBGene00021773,History: N.A.
+Intergenerational downregulated,WBGene00020010,WBGene00020010,WBGene00020010,History: N.A.
+Intergenerational downregulated,WBGene00008110,WBGene00008110,WBGene00008110,History: N.A.
+Intergenerational downregulated,WBGene00002128,WBGene00002128,WBGene00002128,History: N.A.
+Intergenerational downregulated,WBGene00000004,WBGene00000004,WBGene00000004,History: N.A.
+Intergenerational downregulated,WBGene00001440,WBGene00001440,WBGene00001440,History: N.A.
+Intergenerational downregulated,WBGene00008211,WBGene00008211,WBGene00008211,History: N.A.

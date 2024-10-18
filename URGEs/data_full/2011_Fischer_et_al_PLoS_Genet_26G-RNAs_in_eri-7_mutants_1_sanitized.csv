@@ -1,0 +1,95 @@
+# Table S3 1: a threshold of 10 RPM in wild type is used. if read number is lower, cell is left empty
+# Annotated features with ten or more reads per million total reads and depleted by 2/3 or more in eri-7.
+gene,gene name feature,chromosome,position (start),position (end),target description,total reads per million_embryo_N2,total reads per million_embryo_eri-1(mg366),total reads per million_embryo_eri-7(mg369),total reads per million_embryo_eri-6(mg379),total reads per million_embryo_ergo-1(tm1860),fraction of wild type_embryo_eri-1(mg366),fraction of wild type_embryo_eri-7(mg369),fraction of wild type_embryo_eri-6(mg379),fraction of wild type_embryo_ergo-1(tm1860),total reads per million_adult_N2,total reads per million_adult_eri-7(mg369),fraction of wild type_adult_eri-7(mg369),fold change,Input,Suggested Match,History
+ZC132.4,,I,846748.0,841839.0,gene,40.34,1.11,0.47,0.31,1.66,0.03,0.01,0.01,0.04,37.0,3.0,0.07,0.01,ZC132.4,,Sequence name for Suppressed gene WBGene00022523. Molecular name for Suppressed gene WBGene00022523. Public name for Suppressed gene WBGene00022523. History of WBGene00022523: N.A.. Remark: This gene was determined to be of Transposon in origin so has been supressed from the protein set. Detailed information about the origin of this gene can be found in the corresponding Transposon object associated with this gene.
+H15N14.4,,I,7779414.0,7779615.0,pseudogene,17.02,1.35,1.07,0.56,0.98,0.08,0.06,0.03,0.06,14.0,3.0,0.18,0.03,H15N14.4,WBGene00077552,Public name for WBGene00077552. History: N.A.
+VH15N14R.1,,I,7781173.0,7782543.0,gene,29.54,4.04,3.01,1.52,2.68,0.14,0.1,0.05,0.09,37.0,8.0,0.22,0.05,VH15N14R.1,WBGene00012151,Public name for WBGene00012151. History: N.A.
+F49D11.4,,I,10913190.0,10915544.0,gene,46.08,0.49,0.06,0.09,0.14,0.01,0.0,0.0,0.0,89.0,1.0,0.01,0.0,F49D11.4,WBGene00018628,Public name for WBGene00018628. History: N.A.
+T02G6.4,,I,11808933.0,11814864.0,gene,64.95,0.97,0.5,0.18,7.0,0.01,0.01,0.0,0.11,,,,0.0,T02G6.4,WBGene00011387,Public name for WBGene00011387. History: N.A.
+T02G6.10,,I,11825089.0,11825426.0,pseudogene,21.05,0.35,0.11,0.0,1.79,0.02,0.01,0.0,0.09,13.0,0.0,0.01,0.0,T02G6.10,WBGene00077772,Public name for WBGene00077772. History: N.A.
+C01A2.1,,I,13408786.0,13411440.0,gene,419.45,11.48,12.7,5.11,54.25,0.03,0.03,0.01,0.13,,,,0.01,C01A2.1,WBGene00007213,Public name for WBGene00007213. History: N.A.
+W05H12.2,,I,13411786.0,13412868.0,gene,206.41,27.6,28.73,8.95,37.06,0.13,0.14,0.04,0.18,,,,0.04,W05H12.2,WBGene00012290,Public name for WBGene00012290. History: N.A.
+F49B2.3,,I,14310997.0,14312859.0,gene,34.46,2.35,1.42,0.47,2.75,0.07,0.04,0.01,0.08,,,,0.01,F49B2.3,WBGene00009863,Public name for WBGene00009863. History: N.A.
+K01A2.8,mps-2,II,309482.0,312210.0,gene,109.01,2.86,1.32,0.84,0.75,0.03,0.01,0.01,0.01,20.0,1.0,0.04,0.01,K01A2.8,WBGene00019282,Sequence name for WBGene00019282(mps-2). History: N.A.
+Y51H7C.15,,II,1459147.0,1461314.0,gene,26.16,2.67,1.91,1.62,1.64,0.1,0.07,0.06,0.06,23.0,5.0,0.21,0.06,Y51H7C.15,WBGene00044439,Public name for WBGene00044439. History: N.A.
+T16A1.8,fbxb-37,II,2091748.0,2093854.0,gene,322.08,12.84,7.11,1.69,214.08,0.04,0.02,0.01,0.66,,,,0.01,T16A1.8,WBGene00020537,"Sequence name for WBGene00020537(fbxb-37). History: Split into T16A1.10(WBGene00269431). History of WBGene00020537: Split into ""WBGene00269431"" on 2016-04-19"
+T16A1.9,,II,2094626.0,2094802.0,retrotransposon,419.8,5.08,0.85,0.33,46.6,0.01,0.0,0.0,0.11,40.0,2.0,0.04,0.0,T16A1.9,,Sequence name for Suppressed gene WBGene00020538. Molecular name for Suppressed gene WBGene00020538. Public name for Suppressed gene WBGene00020538. History of WBGene00020538: Suppressed on 2005-12-12. Remark: This gene was determined to be of Transposon in origin so has been removed from the C. elegans protein set. Detailed information about the origin of this gene can be found in the corresponding Transposon object associated with this gene.
+C40A11.10,,II,2136537.0,2137305.0,gene,275.81,2.76,0.57,0.06,22.5,0.01,0.0,0.0,0.08,37.0,2.0,0.04,0.0,C40A11.10,WBGene00016553,Sequence name for WBGene00016553(mir-8199). History: N.A.
+F22E5.3,gcy-21,II,2659675.0,2665027.0,gene,14.53,0.69,0.85,0.32,0.29,0.05,0.06,0.02,0.02,,,,0.02,F22E5.3,WBGene00001546,Sequence name for WBGene00001546(gcy-21). History: N.A.
+K08A2.1,,II,2997024.0,3000656.0,gene,14.66,2.65,4.01,1.51,2.51,0.18,0.27,0.1,0.17,,,,0.1,K08A2.1,WBGene00019511,Sequence name for WBGene00019511(lido-8). History: N.A.
+F39E9.10,,II,3302765.0,3303754.0,gene,697.92,16.39,6.65,2.16,184.64,0.02,0.01,0.0,0.26,526.0,18.0,0.03,0.0,F39E9.10,WBGene00023036,Public name for WBGene00023036. History: N.A.
+F39E9.7,,II,3306151.0,3307507.0,gene,926.09,14.94,3.69,1.63,219.34,0.02,0.0,0.0,0.24,326.0,6.0,0.02,0.0,F39E9.7,WBGene00018199,Public name for WBGene00018199. History: N.A.
+F39E9.6,,II,3310291.0,3311933.0,gene,450.85,20.09,12.17,5.71,44.02,0.04,0.03,0.01,0.1,369.0,45.0,0.12,0.01,F39E9.6,WBGene00018198,Public name for WBGene00018198. History: N.A.
+F39E9.1,,II,3318306.0,3319810.0,gene,21.93,0.52,0.43,0.37,3.12,0.02,0.02,0.02,0.14,192.0,3.0,0.02,0.02,F39E9.1,WBGene00018194,"Public name for WBGene00018194. History: Split into ""WBGene00195075"" on 2010-04-22"
+Y9D1A.2,,II,7450468.0,7451335.0,gene,12.65,0.33,0.15,0.1,0.14,0.03,0.01,0.01,0.01,,,,0.01,Y9D1A.2,WBGene00021187,Public name for WBGene00021187. History: N.A.
+Y57A10A.15,polg-1,II,12189813.0,12199895.0,gene,14.2,3.63,2.98,0.98,1.66,0.26,0.21,0.07,0.12,,,,0.07,Y57A10A.15,WBGene00013258,Sequence name for WBGene00013258(polg-1). History: N.A.
+E01G4.5,,II,13472361.0,13473853.0,gene,619.2,7.21,1.39,0.84,70.83,0.01,0.0,0.0,0.11,343.0,5.0,0.02,0.0,E01G4.5,WBGene00008447,Public name for WBGene00008447. History: N.A.
+E01G4.7,,II,13477401.0,13478859.0,pseudogene,84.36,2.94,0.95,0.46,59.43,0.03,0.01,0.01,0.7,93.0,4.0,0.05,0.01,E01G4.7,WBGene00045410,Public name for WBGene00045410. History: N.A.
+Y53F4B.24,,II,15042729.0,15043935.0,gene,16.37,1.14,1.03,0.41,2.51,0.07,0.06,0.02,0.15,,,,0.02,Y53F4B.24,WBGene00013170,"Public name for WBGene00013170. History: Split into Y53F4B.62(WBGene00219491), Y53F4B.63(WBGene00219492). History of WBGene00013170: Split into ""WBGene00219491"" on 2012-05-18; Split into ""WBGene00219492"" on 2012-05-18"
+Y53F4B.15/Y53F4B.45  ,asc-1/probable non-coding RNA,II,15126498.0,15133945.0,gene/probable non-coding RNA,20.98,3.26,0.58,0.98,1.27,0.16,0.03,0.05,0.06,56.0,5.0,0.08,0.03,,,
+W04B5.2,,III,2424345.0,2427728.0,gene,263.46,4.02,1.25,0.64,43.23,0.02,0.0,0.0,0.16,778.0,8.0,0.01,0.0,W04B5.2,WBGene00021019,"Public name for WBGene00021019. History: Split into W04B5.8(WBGene00306003). History of WBGene00021019: Split into ""WBGene00306003"" on 2020-01-20"
+W04B5.1,,III,2428184.0,2429360.0,gene,18.64,0.22,0.11,0.11,1.5,0.01,0.01,0.01,0.08,122.0,1.0,0.0,0.0,W04B5.1,WBGene00021018,Public name for WBGene00021018. History: N.A.
+W04B5.6,,III,2433540.0,2435217.0,gene,27.57,0.11,0.19,0.06,3.77,0.0,0.01,0.0,0.14,15.0,0.0,0.01,0.0,W04B5.6,WBGene00021023,Public name for WBGene00021023. History: N.A.
+E02H9.6,,III,2436095.0,2442318.0,gene,52.39,0.44,0.49,0.11,6.28,0.01,0.01,0.0,0.12,31.0,0.0,0.01,0.0,E02H9.6,WBGene00017104,Public name for WBGene00017104. History: N.A.
+C44B11.6,,III,3152728.0,3153464.0,gene,27.58,0.54,0.74,0.84,4.22,0.02,0.03,0.03,0.15,403.0,5.0,0.01,0.01,C44B11.6,WBGene00016635,Public name for WBGene00016635. History: N.A.
+Y37E11B.2,,IV,3578441.0,3579391.0,gene,132.85,1.81,1.25,0.61,8.18,0.01,0.01,0.0,0.06,34.0,0.0,0.01,0.0,Y37E11B.2,WBGene00021375,Public name for WBGene00021375. History: N.A.
+T08B6.2,,IV,4894364.0,4897097.0,pseudogene,21.25,0.59,0.38,0.5,2.03,0.03,0.02,0.02,0.1,137.0,3.0,0.02,0.02,T08B6.2,WBGene00020352,Public name for WBGene00020352. History: N.A.
+Y59H11AR.6,,IV,8597749.0,8598714.0,pseudogene,383.92,39.64,53.67,15.12,133.93,0.1,0.14,0.04,0.35,2967.0,153.0,0.05,0.04,Y59H11AR.6,WBGene00077437,Public name for WBGene00077437. History: N.A.
+"Y24F12A.3, .4",,IV,11608877.0,11610277.0,gene/pseudogene,37.79,3.71,2.73,1.32,1.88,0.1,0.07,0.03,0.05,37.0,6.0,0.16,0.03,,,
+Y105C5A.14,,IV,15646938.0,15648266.0,pseudogene,310.47,32.31,38.08,8.75,40.47,0.1,0.12,0.03,0.13,98.0,10.0,0.1,0.03,Y105C5A.14,WBGene00013638,"Public name for WBGene00013638. History: Split into Y105C5A.1268(WBGene00185102). History of WBGene00013638: Split into ""WBGene00185102"" on 2009-03-13"
+Y105C5A.25,,IV,15860189.0,15861410.0,pseudogene,58.36,3.46,2.79,0.45,8.07,0.06,0.05,0.01,0.14,,,,0.01,Y105C5A.25,WBGene00013644,Public name for WBGene00013644. History: N.A.
+C35D6.3,,IV,16347136.0,16347398.0,gene,13.71,0.43,0.4,0.06,2.67,0.03,0.03,0.0,0.19,,,,0.0,C35D6.3,WBGene00007960,Public name for WBGene00007960. History: N.A.
+Y116A8B.1,,IV,17216264.0,17217336.0,gene,409.99,13.62,11.99,5.34,57.31,0.03,0.03,0.01,0.14,81.0,25.0,0.31,0.01,Y116A8B.1,WBGene00013779,Public name for WBGene00013779. History: N.A.
+Y46H3C.7,,V,1692561.0,1693510.0,gene,13.2,1.56,1.32,0.21,0.98,0.12,0.1,0.02,0.07,,,,0.02,Y46H3C.7,WBGene00021607,Public name for WBGene00021607. History: N.A.
+F41F3.6,srx-74,V,4658940.0,4662486.0,gene,10.42,0.4,0.24,0.04,1.96,0.04,0.02,0.0,0.19,,,,0.0,F41F3.6,WBGene00005965,Sequence name for WBGene00005965(srx-74). History: N.A.
+CD4.8,,V,5599260.0,5601313.0,gene,124.55,8.78,6.87,2.05,8.84,0.07,0.06,0.02,0.07,170.0,44.0,0.26,0.02,CD4.8,WBGene00016993,Public name for WBGene00016993. History: N.A.
+F29G9.1,,V,6038890.0,6040565.0,gene,11.98,1.77,0.86,0.24,0.93,0.15,0.07,0.02,0.08,17.0,5.0,0.29,0.02,F29G9.1,WBGene00017930,Public name for WBGene00017930. History: N.A.
+H37A05.4,,V,13646872.0,13648385.0,gene,27.49,1.92,1.35,0.74,0.96,0.07,0.05,0.03,0.03,20.0,3.0,0.15,0.03,H37A05.4,WBGene00044200,Public name for WBGene00044200. History: N.A.
+T05E12.8,,V,17068585.0,17069509.0,gene,77.36,0.7,0.34,0.0,28.05,0.01,0.0,0.0,0.36,15.0,0.0,0.01,0.0,T05E12.8,WBGene00045382,Public name for WBGene00045382. History: N.A.
+T05E12.10,,V,17072778.0,17073436.0,gene,42.1,1.48,1.91,0.58,8.0,0.04,0.05,0.01,0.19,25.0,6.0,0.25,0.01,T05E12.10,WBGene00077787,Public name for WBGene00077787. History: N.A.
+Y17D7C.1,,V,18707956.0,18708335.0,gene,53.7,1.34,0.32,0.31,6.02,0.02,0.01,0.01,0.11,22.0,1.0,0.05,0.01,Y17D7C.1,WBGene00012455,"Public name for WBGene00012455. History: Split into Y17D7C.6(WBGene00194680). History of WBGene00012455: Split into ""WBGene00194680"" on 2009-06-15"
+Y17D7C.3,,V,18720561.0,18723743.0,pseudogene,2792.74,34.7,9.78,3.38,142.1,0.01,0.0,0.0,0.05,485.0,33.0,0.07,0.0,Y17D7C.3,WBGene00045366,Public name for WBGene00045366. History: N.A.
+ZK384.4,,V,18736722.0,18736741.0,pseudogene,19.0,1.0,0,0.0,0.0,0.05,0.0,0.0,0.0,318.0,3.0,0.01,0.0,ZK384.4,,Public name for Dead gene WBGene00014985. History of WBGene00014985: Killed on 2016-02-22. Remark: lack of evidence
+Y17D7B.4,,V,18776171.0,18780188.0,gene,33.23,0.7,0,0.0,2.4,0.02,0.0,0.0,0.07,248.0,3.0,0.01,0.0,Y17D7B.4,WBGene00012452,Public name for WBGene00012452. History: N.A.
+F55C9.3,,V,19286980.0,19288130.0,gene,527.38,7.21,1.5,0.91,150.46,0.01,0.0,0.0,0.29,141.0,1.0,0.01,0.0,F55C9.3,WBGene00010100,Public name for WBGene00010100. History: N.A.
+F55C9.5,,V,19290590.0,19291352.0,gene,393.66,3.3,0.68,0.11,62.47,0.01,0.0,0.0,0.16,65.0,1.0,0.01,0.0,F55C9.5,WBGene00010102,Public name for WBGene00010102. History: N.A.
+Y43F8B.9,,V,19479174.0,19480436.0,gene,12.83,0.35,0,0.0,2.73,0.03,0.0,0.0,0.21,13.0,0.0,0.01,0.0,Y43F8B.9,WBGene00012819,Public name for WBGene00012819. History: N.A.
+Y43F8B.8,,V,19483608.0,19483866.0,pseudogene,66.38,0.7,0.17,0.06,0.37,0.01,0.0,0.0,0.01,31.0,0.0,0.01,0.0,Y43F8B.8,WBGene00014888,Public name for WBGene00014888. History: N.A.
+Y43F8B.17,,V,19484806.0,19485843.0,pseudogene,45.08,0.54,0.23,0.17,0.35,0.01,0.01,0.0,0.01,34.0,0.0,0.01,0.0,Y43F8B.17,WBGene00050910,"Public name for WBGene00050910. History: Split into Y43F8B.28(WBGene00219302). History of WBGene00050910: Split into ""WBGene00219302"" on 2011-10-17"
+Y116F11A.1,,V,19730558.0,19732135.0,gene,80.63,1.32,0.35,0.19,5.14,0.02,0.0,0.0,0.06,16.0,1.0,0.06,0.0,Y116F11A.1,WBGene00013816,Public name for WBGene00013816. History: N.A.
+Y60A3A.27,,V,19962473.0,19964426.0,retrotransposon,241.41,3.89,1.19,1.73,1.41,0.02,0.0,0.01,0.01,21.0,5.0,0.25,0.0,Y60A3A.27,,Sequence name for Suppressed gene WBGene00045512. Molecular name for Suppressed gene WBGene00045512. Public name for Suppressed gene WBGene00045512. History of WBGene00045512: Killed on 2011-05-23; Suppressed on 2013-07-30. Remark: This gene was determined to be of Transposon in origin so has been removed from the C. elegans protein set. Detailed information about the origin of this gene can be found in the corresponding Transposon object associated with this gene.
+K02E2.6,,V,20380549.0,20382005.0,retrotransposon,132.16,1.73,2.66,0.28,8.6,0.01,0.02,0.0,0.07,420.0,8.0,0.02,0.0,K02E2.6,WBGene00010507,Public name for WBGene00010507. History: N.A.
+K02E2.11,,V,20383331.0,20384373.0,gene,122.17,6.86,5.15,1.06,7.43,0.06,0.04,0.01,0.06,215.0,19.0,0.09,0.01,K02E2.11,WBGene00185118,Public name for WBGene00185118. History: N.A.
+F55A4.4,,X,1024479.0,1026173.0,gene,50.48,1.13,0.21,0.17,11.01,0.02,0.0,0.0,0.22,19.0,0.0,0.02,0.0,F55A4.4,WBGene00018856,Public name for WBGene00018856. History: N.A.
+ZK402.5,,X,1398819.0,1400746.0,gene,57.05,1.65,1.14,0.56,4.49,0.03,0.02,0.01,0.08,112.0,9.0,0.08,0.01,ZK402.5,WBGene00022731,Public name for WBGene00022731. History: N.A.
+ZK402.3,,X,1402212.0,1402855.0,gene,70.21,0.86,0.62,0.29,5.6,0.01,0.01,0.0,0.08,147.0,3.0,0.02,0.0,ZK402.3,WBGene00022730,Public name for WBGene00022730. History: N.A.
+ZK402.2,,X,1403739.0,1404112.0,gene,30.36,0.54,0.21,0.1,2.3,0.02,0.01,0.0,0.08,45.0,1.0,0.02,0.0,ZK402.2,WBGene00022729,Public name for WBGene00022729. History: N.A.
+ZK402.1,,X,1404266.0,1406096.0,gene,84.19,1.19,0.76,0.49,6.37,0.01,0.01,0.01,0.08,37.0,6.0,0.18,0.01,ZK402.1,WBGene00022728,Public name for WBGene00022728. History: N.A.
+ZK380.5,,X,1647986.0,1649232.0,gene,30.82,0.57,0.2,0.16,4.6,0.02,0.01,0.01,0.15,69.0,1.0,0.02,0.01,ZK380.5,WBGene00044559,Public name for WBGene00044559. History: N.A.
+F07G6.6,fbxa-52,X,1710288.0,1711207.0,gene,37.86,0.35,0.22,0.08,3.69,0.01,0.01,0.0,0.1,75.0,1.0,0.01,0.0,F07G6.6,WBGene00017225,Sequence name for WBGene00017225(fbxa-52). History: N.A.
+F31A9.4,fbxc-37,X,1779433.0,1780522.0,gene,197.68,23.95,24.78,3.39,32.89,0.12,0.13,0.02,0.17,,,,0.02,F31A9.4,WBGene00017942,Sequence name for WBGene00017942(fbxc-37). History: N.A.
+F52D2.6,,X,1974907.0,1980931.0,gene,259.78,3.64,2.71,0.91,44.5,0.01,0.01,0.0,0.17,58.0,7.0,0.12,0.0,F52D2.6,WBGene00018688,"Public name for WBGene00018688. History: Split into F52D2.12(WBGene00219451). History of WBGene00018688: Split into ""WBGene00219451"" on 2012-04-20"
+F52D2.8,fbxa-46,X,1983708.0,1984827.0,gene,116.46,0.99,0.37,0.19,6.33,0.01,0.0,0.0,0.05,29.0,1.0,0.03,0.0,F52D2.8,WBGene00018690,Sequence name for WBGene00018690(fbxa-46). History: N.A.
+C02B8.2,fbxc-38,X,8144384.0,8144978.0,gene,72.03,5.17,3.9,0.67,9.65,0.07,0.05,0.01,0.13,26.0,9.0,0.32,0.01,C02B8.2,WBGene00015321,Sequence name for WBGene00015321(fbxc-38). History: N.A.
+21ur-9719,,X,9072339.0,9072359.0,21U RNA,14.53,0.05,0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,21ur-9719,WBGene00170306,Public name for WBGene00170306. History: N.A.
+F46C3.7,,X,11439975.0,11440587.0,gene,11.79,1.98,0.21,1.05,1.05,0.17,0.02,0.09,0.09,,,,0.02,F46C3.7,WBGene00164974,Public name for WBGene00164974. History: N.A.
+T24D5.6,,X,12602960.0,12603992.0,gene,11.7,0.26,0.64,0.06,0.56,0.02,0.06,0.0,0.05,10.0,2.0,0.23,0.0,T24D5.6,WBGene00044149,"Public name for WBGene00044149. History: Split into T24D5.11(WBGene00219279). History of WBGene00044149: Split into ""WBGene00219279"" on 2011-10-03"
+C11G6.2,,X,16329145.0,16329925.0,gene,28.75,0.38,0.06,0.06,1.34,0.01,0.0,0.0,0.05,,,,0.0,C11G6.2,WBGene00007523,Public name for WBGene00007523. History: N.A.
+Y13C8A.1,,X,16883600.0,16884468.0,gene,12.29,1.38,0.79,0.26,1.55,0.11,0.06,0.02,0.13,15.0,3.0,0.21,0.02,Y13C8A.1,WBGene00021188,Public name for WBGene00021188. History: N.A.
+F39F10.4,,X,16902318.0,16904259.0,gene,108.03,2.08,1.74,0.22,11.86,0.02,0.02,0.0,0.11,45.0,7.0,0.16,0.0,F39F10.4,WBGene00018204,Public name for WBGene00018204. History: N.A.
+T25G12.8,,X,17238017.0,17238787.0,retrotransposon,115.67,2.32,0.91,0.22,5.61,0.02,0.01,0.0,0.05,66.0,2.0,0.03,0.0,T25G12.8,,Sequence name for Suppressed gene WBGene00020814. Molecular name for Suppressed gene WBGene00020814. Public name for Suppressed gene WBGene00020814. History of WBGene00020814: Suppressed on 2007-07-26. Remark: This gene was determined to be of Transposon in origin so has been removed from the C. elegans protein set. Detailed information about the origin of this gene can be found in the corresponding Transposon object associated with this gene.
+T25G12.2,,X,17243193.0,17248731.0,gene,206.6,2.85,2.02,0.62,47.14,0.01,0.01,0.0,0.23,52.0,4.0,0.07,0.0,T25G12.2,WBGene00020809,"Public name for Dead gene WBGene00020810. History of WBGene00020810: Merged into ""WBGene00020809"" on 2018-11-14"
+B0001.6,,,,,gene,,, ,,,,,,,86.0,4.0,0.05,0.05,B0001.6,WBGene00007091,Sequence name for WBGene00007091(eri-12). History: N.A.
+C04F12.9,rnh-1.3,,,,gene; RNaseH,,,,,,,,,,331.0,90.0,0.27,0.27,C04F12.9,WBGene00007303,Sequence name for WBGene00007303(rnh-1.3). History: N.A.
+C18D4.4,,,,,gene,,,,,,,,,,28.0,1.0,0.03,0.03,C18D4.4,WBGene00007674,"Public name for WBGene00007674. History: Split into C18D4.12(WBGene00219493). History of WBGene00007674: Split into ""WBGene00219493"" on 2012-05-18"
+C36A4.11,,,,,gene,,,,,,,,,,84.0,1.0,0.01,0.01,C36A4.11,WBGene00044167,Public name for WBGene00044167. History: N.A.
+C45E1.1,nhr-64,,,,gene,,,,,,,,,,29.0,6.0,0.19,0.19,C45E1.1,WBGene00003654,Sequence name for WBGene00003654(nhr-64). History: N.A.
+F14F7.5,,,,,gene,,,,,,,,,,13.0,0.0,0.01,0.01,F14F7.5,WBGene00008812,"Public name for WBGene00008812. History: Split into F14F7.7(WBGene00206390). History of WBGene00008812: Split into ""WBGene00206390"" on 2011-01-21"
+F49E11.2,,,,,gene,,,,,,,,,,10.0,3.0,0.3,0.3,F49E11.2,WBGene00009889,Public name for WBGene00009889. History: N.A.
+F59A1.9,fbxa-193,,,,gene,,,,,,,,,,358.0,83.0,0.23,0.23,F59A1.9,WBGene00010295,Sequence name for WBGene00010295(fbxa-193). History: N.A.
+H09G03.1,,,,,gene,,,,,,,,,,192.0,2.0,0.01,0.01,H09G03.1,WBGene00019174,"Public name for WBGene00019174. History: Split into H09G03.4(WBGene00305995), H09G03.5(WBGene00305996). History of WBGene00019174: Split into ""WBGene00305995"" on 2020-01-20; Split into ""WBGene00305996"" on 2020-01-20"
+K06B9.6,,,,,gene,,,,,,,,,,84.0,1.0,0.01,0.01,K06B9.6,WBGene00044478,Public name for WBGene00044478. History: N.A.
+R102.4,,,,,gene,,,,,,,,,,18.0,5.0,0.28,0.28,R102.4,WBGene00011291,Public name for WBGene00011291. History: N.A.
+Y119D3B.8,fbxa-61,,,,gene,,,,,,,,,,73.0,1.0,0.02,0.02,Y119D3B.8,WBGene00022486,Sequence name for WBGene00022486(fbxa-61). History: N.A.
+Y17D7B.7,,,,,pseudogene,,,,,,,,,,116.0,3.0,0.03,0.03,Y17D7B.7,WBGene00014562,Public name for WBGene00014562. History: N.A.
+Y43F8B.7,,,,,pseudogene,,,,,,,,,,15.0,1.0,0.07,0.07,Y43F8B.7,WBGene00012818,Public name for WBGene00012818. History: N.A.

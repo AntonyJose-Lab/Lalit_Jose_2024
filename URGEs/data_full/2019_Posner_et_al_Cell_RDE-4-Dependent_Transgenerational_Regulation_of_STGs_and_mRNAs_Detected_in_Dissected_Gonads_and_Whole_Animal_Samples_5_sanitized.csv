@@ -1,0 +1,42 @@
+# DESeq2 fold-change values (Psng-1::rde-4 vs rde-4(-)) of mRNA and STGs for genes that displayed differential mRNA levels in the germline. ZFP-1/DOT-1.1 regulated genes were determined according to data from Cecere et al,2013
+genes,mRNA P0,STGs P0,Regulated by ZFP-1/DOT-1.1?,Input,Suggested Match,History
+saeg-2,-3.117005957,2.331541893,yes,saeg-2,WBGene00011964,Public name for WBGene00011964. History: N.A.
+Y102A5C.5,-3.06910179,1.252137459,,Y102A5C.5,WBGene00014954,Public name for WBGene00014954. History: N.A.
+K10G9.2,-2.450890372,-0.840073668,yes,K10G9.2,WBGene00010756,Public name for WBGene00010756. History: N.A.
+tag-344,-1.913011652,-1.645793668,,tag-344,WBGene00015230,Public name for WBGene00015230. History: N.A.
+R01H10.4,-1.912155767,-1.551506433,,R01H10.4,WBGene00010972,Public name for WBGene00010972. History: N.A.
+Y46G5A.43,-1.801236782,0.6492481,,Y46G5A.43,WBGene00077636,Public name for WBGene00077636. History: N.A.
+Y41C4A.11,-1.670374435,-0.92941131,,Y41C4A.11,WBGene00012757,"Public name for WBGene00012757. History: Split into Y41C4A.32(WBGene00270321). History of WBGene00012757: Split into ""WBGene00270321"" on 2016-08-31"
+T28F2.1,-1.611674213,-3.068668338,,T28F2.1,WBGene00020900,Public name for WBGene00020900. History: N.A.
+Y55F3BR.2,-1.552055954,0.883658324,yes,Y55F3BR.2,WBGene00021939,Public name for WBGene00021939. History: N.A.
+Y41C4A.12,-1.544384339,1.315596849,,Y41C4A.12,WBGene00012758,Public name for WBGene00012758. History: N.A.
+Y49E10.5,-1.466061293,-0.583051437,,Y49E10.5,WBGene00014902,Public name for WBGene00014902. History: N.A.
+ceh-20,-1.412761999,0.907088725,yes,ceh-20,WBGene00000443,Public name for WBGene00000443. History: N.A.
+T21C12.8,-1.32145998,-0.827730822,,T21C12.8,WBGene00043998,Public name for WBGene00043998. History: N.A.
+nhr-239,-1.301659706,-1.159463603,,nhr-239,WBGene00021848,Public name for WBGene00021848. History: N.A.
+saeg-1,-1.275802391,1.237052987,yes,saeg-1,WBGene00010012,Public name for WBGene00010012. History: N.A.
+fbxa-125,-1.256118589,-1.224599526,,fbxa-125,WBGene00015229,Public name for WBGene00015229. History: N.A.
+Y54F10AM.11,-1.173393327,0.733181393,,Y54F10AM.11,WBGene00021853,Public name for WBGene00021853. History: N.A.
+T01D3.1,-1.173297695,-0.797349487,,T01D3.1,WBGene00011326,"Public name for WBGene00011326. History: Split into ""WBGene00045409"" on 2007-05-02"
+B0511.11,-1.160353643,-1.021333269,,B0511.11,WBGene00015236,Public name for WBGene00015236. History: N.A.
+C46G7.5,-1.151664212,2.244759352,,C46G7.5,WBGene00044502,Public name for WBGene00044502. History: N.A.
+pah-1,-0.989302014,-1.140133752,,pah-1,WBGene00000240,Public name for WBGene00000240. History: N.A.
+sqt-3,-0.988815571,-0.953915363,yes,sqt-3,WBGene00005018,Public name for WBGene00005018. History: Renamed on 2005-08-23
+T11F9.10,-0.938456737,-0.719742127,,T11F9.10,WBGene00011712,Public name for WBGene00011712. History: N.A.
+col-38,-0.839938534,-1.504596461,,col-38,WBGene00000615,Public name for WBGene00000615. History: N.A.
+Y102A5C.6,-0.831414272,2.657915834,,Y102A5C.6,WBGene00014955,Public name for WBGene00014955. History: N.A.
+asd-2,-0.744606944,-0.791561037,yes,asd-2,WBGene00006423,Public name for WBGene00006423. History: Renamed on 2015-03-05
+F33H2.3,-0.689558481,-0.571393361,yes,F33H2.3,WBGene00009367,Public name for WBGene00009367. History: N.A.
+mdt-26,0.50441169,0.327783091,yes,mdt-26,WBGene00016115,Public name for WBGene00016115. History: N.A.
+hpo-24,0.677631894,0.711088233,yes,hpo-24,WBGene00011945,Other name for WBGene00011945(alg-5). History: N.A.
+his-61,0.953801294,0.812575717,yes,his-61,WBGene00001935,Public name for WBGene00001935. History: N.A.
+his-31,0.961948341,0.57576682,yes,his-31,WBGene00001905,Public name for WBGene00001905. History: N.A.
+T20F7.1,1.002693163,0.557106898,yes,T20F7.1,WBGene00020630,Public name for WBGene00020630. History: N.A.
+C17H11.2,1.086438953,0.909319844,yes,C17H11.2,WBGene00015922,Public name for WBGene00015922. History: N.A.
+cls-3,1.204521126,0.925610516,yes,cls-3,WBGene00013847,Public name for WBGene00013847. History: N.A.
+his-56,1.440837164,0.642665813,,his-56,WBGene00001930,Public name for WBGene00001930. History: N.A.
+his-45,1.751598677,1.915753673,,his-45,WBGene00001919,Public name for WBGene00001919. History: N.A.
+his-64,1.862592773,0.656040716,yes,his-64,WBGene00001938,Public name for WBGene00001938. History: N.A.
+his-59,1.887406614,0.838198628,yes,his-59,WBGene00001933,Public name for WBGene00001933. History: N.A.
+his-63,2.138994821,1.458723373,yes,his-63,WBGene00001937,Public name for WBGene00001937. History: N.A.
+C32D5.8,3.697483124,1.496082151,,C32D5.8,WBGene00016316,Public name for WBGene00016316. History: N.A.

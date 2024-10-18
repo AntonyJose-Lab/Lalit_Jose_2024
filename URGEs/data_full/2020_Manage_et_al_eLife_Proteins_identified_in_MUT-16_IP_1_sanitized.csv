@@ -1,0 +1,1044 @@
+gene,Unnamed: 1,MUT-16 IP (GFP)_Unique,MUT-16 IP (GFP)_Total,MUT-16 IP (FLAG)_Unique,MUT-16 IP (FLAG)_Total,Control IP (GFP)_Unique,Control IP (GFP)_Total,Control IP (FLAG)_Unique,Control IP (FLAG)_Total,Input,Suggested Match,History
+mut-16,O62011_CAEEL,54,184,51,213,0,0,0,0,mut-16,WBGene00003508,Public name for WBGene00003508. History: Renamed on 2013-10-16
+GFP,GFP_Aequorea,21,149,19,115,0,0,0,0,,,
+mut-14,Q17978_CAEEL,31,66,25,66,0,0,0,0,mut-14,WBGene00003507,Public name for WBGene00003507. History: N.A.
+smut-1,Q9UAX9_CAEEL,25,45,26,55,0,0,0,0,smut-1,WBGene00021391,Public name for WBGene00021391. History: N.A.
+nyn-1,O18125_CAEEL,19,37,15,21,0,0,0,0,nyn-1,WBGene00011959,Public name for WBGene00011959. History: N.A.
+mut-2,O44768_CAEEL,22,35,15,38,0,0,0,0,mut-2,WBGene00003499,Public name for WBGene00003499. History: Renamed on 2006-07-10
+mut-15,E1B6U1_CAEEL,24,35,23,36,0,0,0,0,mut-15,WBGene00011323,Public name for WBGene00011323. History: Renamed on 2013-10-16
+nyn-2,Q9NA28_CAEEL,14,34,14,21,0,0,0,0,nyn-2,WBGene00013596,Public name for WBGene00013596. History: N.A.
+rde-8,Q23342_CAEEL,18,30,11,19,0,0,0,0,rde-8,WBGene00022620,Public name for WBGene00022620. History: N.A.
+drh-3,Q93413_CAEEL,23,25,19,22,0,0,0,0,drh-3,WBGene00008400,Public name for WBGene00008400. History: Renamed on 2005-11-22
+rrf-1,G5ECM1_CAEEL,15,17,13,15,0,0,0,0,rrf-1,WBGene00004508,Public name for WBGene00004508. History: N.A.
+ekl-1,Q19731_CAEEL,11,12,13,16,0,0,0,0,ekl-1,WBGene00009052,Public name for WBGene00009052. History: N.A.
+F37C4.5,F37C4_CAEEL,2,2,10,13,0,0,0,0,F37C4.5,WBGene00018145,Public name for WBGene00018145. History: N.A.
+mut-15,Q22061_CAEEL,3,3,3,4,0,0,0,0,mut-15,WBGene00011323,Public name for WBGene00011323. History: Renamed on 2013-10-16
+Y57G11C.3,6PGL_CAEEL,5,6,2,3,0,0,0,0,Y57G11C.3,WBGene00013301,Public name for WBGene00013301. History: N.A.
+rde-2,Q19672_CAEEL,3,3,3,3,0,0,0,0,rde-2,WBGene00004324,Public name for WBGene00004324. History: N.A.
+C33G3.6,Q93321_CAEEL,3,3,2,2,0,0,0,0,C33G3.6,WBGene00007906,Public name for WBGene00007906. History: N.A.
+C06A5.6,O01477_CAEEL,1,1,2,2,0,0,0,0,C06A5.6,WBGene00015504,Sequence name for WBGene00015504(simr-1). History: N.A.
+hgo-1,HGD_CAEEL,1,1,2,2,0,0,0,0,hgo-1,WBGene00001843,Public name for WBGene00001843. History: N.A.
+mut-7,MUT7_CAEEL,3,3,1,1,0,0,0,0,mut-7,WBGene00003504,Public name for WBGene00003504. History: N.A.
+F13B9.1,Q95ZV3_CAEEL,7,7,0,0,0,0,0,0,F13B9.1,WBGene00017419,Sequence name for WBGene00017419(sec-16A.2). History: N.A.
+mut-16,Q9U3S5_CAEEL,1,7,0,0,0,0,0,0,mut-16,WBGene00003508,Public name for WBGene00003508. History: Renamed on 2013-10-16
+F58B3.7,Q20966_CAEEL,6,6,0,0,0,0,0,0,F58B3.7,WBGene00010233,Sequence name for WBGene00010233(rbm-17). History: N.A.
+clec-190,Q9NAP0_CAEEL,3,5,0,0,0,0,0,0,clec-190,WBGene00010953,Public name for WBGene00010953. History: N.A.
+T10F2.4,PRP19_CAEEL,4,5,0,0,0,0,0,0,T10F2.4,WBGene00020423,Sequence name for WBGene00020423(prp-19). History: N.A.
+hch-1,NAS34_CAEEL,4,4,0,0,0,0,0,0,hch-1,WBGene00001828,Public name for WBGene00001828. History: N.A.
+dao-5,Q9XVS4_CAEEL,3,3,0,0,0,0,0,0,dao-5,WBGene00000931,Public name for WBGene00000931. History: N.A.
+ech-1,O17612_CAEEL,3,3,0,0,0,0,0,0,ech-1,WBGene00001150,Other name for WBGene00001150(ech-1.1). History: Renamed on 2014-09-24
+lact-9,O62481_CAEEL,3,3,0,0,0,0,0,0,lact-9,WBGene00012890,Public name for WBGene00012890. History: N.A.
+T04A8.7,Q22137_CAEEL,2,3,0,0,0,0,0,0,T04A8.7,WBGene00011409,Public name for WBGene00011409. History: N.A.
+csq-1,Q20203_CAEEL,2,2,0,0,0,0,0,0,csq-1,WBGene00000822,Public name for WBGene00000822. History: N.A.
+F41C3.4,GOT1_CAEEL,1,2,0,0,0,0,0,0,F41C3.4,WBGene00018270,Sequence name for WBGene00018270(eas-1). History: N.A.
+gln-1,Q95YD1_CAEEL,2,2,0,0,0,0,0,0,gln-1,WBGene00001602,Public name for WBGene00001602. History: N.A.
+nhr-171,O16443_CAEEL,1,2,0,0,0,0,0,0,nhr-171,WBGene00016926,Public name for WBGene00016926. History: N.A.
+sacy-1,Q9N5K1_CAEEL,2,2,0,0,0,0,0,0,sacy-1,WBGene00019245,Public name for WBGene00019245. History: N.A.
+Y49G5A.1,Q9UAZ2_CAEEL,1,2,0,0,0,0,0,0,Y49G5A.1,WBGene00021731,Public name for WBGene00021731. History: N.A.
+Y62H9A.5,Q9XWS6_CAEEL,1,2,0,0,0,0,0,0,Y62H9A.5,WBGene00013393,Public name for WBGene00013393. History: N.A.
+acdh-9,Q95YB2_CAEEL,1,1,0,0,0,0,0,0,acdh-9,WBGene00017874,Public name for WBGene00017874. History: N.A.
+B0464.2,YKD1_CAEEL,1,1,0,0,0,0,0,0,B0464.2,WBGene00007184,Sequence name for WBGene00007184(ctr-9). History: Renamed on 2014-11-12
+C06C6.6,O62032_CAEEL,1,1,0,0,0,0,0,0,C06C6.6,WBGene00007380,Public name for WBGene00007380. History: N.A.
+C07A9.2,BUD31_CAEEL,1,1,0,0,0,0,0,0,C07A9.2,WBGene00007400,Sequence name for WBGene00007400(bud-31). History: N.A.
+C07H6.4,Q95YF1_CAEEL,1,1,0,0,0,0,0,0,C07H6.4,WBGene00015581,Sequence name for WBGene00015581(sap-140). History: N.A.
+C30G12.6,YQB6_CAEEL,1,1,0,0,0,0,0,0,C30G12.6,WBGene00016277,Public name for WBGene00016277. History: N.A.
+cacn-1,CATIN_CAEEL,1,1,0,0,0,0,0,0,cacn-1,WBGene00012230,Public name for WBGene00012230. History: N.A.
+cdh-12,K8F801_CAEEL,1,1,0,0,0,0,0,0,cdh-12,WBGene00022103,Public name for WBGene00022103. History: N.A.
+cfim-2,Q18937_CAEEL,1,1,0,0,0,0,0,0,cfim-2,WBGene00008362,"Public name for WBGene00008362. History: Split into D1046.18(WBGene00255595). History of WBGene00008362: Split into ""WBGene00255595"" on 2014-09-03"
+col-38,Q20754_CAEEL,1,1,0,0,0,0,0,0,col-38,WBGene00000615,Public name for WBGene00000615. History: N.A.
+dct-12,O62491_CAEEL,1,1,0,0,0,0,0,0,dct-12,WBGene00013285,Public name for WBGene00013285. History: N.A.
+F02E9.10,A5Z2V7_CAEEL,1,1,0,0,0,0,0,0,F02E9.10,WBGene00008533,Public name for WBGene00008533. History: N.A.
+F35F11.1,Q9N5U5_CAEEL,1,1,0,0,0,0,0,0,F35F11.1,WBGene00018064,Sequence name for WBGene00018064(cdc-73). History: N.A.
+grl-28,O61947_CAEEL,1,1,0,0,0,0,0,0,grl-28,WBGene00001737,Public name for WBGene00001737. History: N.A.
+haao-1,3HAO_CAEEL,1,1,0,0,0,0,0,0,haao-1,WBGene00010595,Public name for WBGene00010595. History: N.A.
+nhr-164,NH164_CAEEL,1,1,0,0,0,0,0,0,nhr-164,WBGene00008056,Public name for WBGene00008056. History: N.A.
+R07E3.1,Q21810_CAEEL,1,1,0,0,0,0,0,0,R07E3.1,WBGene00011102,Public name for WBGene00011102. History: N.A.
+T28D6.5,I2HAF0_CAEEL,1,1,0,0,0,0,0,0,T28D6.5,WBGene00012125,Public name for WBGene00012125. History: N.A.
+unc-33,UNC33_CAEEL,1,1,0,0,0,0,0,0,unc-33,WBGene00006769,Public name for WBGene00006769. History: N.A.
+xnp-1,ATRX_CAEEL,1,1,0,0,0,0,0,0,xnp-1,WBGene00006961,Public name for WBGene00006961. History: Renamed on 2004-09-10
+Y116A8C.10,D0FK02_CAEEL,1,1,0,0,0,0,0,0,Y116A8C.10,WBGene00013790,Public name for WBGene00013790. History: N.A.
+Y39A1A.14,NEP1_CAEEL,1,1,0,0,0,0,0,0,Y39A1A.14,WBGene00012652,Public name for WBGene00012652. History: N.A.
+Y71F9AL.9,Q9N4I3_CAEEL,1,1,0,0,0,0,0,0,Y71F9AL.9,WBGene00022114,Public name for WBGene00022114. History: N.A.
+pgl-1,PGL1_CAEEL,0,0,9,11,0,0,0,0,pgl-1,WBGene00003992,Public name for WBGene00003992. History: N.A.
+sdz-30,O02297_CAEEL,0,0,11,11,0,0,0,0,sdz-30,WBGene00011432,Public name for WBGene00011432. History: N.A.
+sur-5,SUR5_CAEEL,0,0,7,7,0,0,0,0,sur-5,WBGene00006351,Public name for WBGene00006351. History: N.A.
+pud-3,G5EEV5_CAEEL,0,0,4,6,0,0,0,0,pud-3,WBGene00017501,Public name for WBGene00017501. History: N.A.
+tag-147,Q21854_CAEEL,0,0,6,6,0,0,0,0,tag-147,WBGene00006493,Other name for WBGene00006493(ivns-1). History: Renamed on 2017-10-11
+Y57A10A.23,Q9NA78_CAEEL,0,0,5,6,0,0,0,0,Y57A10A.23,WBGene00013263,Sequence name for WBGene00013263(txdc-12.1). History: N.A.
+rpn-9,Q22253_CAEEL,0,0,4,4,0,0,0,0,rpn-9,WBGene00004465,Public name for WBGene00004465. History: N.A.
+clec-1,Q22966_CAEEL,0,0,3,3,0,0,0,0,clec-1,WBGene00017772,Public name for WBGene00017772. History: N.A.
+F57H12.6,O45097_CAEEL,0,0,3,3,0,0,0,0,F57H12.6,WBGene00019021,Public name for WBGene00019021. History: N.A.
+F58A4.9,RPAC2_CAEEL,0,0,1,3,0,0,0,0,F58A4.9,WBGene00010230,Sequence name for WBGene00010230(rpac-19). History: N.A.
+hecd-1,Q18447_CAEEL,0,0,3,3,0,0,0,0,hecd-1,WBGene00016405,Public name for WBGene00016405. History: N.A.
+hpo-9,O16313_CAEEL,0,0,3,3,0,0,0,0,hpo-9,WBGene00015463,Public name for WBGene00015463. History: N.A.
+ifg-1,B5BM24_CAEEL,0,0,3,3,0,0,0,0,ifg-1,WBGene00002066,Public name for WBGene00002066. History: N.A.
+mel-26,MEL26_CAEEL,0,0,2,3,0,0,0,0,mel-26,WBGene00003209,Public name for WBGene00003209. History: N.A.
+prmt-1,Q9U2X0_CAEEL,0,0,2,3,0,0,0,0,prmt-1,WBGene00013766,Public name for WBGene00013766. History: N.A.
+R151.2,Q95QB6_CAEEL,0,0,3,3,0,0,0,0,R151.2,WBGene00020107,Public name for WBGene00020107. History: N.A.
+rpn-6.1,PS11A_CAEEL,0,0,3,3,0,0,0,0,rpn-6.1,WBGene00004462,Public name for WBGene00004462. History: N.A.
+rpn-7,PSMD6_CAEEL,0,0,3,3,0,0,0,0,rpn-7,WBGene00004463,Public name for WBGene00004463. History: N.A.
+rpn-8,O61792_CAEEL,0,0,2,3,0,0,0,0,rpn-8,WBGene00004464,Public name for WBGene00004464. History: N.A.
+T01H3.2,Q22088_CAEEL,0,0,3,3,0,0,0,0,T01H3.2,WBGene00011348,Public name for WBGene00011348. History: N.A.
+Y104H12D.2,Q9N5A2_CAEEL,0,0,3,3,0,0,0,0,Y104H12D.2,WBGene00022426,Public name for WBGene00022426. History: N.A.
+Y105E8A.24,Q8WQA0_CAEEL,0,0,2,3,0,0,0,0,Y105E8A.24,WBGene00013682,"Public name for Dead gene WBGene00013681. History of WBGene00013681: Merged into ""WBGene00013682"" on 2014-10-09"
+W07E11.1,K8F7V7_CAEEL,0,0,2,3,0,0,0,0,W07E11.1,WBGene00012326,Public name for WBGene00012326. History: N.A.
+atg-5,Q3V5I7_CAEEL,0,0,2,2,0,0,0,0,atg-5,WBGene00022152,Public name for WBGene00022152. History: Renamed on 2008-02-29
+C01G10.8,Q93168_CAEEL,0,0,2,2,0,0,0,0,C01G10.8,WBGene00007235,Sequence name for WBGene00007235(ahsa-1). History: N.A.
+C16A3.10,OAT_CAEEL,0,0,1,2,0,0,0,0,C16A3.10,WBGene00015814,Sequence name for WBGene00015814(oatr-1). History: N.A.
+cth-2,CGL2_CAEEL,0,0,2,2,0,0,0,0,cth-2,WBGene00022856,Public name for WBGene00022856. History: N.A.
+deb-1,VINC_CAEEL,0,0,2,2,0,0,0,0,deb-1,WBGene00000942,Public name for WBGene00000942. History: N.A.
+ego-1,G5EBQ3_CAEEL,0,0,2,2,0,0,0,0,ego-1,WBGene00001214,Public name for WBGene00001214. History: N.A.
+F31C3.2,G5EFR3_CAEEL,0,0,1,2,0,0,0,0,F31C3.2,WBGene00009284,Sequence name for WBGene00009284(gldr-2). History: N.A.
+F38A5.7,Q94207_CAEEL,0,0,1,2,0,0,0,0,F38A5.7,WBGene00018164,Sequence name for WBGene00018164(sup-36). History: N.A.
+F49E2.2,A6ZJ46_CAEEL,0,0,1,2,0,0,0,0,F49E2.2,WBGene00009886,Public name for WBGene00009886. History: N.A.
+F52E4.5,Q20675_CAEEL,0,0,2,2,0,0,0,0,F52E4.5,WBGene00018702,Public name for WBGene00018702. History: N.A.
+grs-1,SYG_CAEEL,0,0,2,2,0,0,0,0,grs-1,WBGene00001744,Other name for WBGene00001744(gars-1). History: Renamed on 2010-01-29
+gst-7,GST7_CAEEL,0,0,1,2,0,0,0,0,gst-7,WBGene00001755,Public name for WBGene00001755. History: N.A.
+hpo-29,Q8WTL6_CAEEL,0,0,2,2,0,0,0,0,hpo-29,WBGene00021754,Public name for WBGene00021754. History: N.A.
+rpb-3,Q93338_CAEEL,0,0,2,2,0,0,0,0,rpb-3,WBGene00007971,"Public name for WBGene00007971. History: Split into C36B1.14(WBGene00044614), B0252.8(WBGene00044615). History of WBGene00007971: Split into ""WBGene00044615"" on 2005-08-22"
+rpoa-1,G5ED21_CAEEL,0,0,2,2,0,0,0,0,rpoa-1,WBGene00012999,Public name for WBGene00012999. History: N.A.
+sago-1,O16386_CAEEL,0,0,2,2,0,0,0,0,sago-1,WBGene00019666,Public name for WBGene00019666. History: Renamed on 2011-10-14
+sams-4,METK4_CAEEL,0,0,2,2,0,0,0,0,sams-4,WBGene00015540,Public name for WBGene00015540. History: N.A.
+sams-5,METK5_CAEEL,0,0,2,2,0,0,0,0,sams-5,WBGene00006416,Public name for WBGene00006416. History: Renamed on 2008-09-10
+T01B11.2,AGT2L_CAEEL,0,0,2,2,0,0,0,0,T01B11.2,WBGene00020139,Sequence name for WBGene00020139(eppl-1). History: N.A.
+vps-26,VPS26_CAEEL,0,0,1,2,0,0,0,0,vps-26,WBGene00006931,Public name for WBGene00006931. History: N.A.
+Y57G11C.39,Q7YTI8_CAEEL,0,0,1,2,0,0,0,0,Y57G11C.39,WBGene00013328,Public name for WBGene00013328. History: N.A.
+Y65B4BR.5,NACA_CAEEL,0,0,2,2,0,0,0,0,Y65B4BR.5,WBGene00022042,Sequence name for WBGene00022042(icd-2). History: N.A.
+aman-3,O01574_CAEEL,0,0,1,1,0,0,0,0,aman-3,WBGene00018594,Public name for WBGene00018594. History: N.A.
+arx-1,ARP3_CAEEL,0,0,1,1,0,0,0,0,arx-1,WBGene00000199,Public name for WBGene00000199. History: N.A.
+attf-6,Q9XW25_CAEEL,0,0,1,1,0,0,0,0,attf-6,WBGene00012474,Public name for WBGene00012474. History: N.A.
+B0035.3,Q17432_CAEEL,0,0,1,1,0,0,0,0,B0035.3,WBGene00007106,Public name for WBGene00007106. History: N.A.
+bath-40,BAT40_CAEEL,0,0,1,1,0,0,0,0,bath-40,WBGene00013689,Public name for WBGene00013689. History: N.A.
+bub-3,Q9XWH0_CAEEL,0,0,1,1,0,0,0,0,bub-3,WBGene00013209,Public name for WBGene00013209. History: N.A.
+C04F12.1,Q9XVF1_CAEEL,0,0,1,1,0,0,0,0,C04F12.1,WBGene00007297,Public name for WBGene00007297. History: N.A.
+C08H9.2,Q17832_CAEEL,0,0,1,1,0,0,0,0,C08H9.2,WBGene00007463,Sequence name for WBGene00007463(vgln-1). History: N.A.
+C33E10.10,O61799_CAEEL,0,0,1,1,0,0,0,0,C33E10.10,WBGene00016350,Public name for WBGene00016350. History: N.A.
+C34D10.2,Q18437_CAEEL,0,0,1,1,0,0,0,0,C34D10.2,WBGene00016407,"Sequence name for WBGene00016407(unk-1). History: Split into C34D10.5(WBGene00303044). History of WBGene00016407: Split into ""WBGene00303044"" on 2018-03-02"
+C55C3.4,Q18865_CAEEL,0,0,1,1,0,0,0,0,C55C3.4,WBGene00016954,Public name for WBGene00016954. History: N.A.
+dnj-12,O45502_CAEEL,0,0,1,1,0,0,0,0,dnj-12,WBGene00001030,Public name for WBGene00001030. History: N.A.
+efk-1,EF2K_CAEEL,0,0,1,1,0,0,0,0,efk-1,WBGene00001160,Public name for WBGene00001160. History: N.A.
+ekl-6,Q22528_CAEEL,0,0,1,1,0,0,0,0,ekl-6,WBGene00011806,"Public name for WBGene00011806. History: Split into T16G12.12(WBGene00269433). History of WBGene00011806: Split into ""WBGene00269433"" on 2016-04-19"
+elb-1,G5ECR7_CAEEL,0,0,1,1,0,0,0,0,elb-1,WBGene00001235,Public name for WBGene00001235. History: N.A.
+F08F3.9,Q22950_CAEEL,0,0,1,1,0,0,0,0,F08F3.9,WBGene00017265,Sequence name for WBGene00017265(snpc-1.3). History: N.A.
+F10C2.5,P90830_CAEEL,0,0,1,1,0,0,0,0,F10C2.5,WBGene00008646,Public name for WBGene00008646. History: N.A.
+F21F3.1,PAL_CAEEL,0,0,1,1,0,0,0,0,F21F3.1,WBGene00017671,Sequence name for WBGene00017671(pgal-1). History: N.A.
+F23C8.5,Q9TXI4_CAEEL,0,0,1,1,0,0,0,0,F23C8.5,WBGene00017734,Public name for WBGene00017734. History: N.A.
+F35D11.4,Q20034_CAEEL,0,0,1,1,0,0,0,0,F35D11.4,WBGene00018045,Public name for WBGene00018045. History: N.A.
+F40G9.17,C0Z1Y9_CAEEL,0,0,1,1,0,0,0,0,F40G9.17,WBGene00185078,Public name for WBGene00185078. History: N.A.
+F46H5.7,Q8MQ42_CAEEL,0,0,1,1,0,0,0,0,F46H5.7,WBGene00018522,Public name for WBGene00018522. History: N.A.
+him-1,O01789_CAEEL,0,0,1,1,0,0,0,0,him-1,WBGene00001860,Public name for WBGene00001860. History: N.A.
+him-10,NUF2_CAEEL,0,0,1,1,0,0,0,0,him-10,WBGene00001869,Public name for WBGene00001869. History: N.A.
+irs-1,SYIC_CAEEL,0,0,1,1,0,0,0,0,irs-1,WBGene00002152,Other name for WBGene00002152(iars-1). History: Renamed on 2010-01-29
+K12D12.5,G5ED63_CAEEL,0,0,1,1,0,0,0,0,K12D12.5,WBGene00010787,Public name for WBGene00010787. History: N.A.
+lea-1,G5EBW6_CAEEL,0,0,1,1,0,0,0,0,lea-1,WBGene00002263,Public name for WBGene00002263. History: N.A.
+let-711,Q20937_CAEEL,0,0,1,1,0,0,0,0,let-711,WBGene00002845,Public name for WBGene00002845. History: Renamed on 2007-04-12
+maea-1,O18188_CAEEL,0,0,1,1,0,0,0,0,maea-1,WBGene00012366,"Public name for WBGene00012366. History: Split into W09G3.16(WBGene00303084). History of WBGene00012366: Split into ""WBGene00303084"" on 2018-03-02"
+pgl-3,G5EBV6_CAEEL,0,0,1,1,0,0,0,0,pgl-3,WBGene00003994,Public name for WBGene00003994. History: Renamed on 2005-10-06
+ppw-1,Q8IG64_CAEEL,0,0,1,1,0,0,0,0,ppw-1,WBGene00004093,Public name for WBGene00004093. History: Renamed on 2011-10-14
+prdx-3,TDX1_CAEEL,0,0,1,1,0,0,0,0,prdx-3,WBGene00011110,Public name for WBGene00011110. History: N.A.
+R05D3.12,TOP2M_CAEEL,0,0,1,1,0,0,0,0,R05D3.12,WBGene00019884,Public name for WBGene00019884. History: N.A.
+R151.2,Q9BI73_CAEEL,0,0,1,1,0,0,0,0,R151.2,WBGene00020107,Public name for WBGene00020107. History: N.A.
+rha-1,DHX9_CAEEL,0,0,1,1,0,0,0,0,rha-1,WBGene00004355,Public name for WBGene00004355. History: N.A.
+rpc-2,Q27492_CAEEL,0,0,1,1,0,0,0,0,rpc-2,WBGene00017300,Public name for WBGene00017300. History: N.A.
+rpl-29,O45226_CAEEL,0,0,1,1,0,0,0,0,rpl-29,WBGene00004443,Public name for WBGene00004443. History: N.A.
+smn-1,G5EC16_CAEEL,0,0,1,1,0,0,0,0,smn-1,WBGene00004887,Public name for WBGene00004887. History: N.A.
+sod-2,SODM1_CAEEL,0,0,1,1,0,0,0,0,sod-2,WBGene00004931,Public name for WBGene00004931. History: N.A.
+spt-5,SPT5H_CAEEL,0,0,1,1,0,0,0,0,spt-5,WBGene00005015,Public name for WBGene00005015. History: N.A.
+ssup-72,Q22453_CAEEL,0,0,1,1,0,0,0,0,ssup-72,WBGene00020480,Public name for WBGene00020480. History: N.A.
+T04C9.1,H2KZV7_CAEEL,0,0,1,1,0,0,0,0,T04C9.1,WBGene00020209,Public name for WBGene00020209. History: N.A.
+T12D8.5,O45783_CAEEL,0,0,1,1,0,0,0,0,T12D8.5,WBGene00011733,Public name for WBGene00011733. History: N.A.
+T23D8.3,LTV1_CAEEL,0,0,1,1,0,0,0,0,T23D8.3,WBGene00011944,Public name for WBGene00011944. History: N.A.
+wago-4,O62275_CAEEL,0,0,1,1,0,0,0,0,wago-4,WBGene00010263,Public name for WBGene00010263. History: N.A.
+Y110A7A.15,H2KZ41_CAEEL,0,0,1,1,0,0,0,0,Y110A7A.15,WBGene00022462,Public name for WBGene00022462. History: N.A.
+Y73B3A.10,Q95XG0_CAEEL,0,0,1,1,0,0,0,0,Y73B3A.10,WBGene00022211,"Public name for Dead gene WBGene00022212. History of WBGene00022212: Merged into ""WBGene00022211"" on 2015-10-02"
+rsd-2,Q9XUE3_CAEEL,33,42,26,32,0,0,2,2,rsd-2,WBGene00004681,Public name for WBGene00004681. History: N.A.
+wago-1,GCC7_CAEEL,12,14,13,14,0,0,3,3,wago-1,WBGene00011061,Public name for WBGene00011061. History: N.A.
+usp-7/math-33,UBP7_CAEEL,10,11,9,11,0,0,1,1,,,
+ppw-1,B3KLZ7_CAEEL,6,6,18,19,0,0,7,8,ppw-1,WBGene00004093,Public name for WBGene00004093. History: Renamed on 2011-10-14
+cct-7,Q9TZS5_CAEEL,3,4,10,13,0,0,4,4,cct-7,WBGene00020391,Public name for WBGene00020391. History: N.A.
+acdh-11,Q9XWZ2_CAEEL,1,2,1,1,0,0,1,1,acdh-11,WBGene00012860,Public name for WBGene00012860. History: N.A.
+nap-1,Q19007_CAEEL,2,2,10,13,0,0,5,5,nap-1,WBGene00017075,Public name for WBGene00017075. History: Renamed on 2013-01-09
+pod-2,Q9GZI3_CAEEL,2,2,24,31,0,0,12,16,pod-2,WBGene00004076,Public name for WBGene00004076. History: N.A.
+F07A11.2,Q95QM8_CAEEL,1,1,7,8,0,0,3,3,F07A11.2,WBGene00008546,Sequence name for WBGene00008546(gfat-1). History: N.A.
+cct-2,TCPB_CAEEL,1,1,17,24,0,0,4,4,cct-2,WBGene00000378,Public name for WBGene00000378. History: N.A.
+sec-31,G5EFY6_CAEEL,8,10,1,1,3,3,0,0,sec-31,WBGene00011338,Public name for WBGene00011338. History: N.A.
+acp-6,Q9GUF2_CAEEL,3,4,3,3,2,2,0,0,acp-6,WBGene00022245,Public name for WBGene00022245. History: N.A.
+Y39G10AR.8,Q95XR0_CAEEL,1,2,3,4,1,1,0,0,Y39G10AR.8,WBGene00021466,Sequence name for WBGene00021466(eif-2gamma). History: N.A.
+lys-7,O16202_CAEEL,1,1,1,2,1,1,0,0,lys-7,WBGene00003096,Public name for WBGene00003096. History: N.A.
+rps-24,Q1XFY9_CAEEL,1,1,4,6,2,3,0,0,rps-24,WBGene00004493,Public name for WBGene00004493. History: N.A.
+car-1,Q9XW17_CAEEL,9,27,10,12,7,9,8,9,car-1,WBGene00012484,Public name for WBGene00012484. History: Renamed on 2005-12-05
+kin-10,CSK2B_CAEEL,7,9,4,6,4,4,3,3,kin-10,WBGene00002196,Public name for WBGene00002196. History: N.A.
+ubq-2,RL40_CAEEL,6,9,4,11,2,3,4,6,ubq-2,WBGene00006728,Public name for WBGene00006728. History: N.A.
+sip-1,SIP1_CAEEL,5,5,9,12,3,3,4,4,sip-1,WBGene00004798,Public name for WBGene00004798. History: N.A.
+cfim-1,Q93716_CAEEL,3,3,3,4,1,1,2,2,cfim-1,WBGene00009668,Public name for WBGene00009668. History: N.A.
+mlcd-1,Q20048_CAEEL,9,9,0,0,1,1,0,0,mlcd-1,WBGene00009439,Public name for WBGene00009439. History: N.A.
+rnp-6,Q9N3S3_CAEEL,8,9,0,0,3,3,0,0,rnp-6,WBGene00004389,Public name for WBGene00004389. History: Renamed on 2015-03-05
+anc-1,ANC1_CAEEL,5,6,0,0,1,1,0,0,anc-1,WBGene00000140,Public name for WBGene00000140. History: N.A.
+rnp-6,Q9N3S4_CAEEL,6,6,0,0,1,1,0,0,rnp-6,WBGene00004389,Public name for WBGene00004389. History: Renamed on 2015-03-05
+ZK813.3,Q23604_CAEEL,4,5,0,0,2,2,0,0,ZK813.3,WBGene00022822,Public name for WBGene00022822. History: N.A.
+D1005.1,ACLY_CAEEL,0,0,31,32,0,0,10,10,D1005.1,WBGene00016995,Sequence name for WBGene00016995(acly-1). History: N.A.
+cct-4,TCPD_CAEEL,0,0,17,23,1,1,3,3,cct-4,WBGene00000379,Public name for WBGene00000379. History: N.A.
+cct-5,TCPE_CAEEL,0,0,17,22,0,0,4,4,cct-5,WBGene00000380,Public name for WBGene00000380. History: N.A.
+F35H10.7,NPRL3_CAEEL,0,0,12,15,0,0,7,7,F35H10.7,WBGene00018072,Sequence name for WBGene00018072(nprl-3). History: N.A.
+alh-13,ALH13_CAEEL,0,0,8,9,0,0,3,3,alh-13,WBGene00011938,Public name for WBGene00011938. History: N.A.
+cdk-1,CDK1_CAEEL,0,0,8,9,0,0,4,4,cdk-1,WBGene00000405,Public name for WBGene00000405. History: N.A.
+pdi-3,G5ED07_CAEEL,0,0,5,6,0,0,2,2,pdi-3,WBGene00003964,Public name for WBGene00003964. History: N.A.
+cand-1,G5ED41_CAEEL,0,0,4,5,0,0,2,2,cand-1,WBGene00013606,Public name for WBGene00013606. History: N.A.
+T14G10.5,COPG_CAEEL,0,0,4,5,0,0,2,2,T14G10.5,WBGene00011775,Sequence name for WBGene00011775(copg-1). History: N.A.
+nuo-5,Q86S77_CAEEL,0,0,2,3,0,0,1,1,nuo-5,WBGene00021562,Public name for WBGene00021562. History: Renamed on 2008-02-26
+T12D8.10,Q69ZI6_CAEEL,0,0,2,3,0,0,1,1,T12D8.10,WBGene00023450,Public name for WBGene00023450. History: N.A.
+F08F3.4,Q22945_CAEEL,0,0,3,3,0,0,1,1,F08F3.4,WBGene00017262,Public name for WBGene00017262. History: N.A.
+fbxa-64,P91522_CAEEL,0,0,3,3,0,0,1,1,fbxa-64,WBGene00020883,Public name for WBGene00020883. History: N.A.
+puf-3,Q9U2G4_CAEEL,0,0,3,3,0,0,1,1,puf-3,WBGene00004239,Public name for WBGene00004239. History: N.A.
+T25G3.3,Q22792_CAEEL,0,0,3,3,0,0,1,1,T25G3.3,WBGene00012030,Public name for WBGene00012030. History: N.A.
+unc-116,KINH_CAEEL,0,0,3,3,0,0,1,1,unc-116,WBGene00006840,Public name for WBGene00006840. History: N.A.
+Y110A7A.6,Q9N590_CAEEL,0,0,3,3,0,0,1,1,Y110A7A.6,WBGene00022456,Sequence name for WBGene00022456(pfkb-1.1). History: N.A.
+unc-54,MYO4_CAEEL,46,53,25,29,56,67,32,39,unc-54,WBGene00006789,Public name for WBGene00006789. History: N.A.
+T22B11.5,ODO1_CAEEL,30,42,2,2,33,51,5,7,T22B11.5,WBGene00020679,Sequence name for WBGene00020679(ogdh-1). History: N.A.
+act-1,ACT1_CAEEL,19,37,13,21,19,35,14,31,act-1,WBGene00000063,Public name for WBGene00000063. History: N.A.
+hsp-1,HSP7A_CAEEL,21,31,25,34,19,23,24,32,hsp-1,WBGene00002005,Public name for WBGene00002005. History: N.A.
+dlst-1,O45148_CAEEL,16,29,6,7,14,27,7,9,dlst-1,WBGene00020950,Public name for WBGene00020950. History: N.A.
+eft-3,EF1A_CAEEL,12,27,16,43,11,26,14,35,eft-3,WBGene00001168,Other name for WBGene00001168(eef-1A.1). History: Renamed on 2005-09-08; Renamed on 2010-08-03
+,IgG1_bovine,6,23,0,0,6,25,0,0,,,
+kin-3,CSK2A_CAEEL,16,22,14,25,12,14,11,14,kin-3,WBGene00002191,Public name for WBGene00002191. History: N.A.
+unc-15,MYSP_CAEEL,20,22,9,9,26,31,18,18,unc-15,WBGene00006754,Public name for WBGene00006754. History: N.A.
+ZK836.2,DHTK1_CAEEL,18,21,8,10,25,31,11,14,ZK836.2,WBGene00014098,Sequence name for WBGene00014098(ogdh-2). History: N.A.
+cbd-1,O45599_CAEEL,16,21,0,0,11,13,0,0,cbd-1,WBGene00010351,Public name for WBGene00010351. History: N.A.
+atp-2,ATPB_CAEEL,17,20,19,24,24,35,21,33,atp-2,WBGene00000229,Public name for WBGene00000229. History: N.A.
+tbb-2,TBB2_CAEEL,15,20,16,28,12,16,14,20,tbb-2,WBGene00006537,Public name for WBGene00006537. History: N.A.
+daf-21,HSP90_CAEEL,17,19,25,32,17,19,22,27,daf-21,WBGene00000915,Other name for WBGene00000915(hsp-90). History: Renamed on 2017-08-01
+perm-2,O44145_CAEEL,3,18,3,4,4,13,0,0,perm-2,WBGene00016636,Public name for WBGene00016636. History: N.A.
+ZK1320.9,Q09657_CAEEL,11,17,7,8,7,10,8,10,ZK1320.9,WBGene00014258,Public name for WBGene00014258. History: N.A.
+perm-4,O44144_CAEEL,6,17,3,5,6,12,3,17,perm-4,WBGene00016638,Public name for WBGene00016638. History: N.A.
+ile-1,G5EDE8_CAEEL,12,17,1,1,14,18,6,8,ile-1,WBGene00002070,Public name for WBGene00002070. History: N.A.
+,IgG1b_bovine,3,17,0,0,3,20,0,0,,,
+vit-6,VIT6_CAEEL,16,16,31,33,25,27,33,41,vit-6,WBGene00006930,Public name for WBGene00006930. History: N.A.
+lev-11,TPM1_CAEEL,13,16,5,6,14,16,11,19,lev-11,WBGene00002978,Public name for WBGene00002978. History: N.A.
+pyc-1,PYC1_CAEEL,14,15,23,26,11,12,21,25,pyc-1,WBGene00004258,Public name for WBGene00004258. History: N.A.
+rpl-5,RL5_CAEEL,11,15,17,35,11,12,17,30,rpl-5,WBGene00004416,Public name for WBGene00004416. History: N.A.
+rps-3,RS3_CAEEL,12,15,16,24,13,17,19,34,rps-3,WBGene00004472,Public name for WBGene00004472. History: N.A.
+rack-1,GBLP_CAEEL,11,15,11,16,12,17,12,16,rack-1,WBGene00010556,Public name for WBGene00010556. History: N.A.
+gpd-1,G3P1_CAEEL,11,14,6,6,9,9,9,12,gpd-1,WBGene00001683,Public name for WBGene00001683. History: N.A.
+ain-1,Q17740_CAEEL,11,14,0,0,11,12,0,0,ain-1,WBGene00015547,Public name for WBGene00015547. History: N.A.
+eef-2,EF2_CAEEL,13,13,26,32,14,16,23,25,eef-2,WBGene00001167,Public name for WBGene00001167. History: Renamed on 2010-08-03
+gst-36,GST36_CAEEL,12,13,0,0,11,13,0,0,gst-36,WBGene00001784,Public name for WBGene00001784. History: N.A.
+D1054.10,Q18943_CAEEL,7,13,0,0,7,11,0,0,D1054.10,WBGene00008377,Public name for WBGene00008377. History: N.A.
+egl-45,EIF3A_CAEEL,10,12,19,19,17,18,10,10,egl-45,WBGene00001209,Public name for WBGene00001209. History: N.A.
+rps-4,RS4_CAEEL,10,12,17,32,10,12,14,28,rps-4,WBGene00004473,Public name for WBGene00004473. History: N.A.
+H28O16.1,ATPA_CAEEL,10,12,15,20,12,16,17,25,H28O16.1,WBGene00010419,Sequence name for WBGene00010419(atp-1). History: Renamed on 2005-03-17
+tba-2,TBA2_CAEEL,10,12,13,24,12,14,14,20,tba-2,WBGene00006529,Public name for WBGene00006529. History: N.A.
+rps-0,RSSA_CAEEL,8,12,10,16,7,9,10,15,rps-0,WBGene00004469,Public name for WBGene00004469. History: N.A.
+vit-1,VIT1_CAEEL,10,11,49,55,17,18,49,60,vit-1,WBGene00006925,Public name for WBGene00006925. History: N.A.
+inf-1,IF4A_CAEEL,9,11,16,21,10,11,15,20,inf-1,WBGene00002083,Public name for WBGene00002083. History: N.A.
+pck-2,O02286_CAEEL,10,11,15,18,7,7,14,17,pck-2,WBGene00011232,Public name for WBGene00011232. History: N.A.
+,IgG2a_bovine,7,11,0,0,5,9,0,0,,,
+mec-7,TBB1_CAEEL,8,10,12,26,5,7,11,33,mec-7,WBGene00003171,Public name for WBGene00003171. History: N.A.
+act-5,O45815_CAEEL,6,10,5,5,6,10,5,7,act-5,WBGene00000067,Public name for WBGene00000067. History: N.A.
+tag-173,Q93619_CAEEL,6,10,3,4,5,7,3,3,tag-173,WBGene00006518,Other name for WBGene00006518(bckd-1B). History: Renamed on 2016-11-29
+rpl-4,RL4_CAEEL,8,9,19,24,7,9,16,19,rpl-4,WBGene00004415,Public name for WBGene00004415. History: N.A.
+C44B7.10,Q18599_CAEEL,8,9,13,16,8,9,10,14,C44B7.10,WBGene00016630,Sequence name for WBGene00016630(acer-1). History: N.A.
+cey-2,P91306_CAEEL,9,9,12,16,7,8,12,29,cey-2,WBGene00000473,Public name for WBGene00000473. History: N.A.
+unc-87,UNC87_CAEEL,8,9,9,10,13,15,17,17,unc-87,WBGene00006819,Public name for WBGene00006819. History: N.A.
+pab-1,Q7K797_CAEEL,7,9,8,16,9,10,7,9,pab-1,WBGene00003902,Public name for WBGene00003902. History: N.A.
+F33G12.5,Q19989_CAEEL,8,9,0,0,9,9,0,0,F33G12.5,WBGene00018017,Sequence name for WBGene00018017(golg-2). History: N.A.
+chc-1,CLH_CAEEL,8,8,44,54,3,4,39,50,chc-1,WBGene00011867,Public name for WBGene00011867. History: Renamed on 2008-04-30
+vha-13,VATA_CAEEL,7,8,14,16,12,13,13,14,vha-13,WBGene00013025,Public name for WBGene00013025. History: Renamed on 2005-03-17
+vit-2,VIT2_CAEEL,7,8,14,15,9,10,16,20,vit-2,WBGene00006926,Public name for WBGene00006926. History: N.A.
+sdha-1,DHSA_CAEEL,6,8,13,18,8,8,15,17,sdha-1,WBGene00015391,Public name for WBGene00015391. History: N.A.
+gdh-1,Q23621_CAEEL,8,8,11,11,10,11,12,12,gdh-1,WBGene00014095,Public name for WBGene00014095. History: N.A.
+cey-3,P91398_CAEEL,7,8,9,9,6,9,9,11,cey-3,WBGene00000474,Public name for WBGene00000474. History: N.A.
+T28C6.7,Q22847_CAEEL,8,8,4,4,0,0,10,11,T28C6.7,WBGene00012121,"Public name for WBGene00012121. History: Split into ""WBGene00044793"" on 2006-03-22"
+npp-20,SEC13_CAEEL,7,8,3,3,3,3,3,3,npp-20,WBGene00003806,Public name for WBGene00003806. History: N.A.
+hgrs-1,Q17796_CAEEL,8,8,0,0,8,8,0,0,hgrs-1,WBGene00004101,Public name for WBGene00004101. History: Renamed on 2008-01-18
+rps-1,RS3A_CAEEL,7,7,10,11,9,10,10,12,rps-1,WBGene00004470,Public name for WBGene00004470. History: N.A.
+glh-1,GLH1_CAEEL,6,7,9,12,7,8,5,5,glh-1,WBGene00001598,Public name for WBGene00001598. History: N.A.
+tufm-1,G5ECM6_CAEEL,7,7,8,10,6,6,7,7,tufm-1,WBGene00007000,Public name for WBGene00007000. History: N.A.
+eif-3.B,EIF3B_CAEEL,7,7,7,8,15,16,6,7,eif-3.B,WBGene00001225,Public name for WBGene00001225. History: N.A.
+pab-2,Q19579_CAEEL,6,7,7,7,4,6,6,7,pab-2,WBGene00003903,Public name for WBGene00003903. History: N.A.
+alg-1,G5EGR6_CAEEL,7,7,4,4,10,10,0,0,alg-1,WBGene00000105,Public name for WBGene00000105. History: N.A.
+hrp-1,ROA1_CAEEL,7,7,3,3,8,12,6,6,hrp-1,WBGene00001999,Other name for WBGene00001999(hrpa-1). History: Renamed on 2019-11-21
+eif-3.D,EIF3D_CAEEL,6,7,3,4,9,9,4,4,eif-3.D,WBGene00001227,Public name for WBGene00001227. History: N.A.
+nos-3,O62486_CAEEL,5,7,0,0,6,8,0,0,nos-3,WBGene00003785,Public name for WBGene00003785. History: N.A.
+,IgG3_bovine,5,7,0,0,4,7,0,0,,,
+T22F3.3,Q9N5U1_CAEEL,6,6,18,19,10,10,24,27,T22F3.3,WBGene00020696,Sequence name for WBGene00020696(pygl-1). History: N.A.
+rpl-7,RL7_CAEEL,5,6,15,20,4,5,14,20,rpl-7,WBGene00004418,Public name for WBGene00004418. History: N.A.
+cgh-1,CGH1_CAEEL,6,6,12,13,4,4,9,11,cgh-1,WBGene00000479,Public name for WBGene00000479. History: N.A.
+rpa-0,RLA0_CAEEL,6,6,9,18,7,8,8,17,rpa-0,WBGene00004408,Other name for WBGene00004408(rla-0). History: Renamed on 2010-03-08
+dim-1,DIM_CAEEL,6,6,9,10,8,8,7,8,dim-1,WBGene00001000,Public name for WBGene00001000. History: N.A.
+ant-1.3,G5EFW8_CAEEL,6,6,8,11,4,4,9,15,ant-1.3,WBGene00010485,Public name for WBGene00010485. History: Renamed on 2014-03-03
+rpl-6,RL6_CAEEL,6,6,7,9,6,6,7,8,rpl-6,WBGene00004417,Public name for WBGene00004417. History: N.A.
+rps-8,RS8_CAEEL,6,6,6,8,5,5,6,7,rps-8,WBGene00004477,Public name for WBGene00004477. History: N.A.
+rpl-11.1,RL11_CAEEL,5,6,5,8,3,4,4,8,rpl-11.1,WBGene00004422,Public name for WBGene00004422. History: Renamed on 2005-09-09
+R05F9.6,Q21742_CAEEL,3,6,3,3,3,4,2,3,R05F9.6,WBGene00019890,Public name for WBGene00019890. History: N.A.
+ivd-1,G5EEH6_CAEEL,6,6,2,2,6,6,4,5,ivd-1,WBGene00015326,Public name for WBGene00015326. History: N.A.
+asp-1,G5EEI4_CAEEL,5,6,2,2,5,5,1,1,asp-1,WBGene00000214,Public name for WBGene00000214. History: N.A.
+myo-3,MYO3_CAEEL,5,6,1,1,12,12,8,8,myo-3,WBGene00003515,Public name for WBGene00003515. History: N.A.
+unc-41,STNB_CAEEL,6,6,0,0,9,10,0,0,unc-41,WBGene00006777,Public name for WBGene00006777. History: Renamed on 2008-02-06
+atx-2,G5ED29_CAEEL,4,6,0,0,6,7,0,0,atx-2,WBGene00000231,Public name for WBGene00000231. History: N.A.
+Y60A3A.9,Q9U1Z4_CAEEL,5,6,0,0,7,7,0,0,Y60A3A.9,WBGene00013360,Sequence name for WBGene00013360(tmed-4). History: N.A.
+D1054.11,Q18947_CAEEL,3,6,0,0,3,6,0,0,D1054.11,WBGene00008378,Sequence name for WBGene00008378(ule-3). History: N.A.
+Y66D12A.8,Q95Q06_CAEEL,4,6,0,0,3,4,0,0,Y66D12A.8,WBGene00013434,Public name for WBGene00013434. History: N.A.
+rps-18,O18240_CAEEL,5,5,11,13,6,6,10,13,rps-18,WBGene00004487,Public name for WBGene00004487. History: N.A.
+F58G11.2,P90897_CAEEL,5,5,11,12,6,6,9,10,F58G11.2,WBGene00010280,Sequence name for WBGene00010280(rde-12). History: N.A.
+cpl-1,O45734_CAEEL,5,5,8,10,6,7,8,15,cpl-1,WBGene00000776,Public name for WBGene00000776. History: N.A.
+hsp-3,HSP7C_CAEEL,5,5,8,10,5,6,15,19,hsp-3,WBGene00002007,Public name for WBGene00002007. History: N.A.
+ZK669.4,Q23571_CAEEL,4,5,8,10,4,6,9,12,ZK669.4,WBGene00014054,Sequence name for WBGene00014054(dbt-1). History: N.A.
+rps-16,RS16_CAEEL,5,5,7,8,6,7,7,7,rps-16,WBGene00004485,Public name for WBGene00004485. History: N.A.
+rps-2,RS2_CAEEL,5,5,7,8,6,6,9,10,rps-2,WBGene00004471,Public name for WBGene00004471. History: N.A.
+F43G9.1,IDH3A_CAEEL,4,5,7,10,5,6,4,4,F43G9.1,WBGene00009664,Sequence name for WBGene00009664(idha-1). History: N.A.
+rpl-18,RL18_CAEEL,5,5,7,11,4,4,7,13,rpl-18,WBGene00004430,Public name for WBGene00004430. History: N.A.
+sqd-1,Q8MXR6_CAEEL,4,5,5,6,7,8,5,5,sqd-1,WBGene00022235,Public name for WBGene00022235. History: N.A.
+ucr-1,UCR1_CAEEL,5,5,4,4,9,9,11,12,ucr-1,WBGene00018963,Public name for WBGene00018963. History: N.A.
+eif-3.L,EIF3L_CAEEL,5,5,4,4,9,9,4,5,eif-3.L,WBGene00015920,Public name for WBGene00015920. History: N.A.
+eif-3.I,EIF3I_CAEEL,4,5,4,5,6,6,6,6,eif-3.I,WBGene00001232,Public name for WBGene00001232. History: N.A.
+acdh-1,H2KZG6_CAEEL,5,5,4,4,4,4,6,6,acdh-1,WBGene00016943,Public name for WBGene00016943. History: Renamed on 2004-08-25
+pyk-1,B7WNA0_CAEEL,4,5,4,4,1,2,8,8,pyk-1,WBGene00009126,Public name for WBGene00009126. History: N.A.
+lec-6,Q9N384_CAEEL,3,5,3,4,4,6,2,3,lec-6,WBGene00002269,Public name for WBGene00002269. History: N.A.
+F47G9.1,Q20546_CAEEL,5,5,0,0,7,9,0,0,F47G9.1,WBGene00009829,Sequence name for WBGene00009829(tmed-10). History: N.A.
+clec-265,Q21471_CAEEL,4,5,0,0,4,6,0,0,clec-265,WBGene00019738,Public name for WBGene00019738. History: N.A.
+pqn-27,H2L2J6_CAEEL,5,5,0,0,6,6,0,0,pqn-27,WBGene00004116,Public name for WBGene00004116. History: N.A.
+sel-9,TMED2_CAEEL,4,5,0,0,4,6,0,0,sel-9,WBGene00004766,Public name for WBGene00004766. History: Renamed on 2019-01-09
+Y42H9AR.1,Q9N3Y1_CAEEL,5,5,0,0,6,6,0,0,Y42H9AR.1,WBGene00021536,Public name for WBGene00021536. History: N.A.
+Y62H9A.6,Q9XWT3_CAEEL,5,5,0,0,5,5,0,0,Y62H9A.6,WBGene00013394,Sequence name for WBGene00013394(ule-5). History: N.A.
+sft-4,SURF4_CAEEL,5,5,0,0,4,4,1,1,sft-4,WBGene00004788,Public name for WBGene00004788. History: N.A.
+cct-8,TCPQ_CAEEL,3,4,19,24,3,3,10,11,cct-8,WBGene00021934,Public name for WBGene00021934. History: N.A.
+pck-1,O44906_CAEEL,4,4,14,16,3,3,11,12,pck-1,WBGene00021043,Public name for WBGene00021043. History: N.A.
+csr-1,Q27GU1_CAEEL,4,4,13,14,4,4,10,10,csr-1,WBGene00017641,Public name for WBGene00017641. History: N.A.. Other name for WBGene00003637(nhr-47). History: Renamed on 2005-12-15
+ant-1.1,O45865_CAEEL,2,4,9,16,2,2,10,18,ant-1.1,WBGene00006439,Public name for WBGene00006439. History: Renamed on 2008-06-04; Renamed on 2014-03-03
+rpl-33,RL35A_CAEEL,4,4,7,8,5,5,9,11,rpl-33,WBGene00004447,Public name for WBGene00004447. History: N.A.
+gpd-2,G3P2_CAEEL,4,4,6,6,2,2,5,6,gpd-2,WBGene00001684,Public name for WBGene00001684. History: N.A.
+mlc-1,MLR1_CAEEL,4,4,5,5,3,4,5,5,mlc-1,WBGene00003369,Public name for WBGene00003369. History: N.A.
+rpl-19,RL19_CAEEL,4,4,5,7,3,3,5,6,rpl-19,WBGene00004431,Public name for WBGene00004431. History: N.A.
+T08B2.7,Q9GYT0_CAEEL,4,4,4,5,7,7,4,4,T08B2.7,WBGene00020347,Sequence name for WBGene00020347(ech-1.2). History: N.A.
+Y38F1A.6,HOT_CAEEL,3,4,4,5,2,2,3,3,Y38F1A.6,WBGene00012608,Sequence name for WBGene00012608(hphd-1). History: N.A.
+vbh-1,Q65XX1_CAEEL,4,4,3,3,10,11,4,4,vbh-1,WBGene00006888,Public name for WBGene00006888. History: N.A.
+dnj-19,O16303_CAEEL,4,4,3,3,5,6,0,0,dnj-19,WBGene00001037,Public name for WBGene00001037. History: Renamed on 2005-12-16
+rps-17,RS17_CAEEL,3,4,3,4,3,4,3,4,rps-17,WBGene00004486,Public name for WBGene00004486. History: N.A.
+sca-1,G5EEK8_CAEEL,3,4,3,3,3,3,10,10,sca-1,WBGene00004736,Public name for WBGene00004736. History: N.A.
+rpl-22,RL22_CAEEL,3,4,3,4,3,3,3,3,rpl-22,WBGene00004434,Public name for WBGene00004434. History: N.A.
+B0250.5,3HIDH_CAEEL,4,4,3,3,2,2,3,3,B0250.5,WBGene00007122,Public name for WBGene00007122. History: N.A.
+ran-1,RAN_CAEEL,4,4,2,3,5,6,5,7,ran-1,WBGene00004302,Public name for WBGene00004302. History: N.A.
+ant-1.1,Q86CZ9_CAEEL,3,4,2,3,2,3,3,4,ant-1.1,WBGene00006439,Public name for WBGene00006439. History: Renamed on 2008-06-04; Renamed on 2014-03-03
+tba-1,H2L2E8_CAEEL,3,4,2,4,1,2,2,4,tba-1,WBGene00006528,Public name for WBGene00006528. History: N.A.
+lec-1,LEC1_CAEEL,4,4,1,1,4,4,4,5,lec-1,WBGene00002264,Public name for WBGene00002264. History: N.A.
+cyn-10,CYP10_CAEEL,3,4,0,0,6,7,0,0,cyn-10,WBGene00000886,Public name for WBGene00000886. History: N.A.
+rab-1,Q9UAQ6_CAEEL,3,4,0,0,3,3,1,1,rab-1,WBGene00004266,Public name for WBGene00004266. History: N.A.
+pyr-1,Q18990_CAEEL,2,3,34,39,0,0,20,23,pyr-1,WBGene00004259,Public name for WBGene00004259. History: N.A.
+prdx-2,Q8IG31_CAEEL,3,3,11,14,4,4,7,11,prdx-2,WBGene00006434,Public name for WBGene00006434. History: N.A.
+rps-9,RS9_CAEEL,2,3,10,11,4,4,11,13,rps-9,WBGene00004478,Public name for WBGene00004478. History: N.A.
+nol-5,O45012_CAEEL,3,3,9,12,3,5,11,11,nol-5,WBGene00020915,Other name for WBGene00020915(nol-58). History: Renamed on 2017-08-01
+cdc-48.1,TERA1_CAEEL,3,3,9,12,4,4,13,13,cdc-48.1,WBGene00007352,Public name for WBGene00007352. History: Renamed on 2005-03-17
+K07C5.4,YZVL_CAEEL,2,3,9,10,2,2,11,13,K07C5.4,WBGene00010627,Sequence name for WBGene00010627(nol-56). History: N.A.
+F47B10.1,SUCB1_CAEEL,3,3,9,9,2,2,6,6,F47B10.1,WBGene00009812,Sequence name for WBGene00009812(suca-1). History: N.A.
+rps-14,RS14_CAEEL,3,3,8,12,2,2,7,12,rps-14,WBGene00004483,Public name for WBGene00004483. History: N.A.
+rpl-7A,RL7A_CAEEL,3,3,7,26,2,3,11,17,rpl-7A,WBGene00004419,Public name for WBGene00004419. History: Renamed on 2005-03-17
+rpl-13,RL13_CAEEL,3,3,7,10,3,3,6,9,rpl-13,WBGene00004425,Public name for WBGene00004425. History: N.A.
+rpl-9,RL9_CAEEL,3,3,7,10,1,1,6,7,rpl-9,WBGene00004420,Public name for WBGene00004420. History: N.A.
+kin-19,KC1A_CAEEL,3,3,7,9,0,0,7,9,kin-19,WBGene00002202,Public name for WBGene00002202. History: N.A.
+F53A2.7,O45552_CAEEL,3,3,6,6,6,7,6,8,F53A2.7,WBGene00009952,Sequence name for WBGene00009952(acaa-2). History: N.A.
+plp-1,Q94230_CAEEL,3,3,6,7,1,1,8,8,plp-1,WBGene00004046,Public name for WBGene00004046. History: N.A.
+rpl-16,RL13A_CAEEL,3,3,5,9,3,3,5,7,rpl-16,WBGene00004428,Public name for WBGene00004428. History: N.A.
+ldh-1,LDH_CAEEL,3,3,5,5,2,3,6,6,ldh-1,WBGene00002262,Public name for WBGene00002262. History: N.A.
+rpl-10,RL10_CAEEL,3,3,5,5,3,3,4,4,rpl-10,WBGene00004421,Public name for WBGene00004421. History: N.A.
+ppw-1,H2KYV9_CAEEL,3,3,5,5,1,1,3,3,ppw-1,WBGene00004093,Public name for WBGene00004093. History: Renamed on 2011-10-14
+let-75,MYO1_CAEEL,3,3,4,5,9,10,4,4,let-75,WBGene00202503,Public name for WBGene00202503. History: N.A.
+rpl-21,RL21_CAEEL,3,3,4,5,3,4,6,6,rpl-21,WBGene00004433,Public name for WBGene00004433. History: N.A.
+rps-7,RS7_CAEEL,3,3,4,5,4,4,5,5,rps-7,WBGene00004476,Public name for WBGene00004476. History: N.A.
+rpl-23,RL23_CAEEL,3,3,4,8,2,2,2,7,rpl-23,WBGene00004435,Public name for WBGene00004435. History: N.A.
+eif-3.G,EIF3G_CAEEL,3,3,3,3,5,5,4,4,eif-3.G,WBGene00001230,Public name for WBGene00001230. History: N.A.
+ifb-1,IFB1_CAEEL,3,3,3,3,0,0,9,9,ifb-1,WBGene00002053,Public name for WBGene00002053. History: N.A.
+lys-1,O62415_CAEEL,3,3,2,2,4,7,1,1,lys-1,WBGene00003090,Public name for WBGene00003090. History: N.A.
+rps-25,RS25_CAEEL,2,3,2,5,2,3,4,7,rps-25,WBGene00004494,Public name for WBGene00004494. History: N.A.
+Y37E3.10,Q9BKU3_CAEEL,3,3,2,2,3,3,4,4,Y37E3.10,WBGene00021351,Sequence name for WBGene00021351(eif-2alpha). History: N.A.
+rps-15,RS15_CAEEL,3,3,1,1,2,2,2,2,rps-15,WBGene00004484,Public name for WBGene00004484. History: N.A.
+R05G6.7,VDAC_CAEEL,3,3,1,1,1,1,2,2,R05G6.7,WBGene00019900,Sequence name for WBGene00019900(vdac-1). History: N.A.
+myo-2,MYO2_CAEEL,3,3,0,0,6,6,2,4,myo-2,WBGene00003514,Public name for WBGene00003514. History: N.A.
+cht-1,CHIT_CAEEL,3,3,0,0,6,6,0,0,cht-1,WBGene00000503,Public name for WBGene00000503. History: N.A.
+ain-2,Q95R18_CAEEL,3,3,0,0,3,5,1,2,ain-2,WBGene00015007,Public name for WBGene00015007. History: N.A.
+Y54E10BR.5,Q9N3D0_CAEEL,1,3,0,0,1,4,0,0,Y54E10BR.5,WBGene00021844,Sequence name for WBGene00021844(sec-11). History: N.A.
+,IGHG_RABIT,2,3,0,0,2,4,0,0,,,
+lys-8,Q09975_CAEEL,2,3,0,0,2,2,0,0,lys-8,WBGene00003097,Public name for WBGene00003097. History: N.A.
+hsp-60,CH60_CAEEL,2,2,38,94,2,2,34,94,hsp-60,WBGene00002025,Public name for WBGene00002025. History: N.A.
+vit-3,VIT3_CAEEL,2,2,26,29,0,0,47,56,vit-3,WBGene00006927,Public name for WBGene00006927. History: N.A.
+abcf-2,G5EFG4_CAEEL,2,2,22,23,1,1,18,19,abcf-2,WBGene00012097,Public name for WBGene00012097. History: N.A.
+pcca-1,PCCA_CAEEL,2,2,20,21,4,4,13,14,pcca-1,WBGene00017864,Public name for WBGene00017864. History: N.A.
+H27A22.1,G5EBT9_CAEEL,2,2,15,44,4,4,13,38,H27A22.1,WBGene00010418,Public name for WBGene00010418. History: N.A.
+ahcy-1,SAHH_CAEEL,1,2,13,14,9,9,14,18,ahcy-1,WBGene00019322,Public name for WBGene00019322. History: Renamed on 2005-02-01; Renamed on 2015-03-05
+F22B3.4,Q19699_CAEEL,2,2,11,13,1,1,9,13,F22B3.4,WBGene00009035,Sequence name for WBGene00009035(gfat-2). History: N.A.
+cey-4,G5EDV3_CAEEL,2,2,10,10,3,3,8,10,cey-4,WBGene00000475,Public name for WBGene00000475. History: N.A.
+rpt-1,PRS7_CAEEL,2,2,10,12,1,1,13,15,rpt-1,WBGene00004501,Public name for WBGene00004501. History: N.A.
+rpl-20,RL18A_CAEEL,2,2,9,13,3,3,9,15,rpl-20,WBGene00004432,Public name for WBGene00004432. History: N.A.
+atad-3,ATAD3_CAEEL,2,2,8,9,3,4,9,10,atad-3,WBGene00010015,Public name for WBGene00010015. History: N.A.
+mcm-5,MCM5_CAEEL,1,2,8,8,0,0,13,14,mcm-5,WBGene00003157,Public name for WBGene00003157. History: N.A.
+rpt-5,O76371_CAEEL,2,2,7,9,3,3,6,7,rpt-5,WBGene00004505,Public name for WBGene00004505. History: N.A.
+drs-1,SYDC_CAEEL,2,2,7,7,2,2,8,36,drs-1,WBGene00001094,Other name for WBGene00001094(dars-1). History: Renamed on 2010-01-29
+vha-12,VATB_CAEEL,2,2,6,7,4,4,8,12,vha-12,WBGene00006921,Public name for WBGene00006921. History: N.A.
+Y69A2AR.18,Q95XJ0_CAEEL,2,2,6,9,3,3,10,12,Y69A2AR.18,WBGene00022089,Public name for WBGene00022089. History: N.A.
+rpl-25.2,R23A2_CAEEL,2,2,6,10,2,3,4,10,rpl-25.2,WBGene00004439,Public name for WBGene00004439. History: N.A.
+rpl-8,RL8_CAEEL,2,2,6,7,2,2,7,8,rpl-8,WBGene00004419,Other name for WBGene00004419(rpl-7A). History: Renamed on 2005-03-17
+rpl-10a,RL10A_CAEEL,2,2,6,6,2,2,6,7,rpl-10a,WBGene00004412,Other name for WBGene00004412(rpl-1). History: Renamed on 2004-07-05
+dld-1,O17953_CAEEL,2,2,5,6,2,2,2,3,dld-1,WBGene00010794,Public name for WBGene00010794. History: N.A.
+rme-1,G5EEU7_CAEEL,2,2,5,6,1,1,6,6,rme-1,WBGene00004373,Public name for WBGene00004373. History: N.A.
+rps-10,O01869_CAEEL,2,2,4,4,2,3,3,3,rps-10,WBGene00004479,Public name for WBGene00004479. History: N.A.
+rps-6,RS6_CAEEL,2,2,4,13,2,2,7,7,rps-6,WBGene00004475,Public name for WBGene00004475. History: N.A.
+rpl-14,Q9XVE9_CAEEL,2,2,4,5,2,2,3,5,rpl-14,WBGene00004426,Public name for WBGene00004426. History: N.A.
+F21D5.1,Q19680_CAEEL,2,2,4,4,1,1,7,8,F21D5.1,WBGene00009006,Public name for WBGene00009006. History: N.A.
+sdha-2,O44954_CAEEL,2,2,4,4,1,1,6,7,sdha-2,WBGene00016392,Public name for WBGene00016392. History: N.A.
+rpl-12,RL12_CAEEL,2,2,4,5,1,1,3,4,rpl-12,WBGene00004424,Public name for WBGene00004424. History: N.A.
+gsy-1,GYS_CAEEL,2,2,4,4,1,1,2,2,gsy-1,WBGene00001793,Public name for WBGene00001793. History: N.A.
+rpl-32,B7WN95_CAEEL,2,2,4,5,0,0,2,4,rpl-32,WBGene00004446,Public name for WBGene00004446. History: N.A.
+phb-1,PHB1_CAEEL,2,2,3,3,1,1,5,6,phb-1,WBGene00004014,Public name for WBGene00004014. History: N.A.
+rpl-25.1,R23A1_CAEEL,2,2,3,3,1,1,6,6,rpl-25.1,WBGene00004438,Public name for WBGene00004438. History: N.A.
+rpl-34,A3QMC5_CAEEL,2,2,3,4,1,1,2,4,rpl-34,WBGene00004448,Public name for WBGene00004448. History: N.A.
+tbb-1,O17921_CAEEL,2,2,3,3,1,1,2,2,tbb-1,WBGene00006536,Public name for WBGene00006536. History: N.A.
+K01G5.5,DKC1_CAEEL,2,2,3,3,0,0,9,16,K01G5.5,WBGene00010478,Public name for WBGene00010478. History: N.A.
+sdhb-1,DHSB_CAEEL,2,2,3,3,0,0,4,5,sdhb-1,WBGene00006433,Public name for WBGene00006433. History: Renamed on 2006-07-19
+alh-8,MMSA_CAEEL,2,2,2,3,4,4,3,4,alh-8,WBGene00000114,Public name for WBGene00000114. History: N.A.
+pab-1,Q7K798_CAEEL,2,2,2,2,3,4,2,2,pab-1,WBGene00003902,Public name for WBGene00003902. History: N.A.
+rps-28,RS28_CAEEL,2,2,2,3,2,2,1,1,rps-28,WBGene00004497,Public name for WBGene00004497. History: N.A.
+K04G2.1,IF2B_CAEEL,1,2,2,2,1,1,2,2,K04G2.1,WBGene00010560,Sequence name for WBGene00010560(eif-2beta). History: Renamed on 2017-01-09
+prp-8,PRP8_CAEEL,2,2,2,2,0,0,10,11,prp-8,WBGene00004187,Public name for WBGene00004187. History: N.A.
+kin-2,KAPR_CAEEL,1,2,2,2,0,0,2,2,kin-2,WBGene00002190,Public name for WBGene00002190. History: N.A.
+F23B12.5,ODP2_CAEEL,2,2,1,1,2,3,4,4,F23B12.5,WBGene00009082,Sequence name for WBGene00009082(dlat-1). History: N.A.
+lec-2,G5EGB1_CAEEL,2,2,0,0,3,3,2,3,lec-2,WBGene00002265,Public name for WBGene00002265. History: N.A.
+F25B4.5,Q22961_CAEEL,2,2,0,0,2,3,0,0,F25B4.5,WBGene00017768,Sequence name for WBGene00017768(prp-39). History: N.A.
+F28A12.4,Q22972_CAEEL,1,2,0,0,2,3,0,0,F28A12.4,WBGene00017881,Sequence name for WBGene00017881(asp-13). History: N.A.
+snap-1,Q18921_CAEEL,2,2,0,0,2,2,0,0,snap-1,WBGene00017016,Public name for WBGene00017016. History: Renamed on 2005-03-17
+Y66H1A.4,GAR1_CAEEL,2,2,0,0,2,2,0,0,Y66H1A.4,WBGene00022046,Sequence name for WBGene00022046(garr-1). History: N.A.
+yif-1,Q20913_CAEEL,2,2,0,0,2,2,0,0,yif-1,WBGene00010178,Public name for WBGene00010178. History: N.A.
+uaf-1,U2AF2_CAEEL,2,2,0,0,1,1,2,2,uaf-1,WBGene00006697,Public name for WBGene00006697. History: N.A.
+arf-1.2,ARF12_CAEEL,2,2,0,0,1,1,0,0,arf-1.2,WBGene00000182,Other name for WBGene00000182(arf-1). History: Renamed on 2020-09-10
+F59B1.2,O61880_CAEEL,2,2,0,0,1,1,0,0,F59B1.2,WBGene00019097,Public name for WBGene00019097. History: N.A.
+grsp-2,H2L276_CAEEL,1,2,0,0,1,1,0,0,grsp-2,WBGene00012118,Public name for WBGene00012118. History: N.A.
+rps-27,RS27_CAEEL,1,2,0,0,1,1,0,0,rps-27,WBGene00004496,Public name for WBGene00004496. History: N.A.
+syn-3,STX3_CAEEL,2,2,0,0,1,1,0,0,syn-3,WBGene00006373,Other name for WBGene00006373(syx-5). History: Renamed on 2010-04-16
+mec-12,TBA3_CAEEL,2,2,0,0,0,0,2,2,mec-12,WBGene00003175,Public name for WBGene00003175. History: N.A.
+Y71F9AL.17,Q9N4H7_CAEEL,1,1,31,40,0,0,29,35,Y71F9AL.17,WBGene00022119,Sequence name for WBGene00022119(copa-1). History: N.A.
+T23E7.2,H2KZS2_CAEEL,1,1,12,13,3,3,14,20,T23E7.2,WBGene00020732,Public name for WBGene00020732. History: N.A.
+rpt-4,PRS10_CAEEL,1,1,11,12,0,0,8,9,rpt-4,WBGene00004504,Public name for WBGene00004504. History: N.A.
+idhg-2,Q95YD8_CAEEL,1,1,11,12,0,0,7,8,idhg-2,WBGene00016266,Public name for WBGene00016266. History: N.A.
+par-5,14331_CAEEL,1,1,9,15,2,2,7,11,par-5,WBGene00003920,Public name for WBGene00003920. History: N.A.
+pmt-2,Q22993_CAEEL,1,1,9,11,1,1,9,13,pmt-2,WBGene00018811,Public name for WBGene00018811. History: N.A.
+acs-4,Q20121_CAEEL,1,1,9,10,1,1,9,9,acs-4,WBGene00018152,Public name for WBGene00018152. History: N.A.
+tct-1,TCTP_CAEEL,1,1,8,11,0,0,5,7,tct-1,WBGene00009122,Public name for WBGene00009122. History: N.A.
+vha-15,VATH2_CAEEL,1,1,7,7,1,1,7,7,vha-15,WBGene00020507,Public name for WBGene00020507. History: Renamed on 2005-03-17
+rpt-3,PRS6B_CAEEL,1,1,7,8,1,1,6,6,rpt-3,WBGene00004503,Public name for WBGene00004503. History: N.A.
+aco-2,ACON_CAEEL,1,1,6,10,5,5,6,10,aco-2,WBGene00000041,Public name for WBGene00000041. History: N.A.
+pars-1,Q65ZK5_CAEEL,1,1,6,6,1,1,5,5,pars-1,WBGene00004189,Public name for WBGene00004189. History: Renamed on 2010-01-29
+tag-18,Q22508_CAEEL,1,1,6,6,1,1,5,5,tag-18,WBGene00006408,Public name for WBGene00006408. History: N.A.
+rpt-2,PRS4_CAEEL,1,1,5,6,2,2,10,10,rpt-2,WBGene00004502,Public name for WBGene00004502. History: N.A.
+aldo-2,ALF2_CAEEL,1,1,5,5,0,0,7,7,aldo-2,WBGene00017166,Public name for WBGene00017166. History: N.A.
+ctl-1,CATA2_CAEEL,1,1,5,5,0,0,4,4,ctl-1,WBGene00000830,Public name for WBGene00000830. History: N.A.
+atp-5,Q17763_CAEEL,1,1,4,4,4,4,4,4,atp-5,WBGene00007385,Public name for WBGene00007385. History: N.A.
+rpl-17,RL17_CAEEL,1,1,4,5,1,1,6,7,rpl-17,WBGene00004429,Public name for WBGene00004429. History: N.A.
+rps-22,A8WIR1_CAEEL,1,1,4,5,1,1,4,5,rps-22,WBGene00004491,Public name for WBGene00004491. History: N.A.
+rpl-24.1,RL24_CAEEL,1,1,4,5,1,1,3,4,rpl-24.1,WBGene00004436,Public name for WBGene00004436. History: N.A.
+C13B9.3,COPD_CAEEL,1,1,4,5,0,0,3,3,C13B9.3,WBGene00015734,Sequence name for WBGene00015734(copd-1). History: N.A.
+T25F10.6,Q23050_CAEEL,1,1,3,3,4,4,6,8,T25F10.6,WBGene00020808,Sequence name for WBGene00020808(clik-1). History: N.A.
+imph-1,K8FE02_CAEEL,1,1,3,4,3,3,3,3,imph-1,WBGene00010908,Public name for WBGene00010908. History: Renamed on 2018-03-19
+iff-1,IF5A1_CAEEL,1,1,3,4,2,2,3,5,iff-1,WBGene00002064,Public name for WBGene00002064. History: N.A.
+vit-4,VIT4_CAEEL,1,1,3,3,1,1,4,7,vit-4,WBGene00006928,Public name for WBGene00006928. History: N.A.
+rpl-28,RL28_CAEEL,1,1,3,3,1,1,2,2,rpl-28,WBGene00004442,Public name for WBGene00004442. History: N.A.
+B0303.3,YKA3_CAEEL,1,1,3,3,0,0,4,4,B0303.3,WBGene00015125,Public name for WBGene00015125. History: N.A.
+rps-20,Q8WQA8_CAEEL,1,1,2,2,3,3,2,3,rps-20,WBGene00004489,Public name for WBGene00004489. History: N.A.
+C04C3.3,ODPB_CAEEL,1,1,2,3,2,2,3,3,C04C3.3,WBGene00015413,Sequence name for WBGene00015413(pdhb-1). History: N.A.
+rpl-36,RL36_CAEEL,1,1,2,2,2,2,3,3,rpl-36,WBGene00004450,Public name for WBGene00004450. History: N.A.
+rpa-2,RLA2_CAEEL,1,1,2,3,1,2,2,2,rpa-2,WBGene00019767,Public name for WBGene00019767. History: N.A.
+eat-6,P90735_CAEEL,1,1,2,2,1,1,17,18,eat-6,WBGene00001137,Public name for WBGene00001137. History: N.A.
+rps-23,RS23_CAEEL,1,1,2,3,1,1,3,4,rps-23,WBGene00004492,Public name for WBGene00004492. History: N.A.
+rpl-26,RL26_CAEEL,1,1,2,2,1,1,2,2,rpl-26,WBGene00004440,Public name for WBGene00004440. History: N.A.
+rps-21,RS21_CAEEL,1,1,2,2,1,1,2,2,rps-21,WBGene00004490,Public name for WBGene00004490. History: N.A.
+rps-26,RS26_CAEEL,1,1,2,2,1,1,2,2,rps-26,WBGene00004495,Public name for WBGene00004495. History: N.A.
+W09H1.5,MECR1_CAEEL,1,1,2,2,0,0,3,3,W09H1.5,WBGene00012375,Sequence name for WBGene00012375(mecr-1). History: N.A.
+rpl-31,RL31_CAEEL,1,1,2,3,0,0,2,2,rpl-31,WBGene00004445,Public name for WBGene00004445. History: N.A.
+cdc-48.2,TERA2_CAEEL,1,1,2,2,0,0,1,2,cdc-48.2,WBGene00008053,Public name for WBGene00008053. History: N.A.
+pas-5,PSA5_CAEEL,1,1,2,2,0,0,2,2,pas-5,WBGene00003926,Public name for WBGene00003926. History: Renamed on 2009-01-09
+rpl-35,RL35_CAEEL,1,1,2,2,0,0,2,2,rpl-35,WBGene00004449,Public name for WBGene00004449. History: N.A.
+R12E2.13,O61793_CAEEL,1,1,1,1,2,2,2,2,R12E2.13,WBGene00020038,Public name for WBGene00020038. History: N.A.
+tiar-1,Q8IG50_CAEEL,1,1,1,1,2,2,1,1,tiar-1,WBGene00015943,Public name for WBGene00015943. History: N.A.
+msp-152,MS152_CAEEL,1,1,1,1,1,1,2,3,msp-152,WBGene00003470,Public name for WBGene00003470. History: N.A.
+abcf-3,Q20306_CAEEL,1,1,1,1,1,1,1,2,abcf-3,WBGene00018339,Public name for WBGene00018339. History: N.A.
+sap-1,RU2A_CAEEL,1,1,1,1,1,1,1,2,sap-1,WBGene00003390,Other name for WBGene00003390(mog-2). History: Renamed on 2011-05-05
+hsp-17,Q20660_CAEEL,1,1,1,1,1,1,1,1,hsp-17,WBGene00002021,Public name for WBGene00002021. History: N.A.
+M142.5,Q21541_CAEEL,1,1,1,1,1,1,1,1,M142.5,WBGene00010922,"Public name for WBGene00010922. History: Split into M142.8(WBGene00043057). History of WBGene00010922: Split into ""WBGene00043057"" on 2004-09-14"
+stam-1,STAM1_CAEEL,1,1,1,1,1,1,1,1,stam-1,WBGene00004109,Public name for WBGene00004109. History: N.A.
+vha-2,VATL2_CAEEL,1,1,1,1,1,1,1,1,vha-2,WBGene00006911,Public name for WBGene00006911. History: N.A.
+glna-1,H2L2H3_CAEEL,1,1,1,1,0,0,7,7,glna-1,WBGene00007480,"Public name for WBGene00007480. History: Split into C09F9.7(WBGene00045322). History of WBGene00007480: Split into ""WBGene00045322"" on 2007-03-22"
+ddx-19,Q22308_CAEEL,1,1,1,1,0,0,1,2,ddx-19,WBGene00011580,Public name for WBGene00011580. History: N.A.
+F28C6.8,I2HA91_CAEEL,1,1,1,1,0,0,1,1,F28C6.8,WBGene00009207,Public name for WBGene00009207. History: N.A.
+tnt-2,Q7Z071_CAEEL,1,1,0,0,3,4,1,1,tnt-2,WBGene00006587,Public name for WBGene00006587. History: N.A.
+mup-2,TNNT_CAEEL,1,1,0,0,4,4,0,0,mup-2,WBGene00003495,Public name for WBGene00003495. History: N.A.
+rps-12,RS12_CAEEL,1,1,0,0,2,2,1,2,rps-12,WBGene00004481,Public name for WBGene00004481. History: N.A.
+sqv-4,UGDH_CAEEL,1,1,0,0,1,1,1,1,sqv-4,WBGene00005022,Public name for WBGene00005022. History: N.A.
+asp-4,Q21966_CAEEL,1,1,0,0,1,1,0,0,asp-4,WBGene00000217,Public name for WBGene00000217. History: N.A.
+col-8,COL8_CAEEL,1,1,0,0,1,1,0,0,col-8,WBGene00000597,Public name for WBGene00000597. History: N.A.
+cyn-3,CYP3_CAEEL,1,1,0,0,1,1,0,0,cyn-3,WBGene00000879,Public name for WBGene00000879. History: N.A.
+pqn-83,Q69YZ0_CAEEL,1,1,0,0,1,1,0,0,pqn-83,WBGene00004164,Public name for WBGene00004164. History: N.A.
+sna-2,Q94050_CAEEL,1,1,0,0,1,1,0,0,sna-2,WBGene00011747,Public name for WBGene00011747. History: N.A.
+tba-6,P91873_CAEEL,1,1,0,0,1,1,0,0,tba-6,WBGene00006532,Public name for WBGene00006532. History: N.A.
+vbh-1,Q95XY1_CAEEL,1,1,0,0,1,1,0,0,vbh-1,WBGene00006888,Public name for WBGene00006888. History: N.A.
+ifa-4,IFA4_CAEEL,1,1,0,0,0,0,2,2,ifa-4,WBGene00002052,Public name for WBGene00002052. History: N.A.
+pqn-59,O61708_CAEEL,1,1,0,0,0,0,2,2,pqn-59,WBGene00004143,Public name for WBGene00004143. History: N.A.
+hel-1,DX39B_CAEEL,1,1,0,0,0,0,1,1,hel-1,WBGene00001840,Public name for WBGene00001840. History: N.A.
+uso-1,Q2EEM5_CAEEL,1,1,0,0,0,0,1,1,uso-1,WBGene00010713,Public name for WBGene00010713. History: N.A.
+F39C12.1,O61201_CAEEL,0,0,82,98,0,0,86,103,F39C12.1,WBGene00018193,Public name for WBGene00018193. History: N.A.
+F54B3.1,A5Z2S3_CAEEL,0,0,70,79,0,0,46,51,F54B3.1,WBGene00010013,Public name for WBGene00010013. History: N.A.
+Y32H12A.8,Q9N533_CAEEL,0,0,60,66,0,0,68,76,Y32H12A.8,WBGene00021316,Public name for WBGene00021316. History: N.A.
+ketn-1,H2L074_CAEEL,0,0,52,60,6,7,57,65,ketn-1,WBGene00004130,Public name for WBGene00004130. History: N.A.
+suf-1,Q19866_CAEEL,0,0,45,113,0,0,45,101,suf-1,WBGene00006307,Public name for WBGene00006307. History: N.A.
+Y37E3.17,H2L0N9_CAEEL,0,0,42,68,0,0,35,53,Y37E3.17,WBGene00021355,Public name for WBGene00021355. History: N.A.
+hcp-1,O76447_CAEEL,0,0,40,48,0,0,44,54,hcp-1,WBGene00001829,Public name for WBGene00001829. History: N.A.
+R12C12.1,Q21962_CAEEL,0,0,38,96,2,2,37,106,R12C12.1,WBGene00020022,Sequence name for WBGene00020022(gldc-1). History: N.A.
+smg-2,RENT1_CAEEL,0,0,36,52,0,0,32,53,smg-2,WBGene00004880,Public name for WBGene00004880. History: N.A.
+T19B4.5,P91453_CAEEL,0,0,27,77,0,0,30,88,T19B4.5,WBGene00020558,Public name for WBGene00020558. History: N.A.
+sax-7,Q53U86_CAEEL,0,0,27,39,0,0,32,47,sax-7,WBGene00004732,Public name for WBGene00004732. History: N.A.
+F40A3.6,O16266_CAEEL,0,0,25,81,0,0,23,122,F40A3.6,WBGene00018221,Public name for WBGene00018221. History: N.A.
+cpf-1,Q19864_CAEEL,0,0,22,156,0,0,20,200,cpf-1,WBGene00000773,Public name for WBGene00000773. History: N.A.
+F22G12.1,G5ED04_CAEEL,0,0,21,36,0,0,19,32,F22G12.1,WBGene00009061,"Sequence name for WBGene00009061(pals-14). History: Split into pals-15(WBGene00044707). History of WBGene00009061: Split into ""WBGene00044707"" on 2006-01-13"
+F46G10.1,Q20476_CAEEL,0,0,19,34,1,1,18,66,F46G10.1,WBGene00009796,Public name for WBGene00009796. History: N.A.
+rpn-1,Q9GZH5_CAEEL,0,0,19,21,1,1,19,26,rpn-1,WBGene00004458,Public name for WBGene00004458. History: N.A.
+F38E11.5,COPB2_CAEEL,0,0,19,21,0,0,21,26,F38E11.5,WBGene00009542,Sequence name for WBGene00009542(copb-2). History: N.A.
+cct-1,TCPA_CAEEL,0,0,18,21,0,0,11,12,cct-1,WBGene00000377,Public name for WBGene00000377. History: N.A.
+T21B10.3,Q22624_CAEEL,0,0,16,19,0,0,16,20,T21B10.3,WBGene00011885,Public name for WBGene00011885. History: N.A.
+cpsf-1,CPSF1_CAEEL,0,0,16,17,0,0,16,18,cpsf-1,WBGene00022301,Public name for WBGene00022301. History: N.A.
+F18C12.3,G5EFM7_CAEEL,0,0,16,19,0,0,14,17,F18C12.3,WBGene00008934,Public name for WBGene00008934. History: N.A.
+cct-3,Q9N4J8_CAEEL,0,0,16,18,0,0,10,11,cct-3,WBGene00018782,Public name for WBGene00018782. History: N.A.
+spc-1,G4S034_CAEEL,0,0,15,18,1,1,42,48,spc-1,WBGene00004951,Public name for WBGene00004951. History: N.A.
+copb-1,Q9TYL9_CAEEL,0,0,15,20,1,1,14,15,copb-1,WBGene00021292,Public name for WBGene00021292. History: N.A.
+cah-4,Q8WQD8_CAEEL,0,0,15,135,0,0,15,132,cah-4,WBGene00000282,Public name for WBGene00000282. History: N.A.
+pde-6,PDE6_CAEEL,0,0,15,20,0,0,25,38,pde-6,WBGene00022389,Public name for WBGene00022389. History: N.A.
+rme-2,O44191_CAEEL,0,0,15,24,0,0,12,23,rme-2,WBGene00004374,Public name for WBGene00004374. History: N.A.
+gln-2,GLNA_CAEEL,0,0,15,20,0,0,17,22,gln-2,WBGene00001603,Public name for WBGene00001603. History: N.A.
+T08A11.1,G5EBK0_CAEEL,0,0,15,19,0,0,10,11,T08A11.1,WBGene00011604,Public name for WBGene00011604. History: N.A.
+gls-1,GLS1_CAEEL,0,0,14,19,1,1,13,19,gls-1,WBGene00007975,Public name for WBGene00007975. History: N.A.
+cct-6,TCPZ_CAEEL,0,0,14,18,1,1,8,10,cct-6,WBGene00000381,Public name for WBGene00000381. History: N.A.
+sir-2.2,SIR41_CAEEL,0,0,14,29,0,0,14,29,sir-2.2,WBGene00004801,Public name for WBGene00004801. History: N.A.
+swsn-4,G5EF53_CAEEL,0,0,14,17,0,0,21,26,swsn-4,WBGene00004204,Public name for WBGene00004204. History: Renamed on 2011-02-11
+C08B11.3,YP83_CAEEL,0,0,14,19,0,0,15,20,C08B11.3,WBGene00007433,Sequence name for WBGene00007433(swsn-7). History: N.A.
+swsn-1,G5EF87_CAEEL,0,0,14,18,0,0,14,19,swsn-1,WBGene00004203,Public name for WBGene00004203. History: Renamed on 2011-02-11
+unc-44,G5ECZ1_CAEEL,0,0,12,14,0,0,30,35,unc-44,WBGene00006780,Public name for WBGene00006780. History: N.A.
+pptr-2,Q17948_CAEEL,0,0,12,16,0,0,16,21,pptr-2,WBGene00007554,Public name for WBGene00007554. History: N.A.
+paa-1,2AAA_CAEEL,0,0,12,15,0,0,11,11,paa-1,WBGene00003901,Public name for WBGene00003901. History: N.A.
+laf-1,D0PV95_CAEEL,0,0,11,12,6,6,11,15,laf-1,WBGene00002244,Public name for WBGene00002244. History: N.A.
+pccb-1,Q8WQF1_CAEEL,0,0,11,12,3,3,13,15,pccb-1,WBGene00018701,Public name for WBGene00018701. History: N.A.
+F01G4.6,MPCP_CAEEL,0,0,11,16,0,0,9,15,F01G4.6,WBGene00008505,Public name for WBGene00008505. History: N.A.
+rpn-2,PSMD1_CAEEL,0,0,11,11,0,0,11,12,rpn-2,WBGene00004459,Public name for WBGene00004459. History: N.A.
+fib-1,FBRL_CAEEL,0,0,10,13,3,3,10,15,fib-1,WBGene00001423,Public name for WBGene00001423. History: N.A.
+fasn-1,P91871_CAEEL,0,0,10,10,0,0,19,20,fasn-1,WBGene00009342,Public name for WBGene00009342. History: Renamed on 2015-03-06
+rpl-3,RL3_CAEEL,0,0,10,12,0,0,13,19,rpl-3,WBGene00004414,Public name for WBGene00004414. History: N.A.
+haf-4,Q9TZD9_CAEEL,0,0,9,9,0,0,14,16,haf-4,WBGene00001814,Public name for WBGene00001814. History: N.A.
+npp-18,SEH1_CAEEL,0,0,9,11,0,0,9,14,npp-18,WBGene00003804,Public name for WBGene00003804. History: N.A.
+unc-11,PICA_CAEEL,0,0,9,11,0,0,8,10,unc-11,WBGene00006751,Public name for WBGene00006751. History: Renamed on 2015-03-05
+tut-1,CTU1_CAEEL,0,0,9,11,0,0,8,9,tut-1,WBGene00017928,Public name for WBGene00017928. History: N.A.
+C28H8.3,YP93_CAEEL,0,0,9,10,0,0,8,9,C28H8.3,WBGene00016194,Public name for WBGene00016194. History: N.A.
+msh-2,Q9TXR4_CAEEL,0,0,9,9,0,0,9,9,msh-2,WBGene00003418,Public name for WBGene00003418. History: N.A.
+sams-3,METK3_CAEEL,0,0,9,14,0,0,6,7,sams-3,WBGene00015538,Public name for WBGene00015538. History: N.A.
+F01G12.6,Q19101_CAEEL,0,0,9,10,0,0,6,7,F01G12.6,WBGene00020770,"Public name for Dead gene WBGene00017171. History of WBGene00017171: Merged into ""WBGene00020770"" on 2013-07-17"
+cpsf-2,CPSF2_CAEEL,0,0,9,9,0,0,5,5,cpsf-2,WBGene00017313,Public name for WBGene00017313. History: N.A.
+pdi-2,PDI2_CAEEL,0,0,9,9,0,0,5,5,pdi-2,WBGene00003963,Public name for WBGene00003963. History: N.A.
+T25F10.6,H2L0M6_CAEEL,0,0,8,8,4,4,12,14,T25F10.6,WBGene00020808,Sequence name for WBGene00020808(clik-1). History: N.A.
+F46H5.3,KARG1_CAEEL,0,0,8,10,2,2,5,5,F46H5.3,WBGene00018519,Public name for WBGene00018519. History: N.A.
+let-92,G5EGK8_CAEEL,0,0,8,10,0,0,8,11,let-92,WBGene00002363,Public name for WBGene00002363. History: N.A.
+C32E8.3,YBYK_CAEEL,0,0,8,9,0,0,7,10,C32E8.3,WBGene00016321,Sequence name for WBGene00016321(tppp-1). History: N.A.
+C37E2.1,IDH3B_CAEEL,0,0,8,9,0,0,8,8,C37E2.1,WBGene00007993,Sequence name for WBGene00007993(idhb-1). History: N.A.
+swsn-3,Q9BL39_CAEEL,0,0,8,8,0,0,7,7,swsn-3,WBGene00022182,Public name for WBGene00022182. History: N.A.
+rpn-3,PSMD3_CAEEL,0,0,8,8,0,0,5,6,rpn-3,WBGene00004460,Public name for WBGene00004460. History: N.A.
+vig-1,H2KYR1_CAEEL,0,0,7,7,1,2,7,7,vig-1,WBGene00006924,Public name for WBGene00006924. History: N.A.
+mcm-2,Q9XXI9_CAEEL,0,0,7,9,1,1,10,11,mcm-2,WBGene00003154,Public name for WBGene00003154. History: N.A.
+rps-13,RS13_CAEEL,0,0,7,7,1,1,7,8,rps-13,WBGene00004482,Public name for WBGene00004482. History: N.A.
+F15G9.1,YSI1_CAEEL,0,0,7,7,0,0,17,23,F15G9.1,WBGene00008865,Public name for WBGene00008865. History: N.A.
+pbrm-1,G5EEY5_CAEEL,0,0,7,11,0,0,15,16,pbrm-1,WBGene00007042,Public name for WBGene00007042. History: Renamed on 2007-08-01
+gsk-3,GSK3_CAEEL,0,0,7,9,0,0,9,14,gsk-3,WBGene00001746,Public name for WBGene00001746. History: N.A.
+lec-10,G5EBV4_CAEEL,0,0,7,12,0,0,7,11,lec-10,WBGene00002273,Public name for WBGene00002273. History: N.A.
+clu-1,CLU_CAEEL,0,0,7,8,0,0,9,11,clu-1,WBGene00000550,Public name for WBGene00000550. History: N.A.
+T16G1.9,Q9U367_CAEEL,0,0,7,8,0,0,8,11,T16G1.9,WBGene00011802,Public name for WBGene00011802. History: N.A.
+C30H7.2,G5EFF8_CAEEL,0,0,7,8,0,0,9,9,C30H7.2,WBGene00016278,Sequence name for WBGene00016278(erp-44.1). History: N.A.
+nprl-2,Q20633_CAEEL,0,0,7,7,0,0,8,9,nprl-2,WBGene00018635,"Public name for WBGene00018635. History: Split into F49E8.8(WBGene00302976). History of WBGene00018635: Split into ""WBGene00302976"" on 2018-03-06"
+swsn-9,A5JYT2_CAEEL,0,0,7,8,0,0,8,8,swsn-9,WBGene00007256,Public name for WBGene00007256. History: Renamed on 2012-08-29
+Y39H10A.6,Q965W8_CAEEL,0,0,7,8,0,0,7,8,Y39H10A.6,WBGene00021482,Sequence name for WBGene00021482(gid-7). History: N.A.
+Y77E11A.1,Q9N4A5_CAEEL,0,0,7,8,0,0,7,8,Y77E11A.1,WBGene00022306,Sequence name for WBGene00022306(hxk-3). History: N.A.
+C06A6.5,TXNDL_CAEEL,0,0,7,11,0,0,6,7,C06A6.5,WBGene00015510,Sequence name for WBGene00015510(erp-44.2). History: N.A.
+F09B12.3,PLBL2_CAEEL,0,0,7,10,0,0,7,7,F09B12.3,WBGene00008607,Public name for WBGene00008607. History: N.A.
+sek-1,G5EDF7_CAEEL,0,0,7,7,0,0,5,6,sek-1,WBGene00004758,Public name for WBGene00004758. History: N.A.
+sams-1,METK1_CAEEL,0,0,7,7,0,0,5,5,sams-1,WBGene00008205,Public name for WBGene00008205. History: Renamed on 2016-06-14
+mel-46,G5ED26_CAEEL,0,0,7,8,0,0,4,4,mel-46,WBGene00020284,Public name for WBGene00020284. History: N.A.
+pod-2,Q7KQ29_CAEEL,0,0,7,8,0,0,3,4,pod-2,WBGene00004076,Public name for WBGene00004076. History: N.A.
+F41C3.5,YUW5_CAEEL,0,0,7,7,0,0,3,4,F41C3.5,WBGene00018271,Sequence name for WBGene00018271(ctsa-1.1). History: N.A.
+mccc-1,O45430_CAEEL,0,0,6,6,1,1,8,10,mccc-1,WBGene00009319,Public name for WBGene00009319. History: N.A.
+fln-1,D0IMZ6_CAEEL,0,0,6,8,1,1,6,7,fln-1,WBGene00022048,Public name for WBGene00022048. History: N.A.
+F56F11.4,Q8MXF1_CAEEL,0,0,6,6,1,1,5,5,F56F11.4,WBGene00018991,Public name for WBGene00018991. History: N.A.
+abts-3,G5EBE4_CAEEL,0,0,6,7,0,0,10,12,abts-3,WBGene00019018,Public name for WBGene00019018. History: N.A.
+gld-4,GLD4_CAEEL,0,0,6,7,0,0,5,12,gld-4,WBGene00014115,Public name for WBGene00014115. History: N.A.
+ketn-1,H2L075_CAEEL,0,0,6,8,0,0,5,10,ketn-1,WBGene00004130,Public name for WBGene00004130. History: N.A.
+madf-6,H2KZF9_CAEEL,0,0,6,10,0,0,7,9,madf-6,WBGene00016930,Public name for WBGene00016930. History: N.A.
+pfs-2,Q9NAN8_CAEEL,0,0,6,6,0,0,7,9,pfs-2,WBGene00011051,Public name for WBGene00011051. History: N.A.
+F45G2.4,COPE_CAEEL,0,0,6,8,0,0,7,8,F45G2.4,WBGene00009732,Sequence name for WBGene00009732(cope-1). History: N.A.
+alh-9,AL7A1_CAEEL,0,0,6,7,0,0,5,8,alh-9,WBGene00000115,Public name for WBGene00000115. History: N.A.
+ham-3,Q09646_CAEEL,0,0,6,6,0,0,7,8,ham-3,WBGene00044072,Public name for WBGene00044072. History: Renamed on 2011-02-11; Renamed on 2012-07-20
+cah-3,CAH3_CAEEL,0,0,6,7,0,0,6,7,cah-3,WBGene00000281,Public name for WBGene00000281. History: N.A.
+cif-1,EIF3M_CAEEL,0,0,5,5,4,4,4,4,cif-1,WBGene00019543,Public name for WBGene00019543. History: N.A.
+eif-3.C,EIF3C_CAEEL,0,0,5,5,3,4,1,1,eif-3.C,WBGene00001226,Public name for WBGene00001226. History: N.A.
+eif-3.H,EIF3H_CAEEL,0,0,5,5,3,3,5,5,eif-3.H,WBGene00001231,Public name for WBGene00001231. History: N.A.
+gspd-1,G6PD_CAEEL,0,0,5,6,2,2,7,7,gspd-1,WBGene00007108,Public name for WBGene00007108. History: N.A.
+vha-8,Q95X44_CAEEL,0,0,5,5,1,1,4,5,vha-8,WBGene00006917,Public name for WBGene00006917. History: N.A.
+bgs-1,Q9U9J8_CAEEL,0,0,5,6,0,0,31,37,bgs-1,WBGene00006803,Other name for WBGene00006803(unc-70). History: N.A.
+phf-10,Q2A950_CAEEL,0,0,5,5,0,0,11,14,phf-10,WBGene00018013,Public name for WBGene00018013. History: N.A.
+sax-7,Q53U87_CAEEL,0,0,5,8,0,0,8,12,sax-7,WBGene00004732,Public name for WBGene00004732. History: N.A.
+rpl-15,RL15_CAEEL,0,0,5,6,0,0,5,8,rpl-15,WBGene00004427,Public name for WBGene00004427. History: N.A.
+symk-1,O16929_CAEEL,0,0,5,5,0,0,7,7,symk-1,WBGene00017797,Public name for WBGene00017797. History: N.A.
+let-363,TOR_CAEEL,0,0,5,6,0,0,6,6,let-363,WBGene00002583,Public name for WBGene00002583. History: Renamed on 2014-09-04; Renamed on 2014-10-09; Renamed on 2015-01-08; Renamed on 2015-03-05; Renamed on 2015-03-10
+ftt-2,14332_CAEEL,0,0,5,5,0,0,5,6,ftt-2,WBGene00001502,Public name for WBGene00001502. History: N.A.
+cpf-2,O45577_CAEEL,0,0,5,9,0,0,3,5,cpf-2,WBGene00000774,Public name for WBGene00000774. History: N.A.
+K08E3.5,Q9XUS4_CAEEL,0,0,5,6,0,0,5,5,K08E3.5,WBGene00010665,Sequence name for WBGene00010665(rml-1). History: N.A.
+eftu-2,Q23463_CAEEL,0,0,5,5,0,0,5,5,eftu-2,WBGene00001166,Public name for WBGene00001166. History: Renamed on 2010-08-03
+mdh-1,MDHM_CAEEL,0,0,5,5,0,0,5,5,mdh-1,WBGene00018491,Public name for WBGene00018491. History: N.A.. Other name for WBGene00003162(mdh-2). History: Renamed on 2010-08-18
+imb-3,Q9N5V3_CAEEL,0,0,5,6,0,0,3,4,imb-3,WBGene00002077,Public name for WBGene00002077. History: N.A.
+ifa-2,IFA2_CAEEL,0,0,5,5,0,0,4,4,ifa-2,WBGene00003485,Other name for WBGene00003485(mua-6). History: N.A.
+tkt-1,O17759_CAEEL,0,0,5,6,0,0,3,3,tkt-1,WBGene00008506,Public name for WBGene00008506. History: N.A.
+rps-11,Q20206_CAEEL,0,0,4,5,3,3,6,12,rps-11,WBGene00004480,Public name for WBGene00004480. History: N.A.
+enol-1,ENO_CAEEL,0,0,4,4,2,3,2,3,enol-1,WBGene00011884,Public name for WBGene00011884. History: N.A.
+ech-6,ECHM_CAEEL,0,0,4,4,1,1,8,10,ech-6,WBGene00001155,Public name for WBGene00001155. History: N.A.
+rps-19,RS19_CAEEL,0,0,4,7,1,1,4,8,rps-19,WBGene00004488,Public name for WBGene00004488. History: N.A.
+ZC247.1,G5EBP5_CAEEL,0,0,4,5,0,0,9,13,ZC247.1,WBGene00013859,Public name for WBGene00013859. History: N.A.
+rnr-1,RIR1_CAEEL,0,0,4,5,0,0,9,10,rnr-1,WBGene00004391,Public name for WBGene00004391. History: N.A.
+Y71G12B.11,G5EGK1_CAEEL,0,0,4,4,0,0,9,9,Y71G12B.11,WBGene00006771,"Sequence name for WBGene00006771(tln-1). History: Renamed on 2011-08-12. Public name for Dead gene WBGene00022151. History of WBGene00022151: Merged into ""WBGene00006771"" on 2013-01-31"
+lin-5,LIN5_CAEEL,0,0,4,4,0,0,7,8,lin-5,WBGene00002994,Public name for WBGene00002994. History: N.A.
+C08H9.2,B3GWB2_CAEEL,0,0,4,5,0,0,6,7,C08H9.2,WBGene00007463,Sequence name for WBGene00007463(vgln-1). History: N.A.
+pbrm-1,Q565A2_CAEEL,0,0,4,4,0,0,7,7,pbrm-1,WBGene00007042,Public name for WBGene00007042. History: Renamed on 2007-08-01
+Y71G10AL.1,G4SPY1_CAEEL,0,0,4,4,0,0,6,6,Y71G10AL.1,WBGene00022134,Sequence name for WBGene00022134(hrpu-2). History: N.A.
+ife-3,IF4E3_CAEEL,0,0,4,4,0,0,5,5,ife-3,WBGene00002061,Public name for WBGene00002061. History: N.A.
+rps-5,RS5_CAEEL,0,0,4,4,0,0,5,5,rps-5,WBGene00004474,Public name for WBGene00004474. History: N.A.
+hrp-2,Q9NLD1_CAEEL,0,0,4,4,0,0,4,4,hrp-2,WBGene00002000,Other name for WBGene00002000(hrpr-1). History: Renamed on 2019-11-21
+cpn-4,O44727_CAEEL,0,0,4,6,0,0,2,3,cpn-4,WBGene00000780,Public name for WBGene00000780. History: N.A.
+snfc-5,Q21831_CAEEL,0,0,4,4,0,0,3,3,snfc-5,WBGene00011111,Public name for WBGene00011111. History: Renamed on 2011-02-11
+rpb-2,RPB2_CAEEL,0,0,4,4,0,0,2,2,rpb-2,WBGene00016140,Public name for WBGene00016140. History: Renamed on 2005-03-17
+C29F7.3,O17622_CAEEL,0,0,3,4,1,1,1,1,C29F7.3,WBGene00007812,Public name for WBGene00007812. History: N.A.
+F27D4.1,ETFA_CAEEL,0,0,3,3,1,1,1,1,F27D4.1,WBGene00009187,Public name for WBGene00009187. History: N.A.
+Y73F8A.26,Q9NA33_CAEEL,0,0,3,3,0,0,13,20,Y73F8A.26,WBGene00013531,Public name for WBGene00013531. History: N.A.
+ctl-2,CATA1_CAEEL,0,0,3,4,0,0,6,9,ctl-2,WBGene00000831,Public name for WBGene00000831. History: N.A.
+acs-13,Q9N302_CAEEL,0,0,3,3,0,0,9,9,acs-13,WBGene00022037,Public name for WBGene00022037. History: N.A.
+hsp-6,HSP7F_CAEEL,0,0,3,3,0,0,9,9,hsp-6,WBGene00002010,Public name for WBGene00002010. History: N.A.
+ubh-4,UBH4_CAEEL,0,0,3,4,0,0,6,8,ubh-4,WBGene00006724,Public name for WBGene00006724. History: N.A.
+vit-5,VIT5_CAEEL,0,0,3,3,0,0,5,8,vit-5,WBGene00006929,Public name for WBGene00006929. History: N.A.
+K11H3.3,TXTP_CAEEL,0,0,3,4,0,0,6,7,K11H3.3,WBGene00010780,Public name for WBGene00010780. History: N.A.
+mes-2,MES2_CAEEL,0,0,3,3,0,0,6,7,mes-2,WBGene00003220,Public name for WBGene00003220. History: N.A.
+ctps-1,G5EC98_CAEEL,0,0,3,5,0,0,5,6,ctps-1,WBGene00012316,Public name for WBGene00012316. History: N.A.
+cpz-1,G5EGP8_CAEEL,0,0,3,3,0,0,4,5,cpz-1,WBGene00000788,Public name for WBGene00000788. History: N.A.
+dnj-18,Q22138_CAEEL,0,0,3,3,0,0,5,5,dnj-18,WBGene00001036,Public name for WBGene00001036. History: N.A.
+swsn-6,Q9N4N4_CAEEL,0,0,3,3,0,0,4,5,swsn-6,WBGene00022774,Public name for WBGene00022774. History: Renamed on 2011-02-11
+fipr-21,Q20277_CAEEL,0,0,3,5,0,0,3,4,fipr-21,WBGene00009621,Public name for WBGene00009621. History: N.A.
+mbf-1,Q9XTV4_CAEEL,0,0,3,4,0,0,3,4,mbf-1,WBGene00003148,Public name for WBGene00003148. History: N.A.
+tag-304,Q9UAU3_CAEEL,0,0,3,4,0,0,3,4,tag-304,WBGene00018757,Other name for WBGene00018757(gid-8). History: Renamed on 2021-07-08
+ZK418.9,Q7Z145_CAEEL,0,0,3,4,0,0,4,4,ZK418.9,WBGene00022738,Sequence name for WBGene00022738(fubl-2). History: Renamed on 2017-12-07
+C18B2.3,Q18074_CAEEL,0,0,3,3,0,0,4,4,C18B2.3,WBGene00015954,Public name for WBGene00015954. History: N.A.
+pgam-5,PGAM5_CAEEL,0,0,3,3,0,0,4,4,pgam-5,WBGene00019941,Public name for WBGene00019941. History: N.A.
+puf-12,PUF12_CAEEL,0,0,3,3,0,0,3,4,puf-12,WBGene00014165,Public name for WBGene00014165. History: N.A.
+R07H5.8,Q93934_CAEEL,0,0,3,3,0,0,3,4,R07H5.8,WBGene00011128,Sequence name for WBGene00011128(adk-1). History: N.A.
+cpsf-3,Q95PY8_CAEEL,0,0,3,4,0,0,3,3,cpsf-3,WBGene00013460,Public name for WBGene00013460. History: N.A.
+gld-1,GLD1_CAEEL,0,0,3,4,0,0,3,3,gld-1,WBGene00001595,Public name for WBGene00001595. History: N.A.
+puf-5,Q20757_CAEEL,0,0,3,4,0,0,3,3,puf-5,WBGene00004241,Public name for WBGene00004241. History: N.A.
+aldo-1,ALF1_CAEEL,0,0,3,3,0,0,3,3,aldo-1,WBGene00011474,Public name for WBGene00011474. History: N.A.
+clic-1,P90961_CAEEL,0,0,3,3,0,0,3,3,clic-1,WBGene00020246,Public name for WBGene00020246. History: Renamed on 2008-04-30
+tps-2,TPS2_CAEEL,0,0,3,3,0,0,3,3,tps-2,WBGene00006603,Public name for WBGene00006603. History: N.A.
+gsp-1,GLC7A_CAEEL,0,0,3,4,0,0,2,2,gsp-1,WBGene00001747,Public name for WBGene00001747. History: N.A.
+kin-20,KIN20_CAEEL,0,0,3,4,0,0,2,2,kin-20,WBGene00002203,Public name for WBGene00002203. History: N.A.
+dhc-1,DYHC_CAEEL,0,0,3,3,0,0,2,2,dhc-1,WBGene00000962,Public name for WBGene00000962. History: N.A.
+gsp-2,GLC7B_CAEEL,0,0,3,3,0,0,2,2,gsp-2,WBGene00001748,Public name for WBGene00001748. History: N.A.
+gst-10,GSTPA_CAEEL,0,0,3,3,0,0,2,2,gst-10,WBGene00001758,Public name for WBGene00001758. History: N.A.
+K10C2.3,Q94271_CAEEL,0,0,3,3,0,0,2,2,K10C2.3,WBGene00019619,Sequence name for WBGene00019619(asp-14). History: N.A.
+mtm-1,Q9N589_CAEEL,0,0,3,3,0,0,2,2,mtm-1,WBGene00003475,Public name for WBGene00003475. History: N.A.
+nas-11,NAS11_CAEEL,0,0,3,3,0,0,2,2,nas-11,WBGene00003530,Public name for WBGene00003530. History: N.A.
+npp-9,Q86G90_CAEEL,0,0,3,3,0,0,2,2,npp-9,WBGene00003795,Public name for WBGene00003795. History: N.A.
+rme-8,G5ED36_CAEEL,0,0,3,3,0,0,2,2,rme-8,WBGene00004378,Public name for WBGene00004378. History: N.A.
+tag-196,O16454_CAEEL,0,0,3,3,0,0,2,2,tag-196,WBGene00007055,Public name for WBGene00007055. History: N.A.
+umps-1,G5EDZ2_CAEEL,0,0,3,3,0,0,2,2,umps-1,WBGene00011559,Public name for WBGene00011559. History: Renamed on 2014-11-12
+Y43F4B.5,O45934_CAEEL,0,0,3,3,0,0,2,2,Y43F4B.5,WBGene00012803,Public name for WBGene00012803. History: N.A.
+Y43F4B.5,Q86DA0_CAEEL,0,0,3,3,0,0,2,2,Y43F4B.5,WBGene00012803,Public name for WBGene00012803. History: N.A.
+pqn-22,H2KZA3_CAEEL,0,0,2,3,3,3,9,12,pqn-22,WBGene00004112,Public name for WBGene00004112. History: N.A.
+F02A9.4,MCCB_CAEEL,0,0,2,2,1,1,4,4,F02A9.4,WBGene00008514,"Sequence name for WBGene00008514(mrpl-44). History: Split into mccc-2(WBGene00303021). History of WBGene00008514: Split into ""WBGene00303021"" on 2018-03-06"
+iff-2,IF5A2_CAEEL,0,0,2,3,1,1,2,2,iff-2,WBGene00002065,Public name for WBGene00002065. History: N.A.
+T21F4.1,H2KZS0_CAEEL,0,0,2,2,1,1,2,2,T21F4.1,WBGene00020658,Sequence name for WBGene00020658(argn-1). History: N.A.
+trap-4,Q9U238_CAEEL,0,0,2,2,1,1,2,2,trap-4,WBGene00013238,Public name for WBGene00013238. History: N.A.
+gcn-1,B3CJ34_CAEEL,0,0,2,2,1,1,1,1,gcn-1,WBGene00021697,Public name for WBGene00021697. History: N.A.
+lfi-1,Q45EJ8_CAEEL,0,0,2,2,0,0,17,18,lfi-1,WBGene00022500,Public name for WBGene00022500. History: N.A.
+ZK1058.9,C9IY22_CAEEL,0,0,2,4,0,0,8,11,ZK1058.9,WBGene00014207,Public name for WBGene00014207. History: N.A.
+haf-9,Q8IA64_CAEEL,0,0,2,2,0,0,8,8,haf-9,WBGene00001819,Public name for WBGene00001819. History: N.A.
+unc-44,Q17490_CAEEL,0,0,2,2,0,0,8,8,unc-44,WBGene00006780,Public name for WBGene00006780. History: N.A.
+mcm-7,O16297_CAEEL,0,0,2,2,0,0,7,7,mcm-7,WBGene00003159,Public name for WBGene00003159. History: N.A.
+B0035.6,Q17436_CAEEL,0,0,2,2,0,0,4,6,B0035.6,WBGene00007109,Sequence name for WBGene00007109(edg-1). History: N.A.
+prp-21,G5ECL3_CAEEL,0,0,2,2,0,0,5,5,prp-21,WBGene00004188,Public name for WBGene00004188. History: N.A.
+R53.4,ATPK_CAEEL,0,0,2,2,0,0,4,5,R53.4,WBGene00011273,Public name for WBGene00011273. History: N.A.
+vrs-2,SYV_CAEEL,0,0,2,2,0,0,5,5,vrs-2,WBGene00006936,Other name for WBGene00006936(glp-4). History: Renamed on 2010-01-29; Renamed on 2015-10-07
+Y39E4A.3,Q4A1S8_CAEEL,0,0,2,2,0,0,5,5,Y39E4A.3,WBGene00012713,Sequence name for WBGene00012713(bckd-1A). History: N.A.
+rpl-30,I2HAJ2_CAEEL,0,0,2,3,0,0,3,4,rpl-30,WBGene00004444,Public name for WBGene00004444. History: N.A.
+tba-4,G5EDD4_CAEEL,0,0,2,3,0,0,2,4,tba-4,WBGene00006530,Public name for WBGene00006530. History: N.A.
+cul-1,CUL1_CAEEL,0,0,2,2,0,0,4,4,cul-1,WBGene00000836,Public name for WBGene00000836. History: N.A.
+gcst-1,Q22968_CAEEL,0,0,2,2,0,0,4,4,gcst-1,WBGene00017765,Public name for WBGene00017765. History: N.A.
+glrx-3,H2KZJ5_CAEEL,0,0,2,2,0,0,3,4,glrx-3,WBGene00017062,Public name for WBGene00017062. History: N.A.
+mcm-4,Q95XQ8_CAEEL,0,0,2,2,0,0,4,4,mcm-4,WBGene00003156,Public name for WBGene00003156. History: Renamed on 2015-03-03; Renamed on 2015-03-03
+ril-1,O17694_CAEEL,0,0,2,2,0,0,4,4,ril-1,WBGene00008262,Public name for WBGene00008262. History: N.A.
+rpt-6,Q9XTT9_CAEEL,0,0,2,2,0,0,4,4,rpt-6,WBGene00004506,Public name for WBGene00004506. History: N.A.
+calu-1,G5EBH7_CAEEL,0,0,2,3,0,0,3,3,calu-1,WBGene00019760,Public name for WBGene00019760. History: N.A.
+ima-3,IMA3_CAEEL,0,0,2,3,0,0,2,3,ima-3,WBGene00002074,Public name for WBGene00002074. History: N.A.
+rpl-27,RL27_CAEEL,0,0,2,3,0,0,3,3,rpl-27,WBGene00004441,Public name for WBGene00004441. History: N.A.
+alp-1,G5EEF6_CAEEL,0,0,2,2,0,0,3,3,alp-1,WBGene00001132,Public name for WBGene00001132. History: N.A.
+B0379.1,Q9XU45_CAEEL,0,0,2,2,0,0,3,3,B0379.1,WBGene00007155,Public name for WBGene00007155. History: N.A.
+F25H5.5,O17838_CAEEL,0,0,2,2,0,0,3,3,F25H5.5,WBGene00009127,Sequence name for WBGene00009127(clsp-1). History: N.A.
+madf-8,Q93381_CAEEL,0,0,2,2,0,0,3,3,madf-8,WBGene00008118,Public name for WBGene00008118. History: N.A.
+R05D3.6,ATP5E_CAEEL,0,0,2,2,0,0,2,3,R05D3.6,WBGene00019880,Public name for WBGene00019880. History: N.A.
+rps-22,O17218_CAEEL,0,0,2,2,0,0,2,3,rps-22,WBGene00004491,Public name for WBGene00004491. History: N.A.
+smn-1,G5EFQ8_CAEEL,0,0,2,2,0,0,2,3,smn-1,WBGene00004887,Public name for WBGene00004887. History: N.A.
+unc-18,UNC18_CAEEL,0,0,2,2,0,0,2,3,unc-18,WBGene00006757,Public name for WBGene00006757. History: N.A.
+Y37E3.8,Q9BKU5_CAEEL,0,0,2,2,0,0,3,3,Y37E3.8,WBGene00021350,Public name for WBGene00021350. History: N.A.
+ben-1,Q18817_CAEEL,0,0,2,3,0,0,2,2,ben-1,WBGene00000248,Public name for WBGene00000248. History: N.A.
+dpm-1,Q9TYJ7_CAEEL,0,0,2,3,0,0,2,2,dpm-1,WBGene00022044,Public name for WBGene00022044. History: N.A.
+fln-1,D0IMZ7_CAEEL,0,0,2,3,0,0,2,2,fln-1,WBGene00022048,Public name for WBGene00022048. History: N.A.
+H05C05.1,H2L0A8_CAEEL,0,0,2,3,0,0,1,2,H05C05.1,WBGene00019157,Public name for WBGene00019157. History: N.A.
+ran-3,RCC1_CAEEL,0,0,2,3,0,0,1,2,ran-3,WBGene00004304,Public name for WBGene00004304. History: N.A.
+tag-174,COX6A_CAEEL,0,0,2,3,0,0,2,2,tag-174,WBGene00006519,Other name for WBGene00006519(cox-6A). History: Renamed on 2017-09-05
+ears-1,Q23315_CAEEL,0,0,2,2,0,0,2,2,ears-1,WBGene00001337,Public name for WBGene00001337. History: Renamed on 2010-01-29
+emb-4,Q9U1Q7_CAEEL,0,0,2,2,0,0,1,2,emb-4,WBGene00001258,Public name for WBGene00001258. History: Renamed on 2006-10-16
+gln-6,O02225_CAEEL,0,0,2,2,0,0,1,2,gln-6,WBGene00001607,Public name for WBGene00001607. History: N.A.
+K05C4.5,Q9XUU8_CAEEL,0,0,2,2,0,0,2,2,K05C4.5,WBGene00010582,Public name for WBGene00010582. History: N.A.
+mes-6,MES6_CAEEL,0,0,2,2,0,0,2,2,mes-6,WBGene00003224,Public name for WBGene00003224. History: N.A.
+rpb-7,Q9N3C9_CAEEL,0,0,2,2,0,0,2,2,rpb-7,WBGene00021845,Public name for WBGene00021845. History: N.A.
+uaf-2,Q9U2U0_CAEEL,0,0,2,2,0,0,2,2,uaf-2,WBGene00006698,Public name for WBGene00006698. History: N.A.
+wars-1,G5EDY2_CAEEL,0,0,2,2,0,0,2,2,wars-1,WBGene00006945,Public name for WBGene00006945. History: Renamed on 2010-01-29
+Y44E3A.6,Q8ITV7_CAEEL,0,0,2,2,0,0,2,2,Y44E3A.6,WBGene00021551,Sequence name for WBGene00021551(edc-4). History: N.A.
+Y54E5A.7,F3Y5R0_CAEEL,0,0,2,2,0,0,2,2,Y54E5A.7,WBGene00013202,Sequence name for WBGene00013202(gid-1). History: N.A.
+atln-1,Q9BMU4_CAEEL,0,0,2,2,0,0,1,1,atln-1,WBGene00021868,Public name for WBGene00021868. History: N.A.
+C44E4.4,O01806_CAEEL,0,0,2,2,0,0,1,1,C44E4.4,WBGene00016653,Sequence name for WBGene00016653(ssb-1). History: N.A.
+djr-1.2,O16228_CAEEL,0,0,2,2,0,0,1,1,djr-1.2,WBGene00016789,Public name for WBGene00016789. History: N.A.
+dyci-1,O45087_CAEEL,0,0,2,2,0,0,1,1,dyci-1,WBGene00015927,Public name for WBGene00015927. History: N.A.
+idhg-1,Q20049_CAEEL,0,0,2,2,0,0,1,1,idhg-1,WBGene00009440,Public name for WBGene00009440. History: N.A.
+ife-2,IF4E2_CAEEL,0,0,2,2,0,0,1,1,ife-2,WBGene00002060,Public name for WBGene00002060. History: N.A.
+mcm-6,MCM6_CAEEL,0,0,2,2,0,0,1,1,mcm-6,WBGene00003158,Public name for WBGene00003158. History: N.A.
+R02D3.1,O44503_CAEEL,0,0,2,2,0,0,1,1,R02D3.1,WBGene00019819,Sequence name for WBGene00019819(aass-1). History: N.A.
+R05D3.9/R05D3.10,YNC9_CAEEL,0,0,2,2,0,0,1,1,,,
+R13H4.2,A5Z2W3_CAEEL,0,0,2,2,0,0,1,1,R13H4.2,WBGene00014826,Public name for WBGene00014826. History: N.A.
+rpac-40,Q9UAY9_CAEEL,0,0,2,2,0,0,1,1,rpac-40,WBGene00019275,Public name for WBGene00019275. History: N.A.
+tag-320,PDIA6_CAEEL,0,0,2,2,0,0,1,1,tag-320,WBGene00015168,Other name for WBGene00015168(pdi-6). History: N.A.
+Y55F3AM.13,Q9N362_CAEEL,0,0,2,2,0,0,1,1,Y55F3AM.13,WBGene00021930,Public name for WBGene00021930. History: N.A.
+ZK1055.7,O76449_CAEEL,0,0,2,2,0,0,1,1,ZK1055.7,WBGene00022848,Public name for WBGene00022848. History: N.A.
+atp-3,Q7JNG1_CAEEL,0,0,1,1,4,4,6,7,atp-3,WBGene00000230,Public name for WBGene00000230. History: N.A.
+F09F7.4,Q8MNT7_CAEEL,0,0,1,1,3,3,6,7,F09F7.4,WBGene00017301,Sequence name for WBGene00017301(hach-1). History: N.A.
+tfg-1,Q9U1W1_CAEEL,0,0,1,1,2,2,0,0,tfg-1,WBGene00006565,Public name for WBGene00006565. History: N.A.
+gei-7,GCP_CAEEL,0,0,1,1,1,1,3,3,gei-7,WBGene00001564,Other name for WBGene00001564(icl-1). History: Renamed on 2010-11-16
+vps-4,Q9BL83_CAEEL,0,0,1,1,1,1,3,3,vps-4,WBGene00021334,Public name for WBGene00021334. History: Renamed on 2005-03-17
+lec-8,LEC8_CAEEL,0,0,1,1,1,1,2,2,lec-8,WBGene00002271,Public name for WBGene00002271. History: N.A.
+T25B9.9,6PGD_CAEEL,0,0,1,1,1,1,2,2,T25B9.9,WBGene00012015,Public name for WBGene00012015. History: N.A.
+acdh-4,O01607_CAEEL,0,0,1,1,1,1,1,1,acdh-4,WBGene00020419,Public name for WBGene00020419. History: N.A.
+F53C11.3,YXEK_CAEEL,0,0,1,1,1,1,1,1,F53C11.3,WBGene00009973,Public name for WBGene00009973. History: N.A.
+glh-2,GLH2_CAEEL,0,0,1,1,1,1,1,1,glh-2,WBGene00001599,Public name for WBGene00001599. History: N.A.
+pdi-1,PDI1_CAEEL,0,0,1,1,1,1,1,1,pdi-1,WBGene00003962,Public name for WBGene00003962. History: N.A.
+rps-30,Q18231_CAEEL,0,0,1,1,1,1,1,1,rps-30,WBGene00004499,Public name for WBGene00004499. History: N.A.
+rsp-1,RSP1_CAEEL,0,0,1,1,1,1,0,0,rsp-1,WBGene00004698,Public name for WBGene00004698. History: N.A.
+K07E3.2,Q21287_CAEEL,0,0,1,30,0,0,1,38,K07E3.2,WBGene00019491,Public name for WBGene00019491. History: N.A.
+ZC116.3,CUBN_CAEEL,0,0,1,1,0,0,18,18,ZC116.3,WBGene00013855,Sequence name for WBGene00013855(cubn-1). History: N.A.
+nsy-7,C1P623_CAEEL,0,0,1,7,0,0,1,8,nsy-7,WBGene00044508,Public name for WBGene00044508. History: N.A.
+rcor-1,H2KZI1_CAEEL,0,0,1,3,0,0,2,5,rcor-1,WBGene00022278,Public name for WBGene00022278. History: N.A.
+R13H4.2,K8ESK7_CAEEL,0,0,1,2,0,0,4,5,R13H4.2,WBGene00014826,Public name for WBGene00014826. History: N.A.
+asb-2,Q19126_CAEEL,0,0,1,1,0,0,5,5,asb-2,WBGene00000207,Public name for WBGene00000207. History: N.A.
+mcm-3,Q9XVR7_CAEEL,0,0,1,2,0,0,4,4,mcm-3,WBGene00003155,Public name for WBGene00003155. History: N.A.
+hpo-19,O16521_CAEEL,0,0,1,1,0,0,2,4,hpo-19,WBGene00020268,Public name for WBGene00020268. History: N.A.
+sptl-1,P91079_CAEEL,0,0,1,1,0,0,2,4,sptl-1,WBGene00016020,Public name for WBGene00016020. History: N.A.
+gld-2,GLD2_CAEEL,0,0,1,1,0,0,3,3,gld-2,WBGene00001596,Public name for WBGene00001596. History: N.A.
+gpdh-2,GPDH2_CAEEL,0,0,1,1,0,0,3,3,gpdh-2,WBGene00010778,Public name for WBGene00010778. History: N.A.
+hum-5,G5ECZ0_CAEEL,0,0,1,1,0,0,3,3,hum-5,WBGene00002038,Public name for WBGene00002038. History: N.A.
+let-716,Q18038_CAEEL,0,0,1,1,0,0,3,3,let-716,WBGene00002850,Public name for WBGene00002850. History: N.A.
+mca-3,Q8MXS0_CAEEL,0,0,1,1,0,0,3,3,mca-3,WBGene00003153,Public name for WBGene00003153. History: Renamed on 2007-10-09
+nol-1,Q9TYV5_CAEEL,0,0,1,1,0,0,2,3,nol-1,WBGene00021073,Other name for WBGene00021073(nsun-1). History: Renamed on 2017-08-01; Renamed on 2020-06-01
+ral-1,Q9N3F8_CAEEL,0,0,1,1,0,0,2,3,ral-1,WBGene00021811,Public name for WBGene00021811. History: N.A.
+Y48A6B.3,NHP2_CAEEL,0,0,1,1,0,0,3,3,Y48A6B.3,WBGene00012964,Public name for WBGene00012964. History: N.A.
+Y57G11C.15,O18239_CAEEL,0,0,1,1,0,0,2,3,Y57G11C.15,WBGene00013311,Sequence name for WBGene00013311(sec-61.A). History: Renamed on 2019-05-20
+F07F6.4,YQP4_CAEEL,0,0,1,2,0,0,2,2,F07F6.4,WBGene00017217,Public name for WBGene00017217. History: N.A.
+ifg-1,Q21531_CAEEL,0,0,1,2,0,0,2,2,ifg-1,WBGene00002066,Public name for WBGene00002066. History: N.A.
+R09B3.3,O45713_CAEEL,0,0,1,2,0,0,1,2,R09B3.3,WBGene00011156,Sequence name for WBGene00011156(rbm-3.2). History: N.A.
+T23E7.2,Q8MXJ1_CAEEL,0,0,1,2,0,0,1,2,T23E7.2,WBGene00020732,Public name for WBGene00020732. History: N.A.
+cpr-4,CPR4_CAEEL,0,0,1,1,0,0,2,2,cpr-4,WBGene00000784,Public name for WBGene00000784. History: N.A.
+czw-1,Q19642_CAEEL,0,0,1,1,0,0,2,2,czw-1,WBGene00017643,Public name for WBGene00017643. History: N.A.
+F49D11.10,A7DT40_CAEEL,0,0,1,1,0,0,2,2,F49D11.10,WBGene00045433,Public name for WBGene00045433. History: N.A.
+hsp-4,HSP7D_CAEEL,0,0,1,1,0,0,2,2,hsp-4,WBGene00002008,Public name for WBGene00002008. History: N.A.
+irld-7,Q94213_CAEEL,0,0,1,1,0,0,1,2,irld-7,WBGene00018168,Public name for WBGene00018168. History: N.A.
+mrps-2,O17004_CAEEL,0,0,1,1,0,0,1,2,mrps-2,WBGene00020718,Public name for WBGene00020718. History: N.A.
+npp-8,Q95Y15_CAEEL,0,0,1,1,0,0,2,2,npp-8,WBGene00003794,Public name for WBGene00003794. History: N.A.
+pars-1,Q22620_CAEEL,0,0,1,1,0,0,2,2,pars-1,WBGene00004189,Public name for WBGene00004189. History: Renamed on 2010-01-29
+plp-2,Q93537_CAEEL,0,0,1,1,0,0,2,2,plp-2,WBGene00008976,Public name for WBGene00008976. History: N.A.
+rpn-10,O61742_CAEEL,0,0,1,1,0,0,2,2,rpn-10,WBGene00004466,Public name for WBGene00004466. History: N.A.
+toe-1,HEAT1_CAEEL,0,0,1,1,0,0,2,2,toe-1,WBGene00022739,Public name for WBGene00022739. History: N.A.
+unc-44,Q17489_CAEEL,0,0,1,1,0,0,2,2,unc-44,WBGene00006780,Public name for WBGene00006780. History: N.A.
+Y41E3.10,EF1B2_CAEEL,0,0,1,1,0,0,1,2,Y41E3.10,WBGene00012768,Sequence name for WBGene00012768(eef-1B.2). History: N.A.
+F10E9.5,YLU5_CAEEL,0,0,1,2,0,0,1,1,F10E9.5,WBGene00017357,Public name for WBGene00017357. History: N.A.
+hum-1,Q19901_CAEEL,0,0,1,2,0,0,1,1,hum-1,WBGene00002035,Public name for WBGene00002035. History: N.A.
+pas-4,PSA7_CAEEL,0,0,1,2,0,0,1,1,pas-4,WBGene00003925,Public name for WBGene00003925. History: N.A.
+sec-23,Q9U2Z1_CAEEL,0,0,1,2,0,0,1,1,sec-23,WBGene00004754,Public name for WBGene00004754. History: N.A.
+acdh-10,ACADM_CAEEL,0,0,1,1,0,0,1,1,acdh-10,WBGene00020366,Public name for WBGene00020366. History: N.A.
+acs-22,Q18916_CAEEL,0,0,1,1,0,0,1,1,acs-22,WBGene00017012,Public name for WBGene00017012. History: N.A.
+arx-4,ARPC2_CAEEL,0,0,1,1,0,0,1,1,arx-4,WBGene00021170,Public name for WBGene00021170. History: Renamed on 2006-03-03
+cpsf-4,Q7YTG9_CAEEL,0,0,1,1,0,0,1,1,cpsf-4,WBGene00044329,Public name for WBGene00044329. History: Renamed on 2008-01-07
+djr-1.1,P90994_CAEEL,0,0,1,1,0,0,1,1,djr-1.1,WBGene00015184,Public name for WBGene00015184. History: N.A.
+dyn-1,DYN1_CAEEL,0,0,1,1,0,0,1,1,dyn-1,WBGene00001130,Public name for WBGene00001130. History: N.A.
+ech-5,O45106_CAEEL,0,0,1,1,0,0,1,1,ech-5,WBGene00001154,Public name for WBGene00001154. History: N.A.
+edc-3,Q21740_CAEEL,0,0,1,1,0,0,1,1,edc-3,WBGene00011036,Public name for WBGene00011036. History: N.A.
+eps-8,G5ED33_CAEEL,0,0,1,1,0,0,1,1,eps-8,WBGene00001330,Public name for WBGene00001330. History: N.A.
+F32B4.4,F5GUF6_CAEEL,0,0,1,1,0,0,1,1,F32B4.4,WBGene00009314,Sequence name for WBGene00009314(phm-2). History: N.A.
+F42A10.5,Q20310_CAEEL,0,0,1,1,0,0,1,1,F42A10.5,WBGene00018341,Public name for WBGene00018341. History: N.A.
+F44E2.8,YL58_CAEEL,0,0,1,1,0,0,1,1,F44E2.8,WBGene00018421,Public name for WBGene00018421. History: N.A.
+F59C6.5,Q93831_CAEEL,0,0,1,1,0,0,1,1,F59C6.5,WBGene00010326,Public name for WBGene00010326. History: N.A.
+fbxa-65,O45159_CAEEL,0,0,1,1,0,0,1,1,fbxa-65,WBGene00015885,Public name for WBGene00015885. History: N.A.
+figl-1,FIGL1_CAEEL,0,0,1,1,0,0,1,1,figl-1,WBGene00017981,Public name for WBGene00017981. History: N.A.
+fipp-1,O16293_CAEEL,0,0,1,1,0,0,1,1,fipp-1,WBGene00017988,Public name for WBGene00017988. History: N.A.
+frs-2,SYFB_CAEEL,0,0,1,1,0,0,1,1,frs-2,"WBGene00001498, WBGene00006786",Other name for WBGene00001498(fars-3). History: Renamed on 2010-01-29. Other name for WBGene00006786(unc-51). History: Renamed on 2008-02-29
+gale-1,O62107_CAEEL,0,0,1,1,0,0,1,1,gale-1,WBGene00008132,Public name for WBGene00008132. History: N.A.
+gpr-1,GPR1_CAEEL,0,0,1,1,0,0,1,1,gpr-1,WBGene00001688,Public name for WBGene00001688. History: N.A.
+hpo-18,O16298_CAEEL,0,0,1,1,0,0,1,1,hpo-18,WBGene00017982,Public name for WBGene00017982. History: N.A.
+M05D6.6,Q21525_CAEEL,0,0,1,1,0,0,1,1,M05D6.6,WBGene00010879,Sequence name for WBGene00010879(taap-1). History: N.A.
+mmaa-1,MMAA1_CAEEL,0,0,1,1,0,0,1,1,mmaa-1,WBGene00020169,Public name for WBGene00020169. History: N.A.
+mrps-22,Q9U3Q0_CAEEL,0,0,1,1,0,0,1,1,mrps-22,WBGene00007564,Public name for WBGene00007564. History: N.A.
+nra-4,H2KYE0_CAEEL,0,0,1,1,0,0,1,1,nra-4,WBGene00015344,Public name for WBGene00015344. History: N.A.
+nrs-1,SYNC_CAEEL,0,0,1,1,0,0,1,1,nrs-1,WBGene00003815,Other name for WBGene00003815(nars-1). History: Renamed on 2010-01-29; Renamed on 2015-03-05
+pam-1,Q4TT88_CAEEL,0,0,1,1,0,0,1,1,pam-1,WBGene00003914,Public name for WBGene00003914. History: Renamed on 2006-10-19
+pas-1,PSA6_CAEEL,0,0,1,1,0,0,1,1,pas-1,WBGene00003922,Public name for WBGene00003922. History: N.A.
+ragc-1,G5EGB3_CAEEL,0,0,1,1,0,0,1,1,ragc-1,WBGene00012497,Public name for WBGene00012497. History: N.A.
+rpl-43,RL37A_CAEEL,0,0,1,1,0,0,1,1,rpl-43,WBGene00004456,Public name for WBGene00004456. History: N.A.
+rrbs-1,RRS1_CAEEL,0,0,1,1,0,0,1,1,rrbs-1,WBGene00007617,Public name for WBGene00007617. History: N.A.
+sur-6,G5EDR3_CAEEL,0,0,1,1,0,0,1,1,sur-6,WBGene00006352,Public name for WBGene00006352. History: N.A.
+T23E7.2,H2KZS4_CAEEL,0,0,1,1,0,0,1,1,T23E7.2,WBGene00020732,Public name for WBGene00020732. History: N.A.
+T25B9.2,Q27528_CAEEL,0,0,1,1,0,0,1,1,T25B9.2,WBGene00012008,Public name for WBGene00012008. History: N.A.
+tbc-4,Q22729_CAEEL,0,0,1,1,0,0,1,1,tbc-4,WBGene00020770,Other name for WBGene00020770(eat-17). History: Renamed on 2013-07-17
+tsn-1,Q19328_CAEEL,0,0,1,1,0,0,1,1,tsn-1,WBGene00006626,Public name for WBGene00006626. History: N.A.
+ufd-1,UFD1_CAEEL,0,0,1,1,0,0,1,1,ufd-1,WBGene00006733,Public name for WBGene00006733. History: N.A.
+unc-57,A5A8Q9_CAEEL,0,0,1,1,0,0,1,1,unc-57,WBGene00006791,Public name for WBGene00006791. History: N.A.
+unc-70,G5EG85_CAEEL,0,0,1,1,0,0,1,1,unc-70,WBGene00006803,Public name for WBGene00006803. History: N.A.
+ZC416.6,O44183_CAEEL,0,0,1,1,0,0,1,1,ZC416.6,WBGene00022610,Sequence name for WBGene00022610(ltah-1.2). History: N.A.
+zip-3,Q9XUK2_CAEEL,0,0,1,1,0,0,1,1,zip-3,WBGene00012330,Public name for WBGene00012330. History: N.A.
+,Ig1_sheep,0,0,1,1,0,0,1,1,,,
+F40F4.6,Q20219_CAEEL,0,0,0,0,9,10,0,0,F40F4.6,WBGene00018237,Sequence name for WBGene00018237(irg-7). History: Renamed on 2016-09-23
+F21H12.6,YQS6_CAEEL,0,0,0,0,9,9,0,0,F21H12.6,WBGene00017686,Sequence name for WBGene00017686(tpp-2). History: N.A.
+T25C12.3,G5ECR0_CAEEL,0,0,0,0,9,9,0,0,T25C12.3,WBGene00012018,Public name for WBGene00012018. History: N.A.
+F58E10.3,Q9XUW5_CAEEL,0,0,0,0,4,4,14,17,F58E10.3,WBGene00010260,Sequence name for WBGene00010260(ddx-17). History: N.A.
+hrpf-2,Q8MXR2_CAEEL,0,0,0,0,4,4,3,4,hrpf-2,WBGene00022253,Public name for WBGene00022253. History: N.A.
+,IgG3b_bovine,0,0,0,0,2,4,0,0,,,
+Y53G8AR.9,Q9N3F7_CAEEL,0,0,0,0,3,3,1,1,Y53G8AR.9,WBGene00021816,Public name for WBGene00021816. History: N.A.
+asp-6,ASP6_CAEEL,0,0,0,0,2,3,0,0,asp-6,WBGene00000219,Public name for WBGene00000219. History: N.A.
+F58G11.3,P90898_CAEEL,0,0,0,0,2,3,0,0,F58G11.3,WBGene00010281,Sequence name for WBGene00010281(mip-2). History: Renamed on 2021-12-09
+clp-7,Q9N4B1_CAEEL,0,0,0,0,2,2,2,2,clp-7,WBGene00000547,Public name for WBGene00000547. History: N.A.
+egl-4,EGL4_CAEEL,0,0,0,0,2,2,2,2,egl-4,WBGene00001173,Public name for WBGene00001173. History: Renamed on 2005-11-22; Renamed on 2010-12-07; Renamed on 2011-07-12; Renamed on 2012-06-20
+his-11,H2B1_CAEEL,0,0,0,0,2,2,1,2,his-11,WBGene00001885,Public name for WBGene00001885. History: N.A.
+arx-2,ARP2_CAEEL,0,0,0,0,2,2,1,1,arx-2,WBGene00000200,Public name for WBGene00000200. History: N.A.
+dhs-25,Q19246_CAEEL,0,0,0,0,2,2,1,1,dhs-25,WBGene00000988,Public name for WBGene00000988. History: N.A.
+atn-1,Q23158_CAEEL,0,0,0,0,2,2,0,0,atn-1,WBGene00000228,Public name for WBGene00000228. History: N.A.
+deps-1,Q9N303_CAEEL,0,0,0,0,1,2,0,0,deps-1,WBGene00022034,Public name for WBGene00022034. History: N.A.
+F20D1.3,Q93535_CAEEL,0,0,0,0,2,2,0,0,F20D1.3,WBGene00008975,Public name for WBGene00008975. History: N.A.
+F28B4.3,Q19853_CAEEL,0,0,0,0,2,2,0,0,F28B4.3,WBGene00017892,Public name for WBGene00017892. History: N.A.
+hsp-25,Q86GU1_CAEEL,0,0,0,0,2,2,0,0,hsp-25,WBGene00002023,Public name for WBGene00002023. History: N.A.
+lam-1,O44565_CAEEL,0,0,0,0,2,2,0,0,lam-1,WBGene00002247,Public name for WBGene00002247. History: N.A.
+mup-4,Q21281_CAEEL,0,0,0,0,1,2,0,0,mup-4,WBGene00003497,Public name for WBGene00003497. History: N.A.
+pgk-1,PGK_CAEEL,0,0,0,0,2,2,0,0,pgk-1,WBGene00020185,Public name for WBGene00020185. History: N.A.
+tyr-2,Q9XUS8_CAEEL,0,0,0,0,2,2,0,0,tyr-2,WBGene00010661,Public name for WBGene00010661. History: N.A.
+Y34B4A.9,Q95Y28_CAEEL,0,0,0,0,1,2,0,0,Y34B4A.9,WBGene00021325,Sequence name for WBGene00021325(nspg-13). History: N.A.
+C05C10.3,SCOT_CAEEL,0,0,0,0,1,1,7,10,C05C10.3,WBGene00007330,Public name for WBGene00007330. History: N.A.
+rla-1,RLA1_CAEEL,0,0,0,0,1,1,2,3,rla-1,WBGene00004409,Public name for WBGene00004409. History: N.A.
+C18B2.5,H2KYV3_CAEEL,0,0,0,0,1,1,2,2,C18B2.5,WBGene00015956,Public name for WBGene00015956. History: N.A.
+rop-1,RO60_CAEEL,0,0,0,0,1,1,1,1,rop-1,WBGene00004405,Public name for WBGene00004405. History: N.A.
+unc-27,TNNI2_CAEEL,0,0,0,0,1,1,1,1,unc-27,WBGene00006764,Public name for WBGene00006764. History: N.A.
+C15C8.3,Q18020_CAEEL,0,0,0,0,1,1,0,0,C15C8.3,WBGene00007605,Sequence name for WBGene00007605(hrg-7). History: Renamed on 2017-08-01
+cdd-2,Q20628_CAEEL,0,0,0,0,1,1,0,0,cdd-2,WBGene00000392,Public name for WBGene00000392. History: N.A.
+cpr-1,CPR1_CAEEL,0,0,0,0,1,1,0,0,cpr-1,WBGene00000781,Public name for WBGene00000781. History: N.A.
+cul-6,CUL6_CAEEL,0,0,0,0,1,1,0,0,cul-6,WBGene00000841,Public name for WBGene00000841. History: N.A.
+cyn-2,CYP2_CAEEL,0,0,0,0,1,1,0,0,cyn-2,WBGene00000878,Public name for WBGene00000878. History: N.A.
+ekl-4,A8XQE0_CAEEL,0,0,0,0,1,1,0,0,ekl-4,WBGene00013676,Public name for WBGene00013676. History: N.A.
+enpl-1,Q22235_CAEEL,0,0,0,0,1,1,0,0,enpl-1,WBGene00011480,Public name for WBGene00011480. History: N.A.
+F45D11.15,G5EFS5_CAEEL,0,0,0,0,1,1,0,0,F45D11.15,WBGene00018460,Public name for WBGene00018460. History: N.A.
+fbxa-36,Q966E6_CAEEL,0,0,0,0,1,1,0,0,fbxa-36,WBGene00022479,Public name for WBGene00022479. History: N.A.
+gdi-1,G5EBR1_CAEEL,0,0,0,0,1,1,0,0,gdi-1,WBGene00001558,Public name for WBGene00001558. History: N.A.
+grsp-2,C6KRI7_CAEEL,0,0,0,0,1,1,0,0,grsp-2,WBGene00012118,Public name for WBGene00012118. History: N.A.
+hrpf-1,Q9BIB7_CAEEL,0,0,0,0,1,1,0,0,hrpf-1,WBGene00020936,Public name for WBGene00020936. History: N.A.
+hrpf-1,H2KZN0_CAEEL,0,0,0,0,1,1,0,0,hrpf-1,WBGene00020936,Public name for WBGene00020936. History: N.A.
+isp-1,O44512_CAEEL,0,0,0,0,1,1,0,0,isp-1,WBGene00002162,Public name for WBGene00002162. History: N.A.
+K11D12.13,Q4R127_CAEEL,0,0,0,0,1,1,0,0,K11D12.13,WBGene00044535,Public name for WBGene00044535. History: N.A.
+lam-2,LAM2_CAEEL,0,0,0,0,1,1,0,0,lam-2,WBGene00016913,Public name for WBGene00016913. History: N.A.
+mbtr-1,MBTR1_CAEEL,0,0,0,0,1,1,0,0,mbtr-1,WBGene00021661,Public name for WBGene00021661. History: N.A.
+nhr-195,H2L098_CAEEL,0,0,0,0,1,1,0,0,nhr-195,WBGene00019115,Public name for WBGene00019115. History: N.A.
+prpf-4,Q19727_CAEEL,0,0,0,0,1,1,0,0,prpf-4,WBGene00004186,Public name for WBGene00004186. History: Renamed on 2007-02-23; Renamed on 2015-03-05
+rsp-3,RSP3_CAEEL,0,0,0,0,1,1,0,0,rsp-3,WBGene00004700,Public name for WBGene00004700. History: N.A.
+rsp-6,RSP6_CAEEL,0,0,0,0,1,1,0,0,rsp-6,WBGene00004703,Public name for WBGene00004703. History: N.A.
+sca-1,Q9XU13_CAEEL,0,0,0,0,1,1,0,0,sca-1,WBGene00004736,Public name for WBGene00004736. History: N.A.
+spe-15,Q9TZI9_CAEEL,0,0,0,0,1,1,0,0,spe-15,WBGene00004969,Public name for WBGene00004969. History: N.A.
+spt-16,SPT16_CAEEL,0,0,0,0,1,1,0,0,spt-16,WBGene00018849,Public name for WBGene00018849. History: N.A.
+ttn-1,G5EDT5_CAEEL,0,0,0,0,1,1,0,0,ttn-1,WBGene00006436,Public name for WBGene00006436. History: Renamed on 2005-12-13
+unc-52,UNC52_CAEEL,0,0,0,0,1,1,0,0,unc-52,WBGene00006787,Public name for WBGene00006787. History: N.A.
+Y62H9A.3,Q9XWT5_CAEEL,0,0,0,0,1,1,0,0,Y62H9A.3,WBGene00013391,Public name for WBGene00013391. History: N.A.
+C34B2.6,LONM_CAEEL,0,0,0,0,0,0,17,20,C34B2.6,WBGene00016391,Sequence name for WBGene00016391(lonp-1). History: N.A.
+ced-9,CED9_CAEEL,0,0,0,0,0,0,1,11,ced-9,WBGene00000423,Public name for WBGene00000423. History: N.A.
+swsn-2.2,O02101_CAEEL,0,0,0,0,0,0,6,7,swsn-2.2,WBGene00015971,Public name for WBGene00015971. History: N.A.
+B0001.7,H9G2U9_CAEEL,0,0,0,0,0,0,6,6,B0001.7,WBGene00007092,Public name for WBGene00007092. History: N.A.
+F13D2.1,K8ESF0_CAEEL,0,0,0,0,0,0,1,6,F13D2.1,WBGene00008735,Public name for WBGene00008735. History: N.A.
+C46G7.2,O02141_CAEEL,0,0,0,0,0,0,4,5,C46G7.2,WBGene00016722,Public name for WBGene00016722. History: N.A.
+idh-1,Q21032_CAEEL,0,0,0,0,0,0,5,5,idh-1,WBGene00010317,Public name for WBGene00010317. History: N.A.
+repo-1,Q19335_CAEEL,0,0,0,0,0,0,2,5,repo-1,WBGene00008683,Public name for WBGene00008683. History: N.A.
+arx-3,Q9U1R7_CAEEL,0,0,0,0,0,0,4,4,arx-3,WBGene00000201,Public name for WBGene00000201. History: N.A.
+eif-6,IF6_CAEEL,0,0,0,0,0,0,3,4,eif-6,WBGene00001234,Public name for WBGene00001234. History: N.A.
+F57F5.1,Q20950_CAEEL,0,0,0,0,0,0,4,4,F57F5.1,WBGene00010204,Sequence name for WBGene00010204(cpr-9). History: N.A.
+unc-10,RIM_CAEEL,0,0,0,0,0,0,4,4,unc-10,WBGene00006750,Public name for WBGene00006750. History: N.A.
+W08E12.7,Q9N5B3_CAEEL,0,0,0,0,0,0,3,4,W08E12.7,WBGene00021088,Public name for WBGene00021088. History: N.A.
+art-1,Q9N5Y2_CAEEL,0,0,0,0,0,0,3,3,art-1,WBGene00000198,Public name for WBGene00000198. History: N.A.
+C05G5.4,SUCA_CAEEL,0,0,0,0,0,0,3,3,C05G5.4,WBGene00007350,Sequence name for WBGene00007350(sucl-1). History: N.A.
+C45B2.1,Q95YC6_CAEEL,0,0,0,0,0,0,2,3,C45B2.1,WBGene00016658,Public name for WBGene00016658. History: N.A.
+F53F4.11,Q20720_CAEEL,0,0,0,0,0,0,2,3,F53F4.11,WBGene00009993,Public name for WBGene00009993. History: N.A.
+gld-3,GLD3_CAEEL,0,0,0,0,0,0,2,3,gld-3,WBGene00001597,Public name for WBGene00001597. History: N.A.
+kat-1,Q22100_CAEEL,0,0,0,0,0,0,3,3,kat-1,WBGene00002183,Public name for WBGene00002183. History: N.A.
+moma-1,Q21154_CAEEL,0,0,0,0,0,0,2,3,moma-1,WBGene00019333,Public name for WBGene00019333. History: N.A.
+msra-1,O02089_CAEEL,0,0,0,0,0,0,3,3,msra-1,WBGene00018393,Public name for WBGene00018393. History: N.A.
+pfk-1,Q95X24_CAEEL,0,0,0,0,0,0,3,3,pfk-1,WBGene00022199,Other name for WBGene00022199(pfk-1.1). History: Renamed on 2014-03-03
+R12E2.2,O61794_CAEEL,0,0,0,0,0,0,3,3,R12E2.2,WBGene00020031,Sequence name for WBGene00020031(suco-1). History: Renamed on 2015-02-09
+T11G6.8,Q22412_CAEEL,0,0,0,0,0,0,3,3,T11G6.8,WBGene00011722,Sequence name for WBGene00011722(rbm-22). History: N.A.
+T13H5.4,Q22469_CAEEL,0,0,0,0,0,0,3,3,T13H5.4,WBGene00011758,Sequence name for WBGene00011758(prp-9). History: Renamed on 2005-03-17; Renamed on 2021-03-11
+trap-1,Q95XT5_CAEEL,0,0,0,0,0,0,2,3,trap-1,WBGene00022122,Public name for WBGene00022122. History: N.A.
+ttr-50,G5EE48_CAEEL,0,0,0,0,0,0,3,3,ttr-50,WBGene00010234,Public name for WBGene00010234. History: N.A.
+acdh-12,Q19057_CAEEL,0,0,0,0,0,0,2,2,acdh-12,WBGene00017125,Public name for WBGene00017125. History: N.A.
+adr-1,Q86GC3_CAEEL,0,0,0,0,0,0,2,2,adr-1,WBGene00000079,Public name for WBGene00000079. History: N.A.
+alh-1,Q8IG19_CAEEL,0,0,0,0,0,0,2,2,alh-1,WBGene00000107,Public name for WBGene00000107. History: N.A.
+B0546.3,O44439_CAEEL,0,0,0,0,0,0,2,2,B0546.3,WBGene00015250,Public name for WBGene00015250. History: N.A.
+C10E2.6,O17328_CAEEL,0,0,0,0,0,0,2,2,C10E2.6,WBGene00015676,Sequence name for WBGene00015676(mct-6). History: N.A.
+C18H9.3,Q09482_CAEEL,0,0,0,0,0,0,2,2,C18H9.3,WBGene00016002,Sequence name for WBGene00016002(gyf-1). History: N.A.
+C39D10.7,Q18529_CAEEL,0,0,0,0,0,0,2,2,C39D10.7,WBGene00016534,Public name for WBGene00016534. History: N.A.
+C43E11.9,P91154_CAEEL,0,0,0,0,0,0,1,2,C43E11.9,WBGene00016607,Public name for WBGene00016607. History: N.A.
+C49A9.2,O44154_CAEEL,0,0,0,0,0,0,1,2,C49A9.2,WBGene00016756,Public name for WBGene00016756. History: N.A.
+ccdc-47,Q23382_CAEEL,0,0,0,0,0,0,2,2,ccdc-47,WBGene00014204,Public name for WBGene00014204. History: Renamed on 2007-07-20
+cogc-1,G5EE66_CAEEL,0,0,0,0,0,0,2,2,cogc-1,WBGene00003258,"Public name for WBGene00003258. History: Renamed on 2006-01-16; Merged into ""WBGene00002755"" on 2015-03-05; Renamed on 2015-03-05"
+cor-1,CORO_CAEEL,0,0,0,0,0,0,1,2,cor-1,WBGene00000768,Public name for WBGene00000768. History: N.A.
+F20D1.9,Q93540_CAEEL,0,0,0,0,0,0,2,2,F20D1.9,WBGene00008979,Sequence name for WBGene00008979(slc-25A18.1). History: N.A.
+F32A7.5,H2FLK1_CAEEL,0,0,0,0,0,0,2,2,F32A7.5,WBGene00009306,Sequence name for WBGene00009306(maph-1.1). History: N.A.
+F44E5.1,Q9XU97_CAEEL,0,0,0,0,0,0,2,2,F44E5.1,WBGene00009688,Public name for WBGene00009688. History: N.A.
+F53F10.3,MPC1_CAEEL,0,0,0,0,0,0,2,2,F53F10.3,WBGene00018765,Sequence name for WBGene00018765(mpc-2). History: N.A.
+F55C5.8,SRP68_CAEEL,0,0,0,0,0,0,2,2,F55C5.8,WBGene00010097,Sequence name for WBGene00010097(srpa-68). History: N.A.
+F58F12.1,ATPD_CAEEL,0,0,0,0,0,0,2,2,F58F12.1,WBGene00019061,Public name for WBGene00019061. History: Renamed on 2005-03-17
+fbp-1,G5EBJ7_CAEEL,0,0,0,0,0,0,2,2,fbp-1,WBGene00001404,Public name for WBGene00001404. History: N.A.
+gst-1,GSTP1_CAEEL,0,0,0,0,0,0,1,2,gst-1,WBGene00001749,Public name for WBGene00001749. History: N.A.
+htz-1,H2AV_CAEEL,0,0,0,0,0,0,2,2,htz-1,WBGene00019947,Public name for WBGene00019947. History: N.A.
+K08F4.2,Q21351_CAEEL,0,0,0,0,0,0,2,2,K08F4.2,WBGene00010677,Sequence name for WBGene00010677(gtbp-1). History: N.A.
+krs-1,SYK_CAEEL,0,0,0,0,0,0,2,2,krs-1,WBGene00002238,Other name for WBGene00002238(kars-1). History: Renamed on 2010-01-29
+larp-1,D5MCN2_CAEEL,0,0,0,0,0,0,2,2,larp-1,WBGene00020097,Public name for WBGene00020097. History: N.A.
+lec-11,Q94215_CAEEL,0,0,0,0,0,0,2,2,lec-11,WBGene00002274,Public name for WBGene00002274. History: N.A.
+lin-53,LIN53_CAEEL,0,0,0,0,0,0,2,2,lin-53,WBGene00003036,Public name for WBGene00003036. History: N.A.
+lmn-1,LMN1_CAEEL,0,0,0,0,0,0,2,2,lmn-1,WBGene00003052,Public name for WBGene00003052. History: N.A.
+mes-3,MES3_CAEEL,0,0,0,0,0,0,2,2,mes-3,WBGene00003221,Public name for WBGene00003221. History: N.A.
+npp-10,NUP98_CAEEL,0,0,0,0,0,0,2,2,npp-10,WBGene00003796,Public name for WBGene00003796. History: N.A.
+nuo-5,Q86S76_CAEEL,0,0,0,0,0,0,2,2,nuo-5,WBGene00021562,Public name for WBGene00021562. History: Renamed on 2008-02-26
+pfk-1,Q9TZL8_CAEEL,0,0,0,0,0,0,2,2,pfk-1,WBGene00022199,Other name for WBGene00022199(pfk-1.1). History: Renamed on 2014-03-03
+pfn-1,PROF1_CAEEL,0,0,0,0,0,0,2,2,pfn-1,WBGene00003989,Public name for WBGene00003989. History: N.A.
+prp-3,Q21486_CAEEL,0,0,0,0,0,0,2,2,prp-3,WBGene00010844,Public name for WBGene00010844. History: N.A.
+sax-1,SAX1_CAEEL,0,0,0,0,0,0,2,2,sax-1,WBGene00004727,Public name for WBGene00004727. History: N.A.
+sel-5,G5ECQ3_CAEEL,0,0,0,0,0,0,1,2,sel-5,WBGene00004762,Public name for WBGene00004762. History: N.A.
+T04A8.5,Q22134_CAEEL,0,0,0,0,0,0,2,2,T04A8.5,WBGene00011407,Sequence name for WBGene00011407(ppat-1). History: N.A.
+T05H10.6,ODPA_CAEEL,0,0,0,0,0,0,2,2,T05H10.6,WBGene00011510,Sequence name for WBGene00011510(pdha-1). History: N.A.
+T07D1.2,Q22302_CAEEL,0,0,0,0,0,0,2,2,T07D1.2,WBGene00020301,Sequence name for WBGene00020301(gid-2). History: N.A.
+T08G11.1,Q8T3D2_CAEEL,0,0,0,0,0,0,1,2,T08G11.1,WBGene00011629,Public name for WBGene00011629. History: N.A.
+teg-4,O44985_CAEEL,0,0,0,0,0,0,1,2,teg-4,WBGene00019323,Public name for WBGene00019323. History: Renamed on 2005-03-17; Renamed on 2010-02-19; Renamed on 2015-03-02
+vha-14,VATD_CAEEL,0,0,0,0,0,0,2,2,vha-14,WBGene00010130,Public name for WBGene00010130. History: N.A.
+VZC374L.1,O01706_CAEEL,0,0,0,0,0,0,1,2,VZC374L.1,WBGene00012162,Sequence name for WBGene00012162(sek-6). History: N.A.
+Y54E5A.7,Q9XWK4_CAEEL,0,0,0,0,0,0,2,2,Y54E5A.7,WBGene00013202,Sequence name for WBGene00013202(gid-1). History: N.A.
+abts-2,G5EGB9_CAEEL,0,0,0,0,0,0,1,1,abts-2,WBGene00009929,Public name for WBGene00009929. History: N.A.
+ads-1,ADAS_CAEEL,0,0,0,0,0,0,1,1,ads-1,WBGene00000081,Public name for WBGene00000081. History: N.A.
+ama-1,RPB1_CAEEL,0,0,0,0,0,0,1,1,ama-1,WBGene00000123,Public name for WBGene00000123. History: Renamed on 2007-10-04
+ant-1.2,O01813_CAEEL,0,0,0,0,0,0,1,1,ant-1.2,WBGene00007057,Public name for WBGene00007057. History: Renamed on 2008-06-04; Renamed on 2014-03-03
+B0495.8,YP68_CAEEL,0,0,0,0,0,0,1,1,B0495.8,WBGene00015207,Sequence name for WBGene00015207(luc-7L). History: N.A.
+bre-1,GMD1_CAEEL,0,0,0,0,0,0,1,1,bre-1,WBGene00000266,Public name for WBGene00000266. History: Renamed on 2006-12-15
+brp-1,Q9U1S2_CAEEL,0,0,0,0,0,0,1,1,brp-1,WBGene00000273,Public name for WBGene00000273. History: N.A.
+C06A5.1,O01483_CAEEL,0,0,0,0,0,0,1,1,C06A5.1,WBGene00015499,Sequence name for WBGene00015499(ints-1). History: Renamed on 2015-02-09; Renamed on 2019-02-06; Renamed on 2019-05-20
+C06A8.1,MTHR_CAEEL,0,0,0,0,0,0,1,1,C06A8.1,WBGene00015512,Sequence name for WBGene00015512(mthf-1). History: N.A.
+C12D8.1,Q17936_CAEEL,0,0,0,0,0,0,1,1,C12D8.1,WBGene00007534,Sequence name for WBGene00007534(fubl-1). History: Renamed on 2017-12-07
+C15H9.4,Q18025_CAEEL,0,0,0,0,0,0,1,1,C15H9.4,WBGene00015800,Public name for WBGene00015800. History: N.A.
+C16C10.3,YQ53_CAEEL,0,0,0,0,0,0,1,1,C16C10.3,WBGene00007624,Sequence name for WBGene00007624(hrde-1). History: Renamed on 2012-08-29
+C18A3.3,EBP2_CAEEL,0,0,0,0,0,0,1,1,C18A3.3,WBGene00015941,Public name for WBGene00015941. History: N.A.
+C23H5.8,H2KYY0_CAEEL,0,0,0,0,0,0,1,1,C23H5.8,WBGene00016027,Public name for WBGene00016027. History: N.A.
+C25A1.4,Q9XVS2_CAEEL,0,0,0,0,0,0,1,1,C25A1.4,WBGene00045383,Sequence name for WBGene00045383(sup-46). History: N.A.
+C53B7.2,Q18805_CAEEL,0,0,0,0,0,0,1,1,C53B7.2,WBGene00016893,Public name for WBGene00016893. History: N.A.
+C53C9.2,YSE2_CAEEL,0,0,0,0,0,0,1,1,C53C9.2,WBGene00016898,Sequence name for WBGene00016898(clik-2). History: N.A.
+C53D6.7,Q18813_CAEEL,0,0,0,0,0,0,1,1,C53D6.7,WBGene00008284,"Public name for WBGene00008284. History: Split into C53D6.10(WBGene00023424). History of WBGene00008284: Split into ""WBGene00023424"" on 2004-07-14"
+akap-1,YQK1_CAEEL,0,0,0,0,0,0,1,1,akap-1,WBGene00016977,Public name for WBGene00016977. History: N.A.
+cdr-4,G5EDZ7_CAEEL,0,0,0,0,0,0,1,1,cdr-4,WBGene00010470,Public name for WBGene00010470. History: N.A.
+clec-126,O16641_CAEEL,0,0,0,0,0,0,1,1,clec-126,WBGene00021117,Public name for WBGene00021117. History: N.A.
+col-53,E5QCF2_CAEEL,0,0,0,0,0,0,1,1,col-53,WBGene00000630,Public name for WBGene00000630. History: N.A.
+coq-6,COQ6_CAEEL,0,0,0,0,0,0,1,1,coq-6,WBGene00000766,Public name for WBGene00000766. History: N.A.
+cox-2,COX2_CAEEL,0,0,0,0,0,0,1,1,,,
+D1054.3,Q18949_CAEEL,0,0,0,0,0,0,1,1,D1054.3,WBGene00008371,Public name for WBGene00008371. History: N.A.
+dut-1,G5EET2_CAEEL,0,0,0,0,0,0,1,1,dut-1,WBGene00010609,Public name for WBGene00010609. History: N.A.
+dyrb-1,Q22752_CAEEL,0,0,0,0,0,0,1,1,dyrb-1,WBGene00012004,Public name for WBGene00012004. History: N.A.
+eif-3.E,EIF3E_CAEEL,0,0,0,0,0,0,1,1,eif-3.E,WBGene00001228,Public name for WBGene00001228. History: N.A.
+ers-1,SYQ_CAEEL,0,0,0,0,0,0,1,1,ers-1,WBGene00001336,Other name for WBGene00001336(qars-1). History: Renamed on 2010-01-29
+F09A5.4,Q19237_CAEEL,0,0,0,0,0,0,1,1,F09A5.4,WBGene00008601,Sequence name for WBGene00008601(mob-2). History: Renamed on 2017-04-05
+F10C5.2,Q19293_CAEEL,0,0,0,0,0,0,1,1,F10C5.2,WBGene00017328,Sequence name for WBGene00017328(nemp-1). History: N.A.
+F16B12.4,Q93517_CAEEL,0,0,0,0,0,0,1,1,F16B12.4,WBGene00008880,Public name for WBGene00008880. History: N.A.
+F22G12.4,G1K106_CAEEL,0,0,0,0,0,0,1,1,F22G12.4,WBGene00009064,Public name for WBGene00009064. History: N.A.
+F25H2.6,Q93569_CAEEL,0,0,0,0,0,0,1,1,F25H2.6,WBGene00009120,Public name for WBGene00009120. History: N.A.
+F32D8.12,Q7JLI9_CAEEL,0,0,0,0,0,0,1,1,F32D8.12,WBGene00009334,Public name for WBGene00009334. History: N.A.
+F39H2.3,G5EE11_CAEEL,0,0,0,0,0,0,1,1,F39H2.3,WBGene00009563,Public name for WBGene00009563. History: N.A.
+F42G9.1,PP2C1_CAEEL,0,0,0,0,0,0,1,1,F42G9.1,WBGene00018362,Sequence name for WBGene00018362(ppm-1.G). History: N.A.
+F49E2.5,Q20626_CAEEL,0,0,0,0,0,0,1,1,F49E2.5,WBGene00009888,Public name for WBGene00009888. History: N.A.
+F55F8.2,P91340_CAEEL,0,0,0,0,0,0,1,1,F55F8.2,WBGene00018890,Public name for WBGene00018890. History: N.A.
+F56A11.5,O44517_CAEEL,0,0,0,0,0,0,1,1,F56A11.5,WBGene00018925,Public name for WBGene00018925. History: N.A.
+hat-1,Q21484_CAEEL,0,0,0,0,0,0,1,1,hat-1,WBGene00044069,Public name for WBGene00044069. History: N.A.
+his-1,H4_CAEEL,0,0,0,0,0,0,1,1,his-1,WBGene00001875,Public name for WBGene00001875. History: N.A.
+K02F3.2,CMC1_CAEEL,0,0,0,0,0,0,1,1,K02F3.2,WBGene00019326,Public name for WBGene00019326. History: N.A.
+K03E6.7,Q21194_CAEEL,0,0,0,0,0,0,1,1,K03E6.7,WBGene00019365,Sequence name for WBGene00019365(rei-2). History: N.A.
+K04C2.2,Q21210_CAEEL,0,0,0,0,0,0,1,1,K04C2.2,WBGene00019380,Public name for WBGene00019380. History: N.A.
+K05C4.2,JAGN_CAEEL,0,0,0,0,0,0,1,1,K05C4.2,WBGene00010579,Public name for WBGene00010579. History: N.A.
+kpc-1,O17798_CAEEL,0,0,0,0,0,0,1,1,kpc-1,WBGene00002232,Public name for WBGene00002232. History: N.A.
+lfi-1,H2L0I2_CAEEL,0,0,0,0,0,0,1,1,lfi-1,WBGene00022500,Public name for WBGene00022500. History: N.A.
+lim-9,G5EF39_CAEEL,0,0,0,0,0,0,1,1,lim-9,WBGene00006407,Public name for WBGene00006407. History: Renamed on 2007-02-02
+lmp-1,LMP1_CAEEL,0,0,0,0,0,0,1,1,lmp-1,WBGene00003053,Public name for WBGene00003053. History: N.A.
+lsm-4,LSM4_CAEEL,0,0,0,0,0,0,1,1,lsm-4,WBGene00003078,Public name for WBGene00003078. History: N.A.
+mdh-1,Q9UAV5_CAEEL,0,0,0,0,0,0,1,1,mdh-1,WBGene00018491,Public name for WBGene00018491. History: N.A.. Other name for WBGene00003162(mdh-2). History: Renamed on 2010-08-18
+mek-1,Q7Z1P1_CAEEL,0,0,0,0,0,0,1,1,mek-1,WBGene00003185,Public name for WBGene00003185. History: N.A.
+mix-1,MIX1_CAEEL,0,0,0,0,0,0,1,1,mix-1,WBGene00003367,Public name for WBGene00003367. History: N.A.
+mrps-26,Q95QS3_CAEEL,0,0,0,0,0,0,1,1,mrps-26,WBGene00016412,Public name for WBGene00016412. History: N.A.
+mrs-1,SYMC_CAEEL,0,0,0,0,0,0,1,1,mrs-1,WBGene00003415,Other name for WBGene00003415(mars-1). History: Renamed on 2010-01-29; Renamed on 2015-03-25
+ngp-1,Q9U365_CAEEL,0,0,0,0,0,0,1,1,ngp-1,WBGene00003596,Public name for WBGene00003596. History: N.A.
+nid-1,Q93791_CAEEL,0,0,0,0,0,0,1,1,nid-1,WBGene00003738,Public name for WBGene00003738. History: N.A.
+npp-15,NU133_CAEEL,0,0,0,0,0,0,1,1,npp-15,WBGene00003801,Public name for WBGene00003801. History: N.A.
+nra-2,A5JYX8_CAEEL,0,0,0,0,0,0,1,1,nra-2,WBGene00011488,Public name for WBGene00011488. History: N.A.
+nst-1,GNL3_CAEEL,0,0,0,0,0,0,1,1,nst-1,WBGene00003821,Public name for WBGene00003821. History: N.A.
+nuo-4,Q21233_CAEEL,0,0,0,0,0,0,1,1,nuo-4,WBGene00019401,Public name for WBGene00019401. History: N.A.
+otub-3,F5GU87_CAEEL,0,0,0,0,0,0,1,1,otub-3,WBGene00009007,Public name for WBGene00009007. History: N.A.
+oxy-5,A7DT45_CAEEL,0,0,0,0,0,0,1,1,oxy-5,WBGene00045483,Public name for WBGene00045483. History: N.A.
+phb-2,PHB2_CAEEL,0,0,0,0,0,0,1,1,phb-2,WBGene00004015,Public name for WBGene00004015. History: N.A.
+ppm-1,Q7JLJ3_CAEEL,0,0,0,0,0,0,1,1,ppm-1,WBGene00006460,Other name for WBGene00006460(ppm-1.A). History: Renamed on 2011-06-10; Renamed on 2018-05-24
+pqn-22,H2KZA4_CAEEL,0,0,0,0,0,0,1,1,pqn-22,WBGene00004112,Public name for WBGene00004112. History: N.A.
+prg-1,P90786_CAEEL,0,0,0,0,0,0,1,1,prg-1,WBGene00004178,Public name for WBGene00004178. History: N.A.
+puf-11,Q8IU00_CAEEL,0,0,0,0,0,0,1,1,puf-11,WBGene00022257,Public name for WBGene00022257. History: N.A.
+ret-1,G5ECZ2_CAEEL,0,0,0,0,0,0,1,1,ret-1,WBGene00004336,Public name for WBGene00004336. History: N.A.
+rnr-2,RIR2_CAEEL,0,0,0,0,0,0,1,1,rnr-2,WBGene00004392,Public name for WBGene00004392. History: N.A.
+rpl-37,RL37_CAEEL,0,0,0,0,0,0,1,1,rpl-37,WBGene00004451,Public name for WBGene00004451. History: N.A.
+rpn-11,PSDE_CAEEL,0,0,0,0,0,0,1,1,rpn-11,WBGene00004467,Public name for WBGene00004467. History: N.A.
+rsks-1,Q9NAH6_CAEEL,0,0,0,0,0,0,1,1,rsks-1,WBGene00012929,Public name for WBGene00012929. History: N.A.
+sec-15,EXOC6_CAEEL,0,0,0,0,0,0,1,1,sec-15,WBGene00016188,Public name for WBGene00016188. History: N.A.
+smc-3,Q9U2C1_CAEEL,0,0,0,0,0,0,1,1,smc-3,WBGene00004873,Public name for WBGene00004873. History: N.A.
+snr-2,RSMB_CAEEL,0,0,0,0,0,0,1,1,snr-2,WBGene00004915,Public name for WBGene00004915. History: N.A.
+snx-6,D9PTP5_CAEEL,0,0,0,0,0,0,1,1,snx-6,WBGene00013354,Public name for WBGene00013354. History: N.A.
+sor-3,SOR3_CAEEL,0,0,0,0,0,0,1,1,sor-3,WBGene00015429,Public name for WBGene00015429. History: N.A.
+T02G5.7,Q22101_CAEEL,0,0,0,0,0,0,1,1,T02G5.7,WBGene00020166,Public name for WBGene00020166. History: N.A.
+T07A9.9,NOG1_CAEEL,0,0,0,0,0,0,1,1,T07A9.9,WBGene00020297,Sequence name for WBGene00020297(nog-1). History: Renamed on 2005-03-17
+T07D3.9,O16725_CAEEL,0,0,0,0,0,0,1,1,T07D3.9,WBGene00020311,Public name for WBGene00020311. History: N.A.
+T08H10.1,Q22352_CAEEL,0,0,0,0,0,0,1,1,T08H10.1,WBGene00020369,Sequence name for WBGene00020369(exc-15). History: N.A.
+T20B3.1,Q9XUN8_CAEEL,0,0,0,0,0,0,1,1,T20B3.1,WBGene00011850,Public name for WBGene00011850. History: N.A.
+T22D1.3,IMDH_CAEEL,0,0,0,0,0,0,1,1,T22D1.3,WBGene00020682,Public name for WBGene00020682. History: N.A.
+tag-210,TG210_CAEEL,0,0,0,0,0,0,1,1,tag-210,WBGene00012344,Other name for WBGene00012344(ola-1). History: Renamed on 2012-12-21
+tir-1,SARM1_CAEEL,0,0,0,0,0,0,1,1,tir-1,WBGene00006575,Public name for WBGene00006575. History: Renamed on 2005-11-09
+tram-1,Q9U3P5_CAEEL,0,0,0,0,0,0,1,1,tram-1,WBGene00007696,Public name for WBGene00007696. History: N.A.
+tyr-5,O76708_CAEEL,0,0,0,0,0,0,1,1,tyr-5,WBGene00021553,Public name for WBGene00021553. History: N.A.
+ucr-2.3,Q9TZ33_CAEEL,0,0,0,0,0,0,1,1,ucr-2.3,WBGene00020757,Public name for WBGene00020757. History: N.A.
+unc-112,UN112_CAEEL,0,0,0,0,0,0,1,1,unc-112,WBGene00006836,Public name for WBGene00006836. History: N.A.
+unc-60,ADF1_CAEEL,0,0,0,0,0,0,1,1,unc-60,WBGene00006794,"Public name for WBGene00006794. History: Split into F53E2.2(WBGene00302980). History of WBGene00006794: Split into ""WBGene00302980"" on 2018-03-06"
+vha-10,VATG_CAEEL,0,0,0,0,0,0,1,1,vha-10,WBGene00006919,Public name for WBGene00006919. History: N.A.
+W04B5.3,H2KZL1_CAEEL,0,0,0,0,0,0,1,1,W04B5.3,WBGene00021020,Public name for WBGene00021020. History: N.A.
+xrn-2,XRN2_CAEEL,0,0,0,0,0,0,1,1,xrn-2,WBGene00006964,Public name for WBGene00006964. History: N.A.
+Y38H6C.25,C7IVS0_CAEEL,0,0,0,0,0,0,1,1,Y38H6C.25,WBGene00194744,Public name for WBGene00194744. History: N.A.
+Y43F8B.1,Q8I4D3_CAEEL,0,0,0,0,0,0,1,1,Y43F8B.1,WBGene00012812,Public name for WBGene00012812. History: N.A.
+Y46E12BL.2,Q965N8_CAEEL,0,0,0,0,0,0,1,1,Y46E12BL.2,WBGene00021595,Public name for WBGene00021595. History: N.A.
+Y54G2A.17,PNCB_CAEEL,0,0,0,0,0,0,1,1,Y54G2A.17,WBGene00021882,Sequence name for WBGene00021882(nprt-1). History: N.A.
+Y63D3A.7,Q9XWG2_CAEEL,0,0,0,0,0,0,1,1,Y63D3A.7,WBGene00013406,Public name for WBGene00013406. History: N.A.
+Y67H2A.5,Q95PZ1_CAEEL,0,0,0,0,0,0,1,1,Y67H2A.5,WBGene00013463,Sequence name for WBGene00013463(kdp-1). History: N.A.
+Y71H2AM.3,Q2AAC0_CAEEL,0,0,0,0,0,0,1,1,Y71H2AM.3,WBGene00022168,"Public name for WBGene00022168. History: Split into Y71H2AM.25(WBGene00044760). History of WBGene00022168: Split into ""WBGene00044760"" on 2006-02-24"
+ZK1098.11,G5EE42_CAEEL,0,0,0,0,0,0,1,1,ZK1098.11,WBGene00014226,Public name for WBGene00014226. History: N.A.

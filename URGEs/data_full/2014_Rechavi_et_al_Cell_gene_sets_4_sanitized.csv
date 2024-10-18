@@ -1,0 +1,217 @@
+# mRNA_P0,,
+gene,Starved/fed,mean,Input,Suggested Match,History
+C07G2.1,12.31,1545.54,C07G2.1,WBGene00000465,Sequence name for WBGene00000465(cpg-1). History: Renamed on 2006-06-16; Renamed on 2008-01-14
+Y44A6D.5,3.48,244.58,Y44A6D.5,WBGene00012855,Public name for WBGene00012855. History: N.A.
+F21F8.7,2.7,34.7,F21F8.7,WBGene00000219,Sequence name for WBGene00000219(asp-6). History: N.A.
+K11D12.2,3.21,102.1,K11D12.2,WBGene00004136,"Sequence name for WBGene00004136(pqn-51). History: Split into K11D12.14(WBGene00303069). History of WBGene00004136: Split into ""WBGene00303069"" on 2018-03-02"
+C28C12.2,3.21,124.14,C28C12.2,WBGene00016178,Sequence name for WBGene00016178(mesp-1). History: N.A.
+Y48G1BM.9,3.11,24.39,Y48G1BM.9,WBGene00021675,"Public name for Dead gene WBGene00021674. History of WBGene00021674: Merged into ""WBGene00021675"" on 2013-10-17"
+Y54E5A.5,3.14,13.38,Y54E5A.5,WBGene00013200,Public name for WBGene00013200. History: N.A.
+Y57A10A.15,4.1,159.93,Y57A10A.15,WBGene00013258,Sequence name for WBGene00013258(polg-1). History: N.A.
+T07C12.11,2.0,30.86,T07C12.11,WBGene00011575,Sequence name for WBGene00011575(madf-4). History: N.A.
+R10H10.7,2.11,791.61,R10H10.7,WBGene00011225,Public name for WBGene00011225. History: N.A.
+M01D7.5,3.28,132.08,M01D7.5,WBGene00003750,Sequence name for WBGene00003750(nlp-12). History: N.A.
+Y18H1A.14,2.11,44.08,Y18H1A.14,WBGene00044461,Public name for WBGene00044461. History: N.A.
+T03E6.6,2.83,106.77,T03E6.6,WBGene00005820,Sequence name for WBGene00005820(srw-73). History: N.A.
+T20F10.8,2.62,564.37,T20F10.8,WBGene00077765,Public name for WBGene00077765. History: N.A.
+F10C1.7,1.54,41.44,F10C1.7,WBGene00002054,Sequence name for WBGene00002054(ifb-2). History: N.A.
+Y22F5A.3,1.89,7.59,Y22F5A.3,WBGene00004364,"Sequence name for WBGene00004364(ric-4). History: Renamed on 2004-09-23. Public name for Dead gene WBGene00012495. History of WBGene00012495: Merged into ""WBGene00004364"" on 2004-09-23"
+Y50D4A.6,1.75,31.75,Y50D4A.6,WBGene00195169,Public name for WBGene00195169. History: N.A.
+C06A5.6,2.18,61.34,C06A5.6,WBGene00015504,Sequence name for WBGene00015504(simr-1). History: N.A.
+Y38F1A.6,2.46,18.19,Y38F1A.6,WBGene00012608,Sequence name for WBGene00012608(hphd-1). History: N.A.
+Y71G12B.28,1.72,36.58,Y71G12B.28,WBGene00022163,Public name for WBGene00022163. History: N.A.
+T01C8.5,1.71,49.42,T01C8.5,WBGene00020146,Sequence name for WBGene00020146(got-1.2). History: N.A.
+K10C2.1,1.57,44.32,K10C2.1,WBGene00019617,Sequence name for WBGene00019617(ctsa-2). History: N.A.
+Y55F3AM.11,1.71,294.2,Y55F3AM.11,WBGene00021928,Public name for WBGene00021928. History: N.A.
+F54E7.8,2.17,89.28,F54E7.8,WBGene00018830,Sequence name for WBGene00018830(ska-3). History: N.A.
+B0001.5,1.66,20.0,B0001.5,WBGene00007090,Public name for WBGene00007090. History: N.A.
+Y77E11A.10,1.64,54.07,Y77E11A.10,WBGene00000546,"Sequence name for WBGene00000546(clp-6). History: Split into Y77E11A.23(WBGene00235267). History of WBGene00000546: Split into ""WBGene00235267"" on 2013-09-04"
+Y37E11B.2,1.89,90.55,Y37E11B.2,WBGene00021375,Public name for WBGene00021375. History: N.A.
+R06C1.4,1.58,152.87,R06C1.4,WBGene00011059,Public name for WBGene00011059. History: N.A.
+C17F4.5,1.6,19.13,C17F4.5,WBGene00015912,Sequence name for WBGene00015912(fbxc-50). History: N.A.
+R05D3.11,1.8,7.98,R05D3.11,WBGene00019883,Sequence name for WBGene00019883(met-2). History: N.A.
+C02B10.4,1.62,57.5,C02B10.4,WBGene00015329,Public name for WBGene00015329. History: N.A.
+Y48C3A.10,2.37,39.0,Y48C3A.10,WBGene00012992,Sequence name for WBGene00012992(mrpl-20). History: N.A.
+C06A8.5,2.73,31.63,C06A8.5,WBGene00015515,Sequence name for WBGene00015515(spdl-1). History: N.A.
+B0336.3,1.87,149.05,B0336.3,WBGene00015143,Sequence name for WBGene00015143(rbm-26). History: N.A.
+C01G5.2,0.62,101.83,C01G5.2,WBGene00004179,"Sequence name for WBGene00004179(prg-2). History: Renamed on 2007-11-05. Public name for Dead gene WBGene00015304. History of WBGene00015304: Merged into ""WBGene00004179"" on 2007-11-05"
+H40L08.1,1.64,23.55,H40L08.1,WBGene00010433,Public name for WBGene00010433. History: N.A.
+Y56A3A.10,1.58,14.93,Y56A3A.10,WBGene00013230,Sequence name for WBGene00013230(fbxb-22). History: N.A.
+C16A11.3,1.67,14.25,C16A11.3,WBGene00015816,"Public name for WBGene00015816. History: Split into C16A11.10(WBGene00185089). History of WBGene00015816: Split into ""WBGene00185089"" on 2009-03-13"
+Y37E11AR.3,1.74,27.39,Y37E11AR.3,WBGene00021370,Sequence name for WBGene00021370(nape-2). History: N.A.
+B0365.3,1.57,836.17,B0365.3,WBGene00001137,Sequence name for WBGene00001137(eat-6). History: N.A.
+ZK355.2,0.63,59.3,ZK355.2,WBGene00022712,Public name for WBGene00022712. History: N.A.
+C24F3.1,0.61,139.95,C24F3.1,WBGene00007696,Sequence name for WBGene00007696(tram-1). History: N.A.
+F21D9.6,0.5,10.78,F21D9.6,WBGene00009020,Public name for WBGene00009020. History: N.A.
+T26C11.6,0.57,65.19,T26C11.6,WBGene00000444,Sequence name for WBGene00000444(ceh-21). History: N.A.
+F23A7.5,0.33,34.49,F23A7.5,WBGene00009070,Public name for WBGene00009070. History: N.A.
+T18H9.7,0.54,42.65,T18H9.7,WBGene00044077,"Sequence name for WBGene00044077(pacs-1). History: Renamed on 2019-07-15. Public name for Dead gene WBGene00020552. History of WBGene00020552: Merged into ""WBGene00044077"" on 2005-10-05"
+D2024.10,0.64,68.01,D2024.10,WBGene00044505,Public name for WBGene00044505. History: N.A.
+C56E6.3,0.67,52.67,C56E6.3,WBGene00016971,Sequence name for WBGene00016971(toe-2). History: N.A.
+R12C12.1,0.64,35.32,R12C12.1,WBGene00020022,Sequence name for WBGene00020022(gldc-1). History: N.A.
+Y38H6C.4,0.65,77.69,Y38H6C.4,WBGene00012617,Public name for WBGene00012617. History: N.A.
+K07A3.2,0.65,23.26,K07A3.2,WBGene00004226,Sequence name for WBGene00004226(ptr-12). History: N.A.
+Y53G8AL.1,0.64,26.72,Y53G8AL.1,WBGene00021799,Public name for WBGene00021799. History: N.A.
+C56C10.9,0.64,21.24,C56C10.9,WBGene00016965,Public name for WBGene00016965. History: N.A.
+K01B6.1,0.63,43.93,K01B6.1,WBGene00010453,Sequence name for WBGene00010453(fozi-1). History: N.A.
+C47G2.3,0.62,31.34,C47G2.3,WBGene00008164,Public name for WBGene00008164. History: N.A.
+K08D10.11,1.64,363.69,K08D10.11,WBGene00019534,Public name for WBGene00019534. History: N.A.
+Y8G1A.2,0.61,27.87,Y8G1A.2,WBGene00002135,Sequence name for WBGene00002135(inx-13). History: Renamed on 2015-03-05
+ZK402.1,0.41,25.05,ZK402.1,WBGene00022728,Public name for WBGene00022728. History: N.A.
+Y73B3A.7,0.6,22.85,Y73B3A.7,WBGene00022209,Public name for WBGene00022209. History: N.A.
+C01G8.2,0.63,12.85,C01G8.2,WBGene00000540,Sequence name for WBGene00000540(cln-3.2). History: N.A.
+VC5.3,0.47,20.13,VC5.3,WBGene00003786,Sequence name for WBGene00003786(npa-1). History: N.A.
+F07H5.5,0.57,37.33,F07H5.5,WBGene00014309,Public name for WBGene00014309. History: N.A.
+C15H11.5,0.57,27.16,C15H11.5,WBGene00007615,Sequence name for WBGene00007615(set-31). History: Renamed on 2007-05-03
+C27F2.4,0.6,48.98,C27F2.4,WBGene00016166,Public name for WBGene00016166. History: N.A.
+F09E5.10,0.5,84.77,F09E5.10,WBGene00017288,Public name for WBGene00017288. History: N.A.
+Y76B12C.6,0.6,42.29,Y76B12C.6,WBGene00022300,Public name for WBGene00022300. History: N.A.
+B0244.2,0.59,33.65,B0244.2,WBGene00002048,Sequence name for WBGene00002048(ida-1). History: N.A.
+C34D4.4,0.5,49.21,C34D4.4,WBGene00016400,Public name for WBGene00016400. History: N.A.
+C52A11.4,0.59,10.17,C52A11.4,WBGene00003404,Sequence name for WBGene00003404(mpz-1). History: N.A.
+C50F2.6,0.59,8.12,C50F2.6,WBGene00001430,Sequence name for WBGene00001430(fkb-5). History: N.A.
+C09G12.8,0.57,38.4,C09G12.8,WBGene00000424,Sequence name for WBGene00000424(ced-10). History: N.A.
+B0238.10,0.57,66.05,B0238.10,WBGene00015074,Sequence name for WBGene00015074(natc-2). History: N.A.
+K10G9.2,0.57,62.12,K10G9.2,WBGene00010756,Public name for WBGene00010756. History: N.A.
+Y32G9A.1,0.56,40.61,Y32G9A.1,WBGene00001785,Sequence name for WBGene00001785(gst-37). History: N.A.
+T07A9.14,0.56,34.01,T07A9.14,WBGene00044789,Public name for WBGene00044789. History: N.A.
+ZK1073.1,0.48,28.07,ZK1073.1,WBGene00014213,Public name for WBGene00014213. History: N.A.
+W02D7.11,0.55,11.9,W02D7.11,WBGene00020946,Public name for WBGene00020946. History: N.A.
+Y60A3A.24,0.55,85.17,Y60A3A.24,WBGene00023519,Public name for WBGene00023519. History: N.A.
+DY3.2,0.45,17.14,DY3.2,WBGene00003052,Sequence name for WBGene00003052(lmn-1). History: N.A.
+F31B9.3,0.54,12.12,F31B9.3,WBGene00009280,Public name for WBGene00009280. History: N.A.
+C49A9.9,0.29,19.98,C49A9.9,WBGene00016763,Public name for WBGene00016763. History: N.A.
+F54B8.4,0.54,30.55,F54B8.4,WBGene00010019,Public name for WBGene00010019. History: N.A.
+B0414.8,0.53,71.67,B0414.8,WBGene00015176,Sequence name for WBGene00015176(vps-51). History: N.A.
+C01F6.3,0.51,9.54,C01F6.3,WBGene00000374,Sequence name for WBGene00000374(cyp-31A1). History: N.A.
+K04F1.15,0.51,32.2,K04F1.15,WBGene00000108,Sequence name for WBGene00000108(alh-2). History: N.A.
+C07D10.5,0.54,7.5,C07D10.5,WBGene00015569,Public name for WBGene00015569. History: N.A.
+ZK1236.9,0.63,41.27,ZK1236.9,WBGene00044588,Public name for WBGene00044588. History: N.A.
+F25H2.6,0.5,31.69,F25H2.6,WBGene00009120,Public name for WBGene00009120. History: N.A.
+B0496.3,0.51,12.91,B0496.3,WBGene00006814,"Sequence name for WBGene00006814(unc-82). History: N.A.. Public name for Dead gene WBGene00015212. History of WBGene00015212: Merged into ""WBGene00006814"" on 2007-06-12"
+Y49A3A.5,0.5,93.61,Y49A3A.5,WBGene00000877,Sequence name for WBGene00000877(cyn-1). History: N.A.
+T05G5.4,0.39,37.68,T05G5.4,WBGene00011499,Public name for WBGene00011499. History: N.A.
+C05D11.11,0.6,766.15,C05D11.11,WBGene00003214,Sequence name for WBGene00003214(mel-32). History: N.A.
+Y55F3AM.13,0.5,28.01,Y55F3AM.13,WBGene00021930,Public name for WBGene00021930. History: N.A.
+Y55D9A.2,0.5,15.49,Y55D9A.2,WBGene00013224,Public name for WBGene00013224. History: N.A.
+C44B7.11,0.45,18.02,C44B7.11,WBGene00016631,Public name for WBGene00016631. History: N.A.
+T28F2.1,0.49,40.04,T28F2.1,WBGene00020900,Public name for WBGene00020900. History: N.A.
+ZC412.5,0.49,62.7,ZC412.5,WBGene00013886,Public name for WBGene00013886. History: N.A.
+C14A4.5,0.48,24.08,C14A4.5,WBGene00000798,Sequence name for WBGene00000798(crn-5). History: Renamed on 2007-06-04
+B0261.8,0.47,6.96,B0261.8,WBGene00015096,Public name for WBGene00015096. History: N.A.
+C27A12.10,0.47,26.16,C27A12.10,WBGene00023409,Sequence name for WBGene00023409(mbd-2). History: N.A.
+F42H10.10,0.47,76.63,F42H10.10,WBGene00195997,Public name for WBGene00195997. History: N.A.
+F10D7.4,0.46,1006.26,F10D7.4,WBGene00017341,"Public name for WBGene00017341. History: Split into F10D7.10(WBGene00271701). History of WBGene00017341: Split into ""WBGene00271701"" on 2017-04-28"
+F42A10.8,0.46,15.51,F42A10.8,WBGene00003546,Sequence name for WBGene00003546(nas-28). History: N.A.
+ZC8.4,0.45,1340.11,ZC8.4,WBGene00022500,Sequence name for WBGene00022500(lfi-1). History: N.A.
+B0348.4,0.48,63.06,B0348.4,WBGene00001177,Sequence name for WBGene00001177(egl-8). History: N.A.
+ZK637.1,0.45,99.99,ZK637.1,WBGene00014021,Sequence name for WBGene00014021(svop-1). History: N.A.
+F10C1.t1,0.61,35.33,F10C1.t1,WBGene00022983,Public name for WBGene00022983. History: N.A.
+Y113G7B.1,0.43,16.73,Y113G7B.1,WBGene00013754,Sequence name for WBGene00013754(fbxa-116). History: N.A.
+M01D7.2,0.43,212.19,M01D7.2,WBGene00004743,Sequence name for WBGene00004743(scm-1). History: N.A.
+C33H5.8,0.43,33.28,C33H5.8,WBGene00016375,Sequence name for WBGene00016375(rpap-3). History: N.A.
+Y61A9LA.4,0.36,42.61,Y61A9LA.4,WBGene00022016,Public name for WBGene00022016. History: N.A.
+C17G10.8,0.35,108.54,C17G10.8,WBGene00000970,Sequence name for WBGene00000970(dhs-6). History: N.A.
+C27H6.4,0.42,205.16,C27H6.4,WBGene00007786,Sequence name for WBGene00007786(rmd-2). History: N.A.
+Y119D3B.22,0.39,50.0,Y119D3B.22,WBGene00044675,Sequence name for WBGene00044675(fbxa-76). History: N.A.
+T08H10.3,0.39,36.47,T08H10.3,WBGene00020370,Public name for WBGene00020370. History: N.A.
+T22B7.4,0.38,46.8,T22B7.4,WBGene00020673,Public name for WBGene00020673. History: N.A.
+F40F4.6,0.44,67.04,F40F4.6,WBGene00018237,Sequence name for WBGene00018237(irg-7). History: Renamed on 2016-09-23
+C07A9.9,0.35,7.71,C07A9.9,WBGene00007405,Public name for WBGene00007405. History: N.A.
+F53H4.1,0.38,70.24,F53H4.1,WBGene00000803,Sequence name for WBGene00000803(csb-1). History: N.A.
+C07G3.9,0.37,27.26,C07G3.9,WBGene00015577,Sequence name for WBGene00015577(ugt-64). History: N.A.
+C06H2.3,0.36,40.35,C06H2.3,WBGene00007387,Sequence name for WBGene00007387(jmjd-5). History: N.A.
+F54F11.2,0.34,7.53,F54F11.2,WBGene00010070,Sequence name for WBGene00010070(nep-17). History: N.A.
+Y54E10A.16,0.36,43.51,Y54E10A.16,WBGene00021834,Sequence name for WBGene00021834(mab-31). History: N.A.
+K11C4.4,0.39,41.0,K11C4.4,WBGene00003844,Sequence name for WBGene00003844(odc-1). History: N.A.
+T05D4.1,0.36,128.22,T05D4.1,WBGene00011474,Sequence name for WBGene00011474(aldo-1). History: N.A.
+M01E5.1,0.35,10.67,M01E5.1,WBGene00010804,Public name for WBGene00010804. History: N.A.
+K10C9.8,0.35,27.17,K10C9.8,WBGene00006255,Sequence name for WBGene00006255(str-224). History: N.A.
+C30F12.5,0.31,17.36,C30F12.5,WBGene00016264,Public name for WBGene00016264. History: N.A.
+F21G4.4,0.16,20.55,F21G4.4,WBGene00009025,Sequence name for WBGene00009025(phf-34). History: N.A.
+C36B1.9,0.46,19.09,C36B1.9,WBGene00007976,Public name for WBGene00007976. History: N.A.
+K11E4.11,0.34,89.75,K11E4.11,WBGene00202433,Public name for WBGene00202433. History: N.A.
+K11C4.3,0.11,20.05,K11C4.3,WBGene00006803,Sequence name for WBGene00006803(unc-70). History: N.A.
+F55A11.7,0.32,38.82,F55A11.7,WBGene00010080,Public name for WBGene00010080. History: N.A.
+K08D12.2,0.33,143.01,K08D12.2,WBGene00019536,Sequence name for WBGene00019536(rpi-2). History: N.A.
+D2096.2,0.17,16.44,D2096.2,WBGene00017070,Sequence name for WBGene00017070(praf-3). History: N.A.
+C35D10.10,0.3,73.96,C35D10.10,WBGene00016446,Public name for WBGene00016446. History: N.A.
+C01F6.6,0.25,111.28,C01F6.6,WBGene00006438,Sequence name for WBGene00006438(nrfl-1). History: Renamed on 2012-02-07; Renamed on 2012-07-20
+D1081.9,0.31,15.69,D1081.9,WBGene00008387,Sequence name for WBGene00008387(zhp-2). History: N.A.
+F25E2.4,0.33,11.27,F25E2.4,WBGene00002058,Sequence name for WBGene00002058(ifd-2). History: N.A.
+C45G9.7,0.24,9.01,C45G9.7,WBGene00016678,Sequence name for WBGene00016678(txbp-3). History: N.A.
+H31G24.2,0.29,12.96,H31G24.2,WBGene00023314,Public name for WBGene00023314. History: N.A.
+ZC190.8,0.4,6.08,ZC190.8,WBGene00022542,Public name for WBGene00022542. History: N.A.
+D2096.3,0.15,75.66,D2096.3,WBGene00017071,Sequence name for WBGene00017071(aagr-1). History: N.A.
+C49C3.6,0.33,47.88,C49C3.6,WBGene00008196,Public name for WBGene00008196. History: N.A.
+T10H9.5,0.32,44.33,T10H9.5,WBGene00004062,Sequence name for WBGene00004062(pmp-5). History: N.A.
+F26D10.10,0.31,44.91,F26D10.10,WBGene00001606,Sequence name for WBGene00001606(gln-5). History: N.A.
+C50H11.15,0.28,17.44,C50H11.15,WBGene00016860,Sequence name for WBGene00016860(cyp-33C9). History: N.A.
+Y53F4B.17,0.28,86.77,Y53F4B.17,WBGene00013163,Public name for WBGene00013163. History: N.A.
+T28D6.4,0.28,30.74,T28D6.4,WBGene00012124,Public name for WBGene00012124. History: N.A.
+F39E9.7,0.26,64.54,F39E9.7,WBGene00018199,Public name for WBGene00018199. History: N.A.
+T09A5.11,0.21,46.51,T09A5.11,WBGene00011638,Sequence name for WBGene00011638(ostb-1). History: N.A.
+B0280.8,0.26,30.09,B0280.8,WBGene00003609,Sequence name for WBGene00003609(nhr-10). History: N.A.
+ZK563.5,0.27,64.64,ZK563.5,WBGene00022769,Sequence name for WBGene00022769(sorf-1). History: Renamed on 2016-03-01
+Y56A3A.7,0.52,22.1,Y56A3A.7,WBGene00013228,Public name for WBGene00013228. History: N.A.
+F08G12.4,0.27,17.14,F08G12.4,WBGene00006922,Sequence name for WBGene00006922(vhl-1). History: N.A.
+W09D10.1,0.36,74.03,W09D10.1,WBGene00012359,Public name for WBGene00012359. History: N.A.
+F39G3.5,0.24,87.16,F39G3.5,WBGene00018210,Public name for WBGene00018210. History: N.A.
+W04B5.1,0.37,225.99,W04B5.1,WBGene00021018,Public name for WBGene00021018. History: N.A.
+R06A10.1,0.26,245.55,R06A10.1,WBGene00019909,Public name for WBGene00019909. History: N.A.
+F31E9.11,0.18,29.45,F31E9.11,WBGene00195233,Public name for WBGene00195233. History: N.A.
+F59D8.2,0.11,6.75,F59D8.2,WBGene00006928,Sequence name for WBGene00006928(vit-4). History: N.A.
+ZK666.1,0.33,6.29,ZK666.1,WBGene00014041,Public name for WBGene00014041. History: N.A.
+Y46H3C.5,0.29,5.99,Y46H3C.5,WBGene00021605,Public name for WBGene00021605. History: N.A.
+Y40B10A.6,0.26,46.91,Y40B10A.6,WBGene00021491,Sequence name for WBGene00021491(comt-4). History: N.A.
+C14A6.1,0.37,76.25,C14A6.1,WBGene00007565,Sequence name for WBGene00007565(clec-48). History: N.A.
+C55B7.4,0.24,2354.35,C55B7.4,WBGene00016943,Sequence name for WBGene00016943(acdh-1). History: Renamed on 2004-08-25
+B0035.13,0.22,94.56,B0035.13,WBGene00007112,Public name for WBGene00007112. History: N.A.
+K02F2.2,0.39,437.4,K02F2.2,WBGene00019322,Sequence name for WBGene00019322(ahcy-1). History: Renamed on 2005-02-01; Renamed on 2015-03-05
+W01A11.3,0.13,8.53,W01A11.3,WBGene00006815,Sequence name for WBGene00006815(unc-83). History: N.A.
+Y17D7B.7,0.22,9.69,Y17D7B.7,WBGene00014562,Public name for WBGene00014562. History: N.A.
+F58G11.3,0.26,43.63,F58G11.3,WBGene00010281,Sequence name for WBGene00010281(mip-2). History: Renamed on 2021-12-09
+Y54G2A.37,0.28,19.18,Y54G2A.37,WBGene00023484,Public name for WBGene00023484. History: N.A.
+C13F10.7,0.26,54.29,C13F10.7,WBGene00015746,Public name for WBGene00015746. History: N.A.
+C46F9.3,0.41,5.52,C46F9.3,WBGene00016719,Sequence name for WBGene00016719(math-24). History: N.A.
+C34C12.7,0.25,4.78,C34C12.7,WBGene00007926,Public name for WBGene00007926. History: N.A.
+F07B7.7,0.23,5.92,F07B7.7,WBGene00017188,Public name for WBGene00017188. History: N.A.
+R09H10.5,0.28,63.82,R09H10.5,WBGene00011182,Public name for WBGene00011182. History: N.A.
+K02F2.6,0.24,29.34,K02F2.6,WBGene00004778,Sequence name for WBGene00004778(ser-3). History: N.A.
+C26F1.7,0.24,54.75,C26F1.7,WBGene00016150,Sequence name for WBGene00016150(hint-3). History: N.A.
+C17B7.11,0.18,9.84,C17B7.11,WBGene00015885,Sequence name for WBGene00015885(fbxa-65). History: N.A.
+F58A4.5,0.17,587.69,F58A4.5,WBGene00010228,Sequence name for WBGene00010228(clec-161). History: N.A.
+Y87G2A.11,0.22,6.99,Y87G2A.11,WBGene00013599,Sequence name for WBGene00013599(eipr-1). History: N.A.
+W06D11.1,0.23,94.92,W06D11.1,WBGene00012299,Public name for WBGene00012299. History: N.A.
+F16B12.2,0.35,6.2,F16B12.2,WBGene00001106,Sequence name for WBGene00001106(dsl-4). History: N.A.
+T12B5.8,0.25,10.04,T12B5.8,WBGene00020455,Sequence name for WBGene00020455(fbxa-59). History: N.A.
+H14A12.5,0.21,91.8,H14A12.5,WBGene00019197,Public name for WBGene00019197. History: N.A.
+C51E3.9,0.21,17.93,C51E3.9,WBGene00008254,Public name for WBGene00008254. History: N.A.
+K09F6.10,0.21,39.64,K09F6.10,WBGene00019593,Public name for WBGene00019593. History: N.A.
+T19C9.10,0.2,14.47,T19C9.10,WBGene00050934,Public name for WBGene00050934. History: N.A.
+C52E4.2,0.2,28.06,C52E4.2,WBGene00003235,Sequence name for WBGene00003235(mif-2). History: N.A.
+C35B1.5,0.26,191.72,C35B1.5,WBGene00016435,Public name for WBGene00016435. History: N.A.
+B0513.9,0.19,5.19,B0513.9,WBGene00007200,Sequence name for WBGene00007200(vamp-8). History: N.A.
+C32F10.4,0.24,51.58,C32F10.4,WBGene00016332,Public name for WBGene00016332. History: N.A.
+T05E11.5,0.1,8.23,T05E11.5,WBGene00011481,Sequence name for WBGene00011481(imp-2). History: N.A.
+W03F9.2,0.18,9.41,W03F9.2,WBGene00021000,Public name for WBGene00021000. History: N.A.
+T28F3.4,0.18,310.67,T28F3.4,WBGene00012130,"Sequence name for WBGene00012130(slc-17.4). History: Split into T28F3.11(WBGene00303083). History of WBGene00012130: Split into ""WBGene00303083"" on 2018-03-02"
+Y73F8A.1171,0.17,6.94,Y73F8A.1171,WBGene00201363,Public name for WBGene00201363. History: N.A.
+C24B9.3,0.35,178.68,C24B9.3,WBGene00016048,Public name for WBGene00016048. History: N.A.
+ZK945.2,0.16,31.04,ZK945.2,WBGene00003928,Sequence name for WBGene00003928(pas-7). History: N.A.
+F15E11.1,0.22,34.91,F15E11.1,WBGene00017490,Sequence name for WBGene00017490(pud-2.1). History: N.A.
+D2096.4,0.23,11.49,D2096.4,WBGene00005019,Sequence name for WBGene00005019(sqv-1). History: N.A.
+ZC416.8,0.15,14.14,ZC416.8,"WBGene00000481, WBGene00006756",Sequence name for WBGene00000481(cha-1). History: N.A.. Sequence name for WBGene00006756(unc-17). History: N.A.
+Y54G2A.16,0.15,129.72,Y54G2A.16,WBGene00021881,Public name for WBGene00021881. History: N.A.
+C05E4.9,0.29,1317.49,C05E4.9,WBGene00001564,Sequence name for WBGene00001564(icl-1). History: Renamed on 2010-11-16
+F07A11.1,0.15,26.75,F07A11.1,WBGene00008545,Public name for WBGene00008545. History: N.A.
+Y77E11A.2,0.13,11.19,Y77E11A.2,WBGene00022307,Sequence name for WBGene00022307(nadk-1). History: N.A.
+C52E4.1,0.26,1745.51,C52E4.1,WBGene00000781,Sequence name for WBGene00000781(cpr-1). History: N.A.
+K03F8.3,0.11,20.16,K03F8.3,WBGene00200078,Public name for WBGene00200078. History: N.A.
+EGAP2.3,0.02,75.71,EGAP2.3,WBGene00004020,Sequence name for WBGene00004020(pho-1). History: N.A.
+F15E11.14,0.13,5.49,F15E11.14,WBGene00017500,Sequence name for WBGene00017500(pud-2.2). History: N.A.
+T12B5.1,0.1,33.57,T12B5.1,WBGene00020448,Sequence name for WBGene00020448(fbxa-51). History: N.A.
+M02F4.9,0.09,19.54,M02F4.9,WBGene00019739,Public name for WBGene00019739. History: N.A.
+T01H8.2,0.08,13.99,T01H8.2,WBGene00011353,Sequence name for WBGene00011353(serr-1). History: N.A.
+M05B5.1,0.07,34.89,M05B5.1,WBGene00010869,Public name for WBGene00010869. History: N.A.
+F53B3.3,0.03,12.27,F53B3.3,WBGene00018742,Public name for WBGene00018742. History: N.A.

@@ -1,0 +1,73 @@
+increased in hrde-1 at 15C 1,Input,Suggested Match,History
+F58H7.5,F58H7.5,WBGene00019070,Public name for WBGene00019070. History: N.A.
+H04D03.1,H04D03.1,WBGene00010362,Sequence name for WBGene00010362(enu-3.1). History: Renamed on 2014-04-28
+W03H9.2,W03H9.2,WBGene00012228,Public name for WBGene00012228. History: N.A.
+W03H9.3,W03H9.3,WBGene00012228,"Public name for Dead gene WBGene00012229. History of WBGene00012229: Merged into ""WBGene00012228"" on 2011-04-19"
+F55B11.6,F55B11.6,WBGene00044249,Public name for WBGene00044249. History: N.A.
+F41G4.7,F41G4.7,WBGene00018310,"Public name for WBGene00018310. History: Split into F41G4.13(WBGene00304806). History of WBGene00018310: Split into ""WBGene00304806"" on 2019-05-20"
+D2096.1,D2096.1,WBGene00017069,Sequence name for WBGene00017069(timm-17B.2). History: N.A.
+B0391.10,B0391.10,WBGene00007165,Public name for WBGene00007165. History: N.A.
+bath-45,bath-45,WBGene00009247,Public name for WBGene00009247. History: N.A.
+C41D11.6,C41D11.6,WBGene00016565,Sequence name for WBGene00016565(sosi-1). History: N.A.
+F37H8.2,F37H8.2,WBGene00009511,Public name for WBGene00009511. History: N.A.
+C40A11.8,C40A11.8,WBGene00016551,Public name for WBGene00016551. History: N.A.
+K02E7.2,K02E7.2,,Sequence name for Suppressed gene WBGene00019307. Molecular name for Suppressed gene WBGene00019307. Public name for Suppressed gene WBGene00019307. History of WBGene00019307: Killed on 2009-04-15; Suppressed on 2013-03-14. Remark: This gene was determined to be of Transposon in origin so has been removed from the C. elegans protein set. Detailed information about the origin of this gene can be found in the corresponding Transposon object associated with this gene.
+K02E7.3,K02E7.3,,Sequence name for Suppressed gene WBGene00019308. Molecular name for Suppressed gene WBGene00019308. Public name for Suppressed gene WBGene00019308. History of WBGene00019308: Killed on 2009-04-15; Suppressed on 2012-11-15. Remark: This gene was determined to be of Transposon in origin so has been removed from the C. elegans protein set. Detailed information about the origin of this gene can be found in the corresponding Transposon object associated with this gene.
+W09H1.4,W09H1.4,WBGene00012374,Public name for WBGene00012374. History: N.A.
+ife-5,ife-5,WBGene00002063,Public name for WBGene00002063. History: N.A.
+rnh-1.3,rnh-1.3,WBGene00007303,Public name for WBGene00007303. History: N.A.
+F07B7.1,F07B7.1,WBGene00017185,Public name for WBGene00017185. History: N.A.
+F07B7.2,F07B7.2,WBGene00017186,Public name for WBGene00017186. History: N.A.
+ZC15.3,ZC15.3,WBGene00013832,Public name for WBGene00013832. History: N.A.
+F53H10.2,F53H10.2,WBGene00010012,Sequence name for WBGene00010012(saeg-1). History: N.A.
+C38D9.2,C38D9.2,WBGene00008010,Public name for WBGene00008010. History: N.A.
+C18H2.1,C18H2.1,WBGene00015988,"Sequence name for WBGene00015988(lido-18). History: Split into C18H2.8(WBGene00305979), C18H2.9(WBGene00305980). History of WBGene00015988: Split into ""WBGene00305979"" on 2020-01-20; Split into ""WBGene00305980"" on 2020-01-20"
+C08F11.7,C08F11.7,WBGene00007454,Public name for WBGene00007454. History: N.A.
+T23G5.6,T23G5.6,WBGene00011964,Sequence name for WBGene00011964(saeg-2). History: N.A.
+Y55F3C.6,Y55F3C.6,,"Sequence name for Suppressed gene WBGene00043707. Molecular name for Suppressed gene WBGene00043707. Public name for Suppressed gene WBGene00043707. History of WBGene00043707: Killed on 2004-10-04; Resurrected on 2005-09-09; Split into ""WBGene00044766"" on 2006-02-24; Suppressed on 2012-11-15. Remark: The corresponding CDS object for this gene had been created and removed before WormBase introduced the concept of unique gene identifiers.  This (dead) gene object exists as an attempt to make sure that a gene ID exists for every worm gene prediction that has ever existed....This gene has been resurrected because it may be a member of a small gene family and should not have been removed....This gene was determined to be of Transposon in origin so has been removed from the C. elegans protein set. Detailed information about the origin of this gene can be found in the corresponding Transposon object associated with this gene."
+W03G1.4,W03G1.4,,Sequence name for Suppressed gene WBGene00043538. Molecular name for Suppressed gene WBGene00043538. Public name for Suppressed gene WBGene00043538. History of WBGene00043538: Killed on 2004-10-04; Resurrected on 2005-09-09; Killed on 2011-01-21; Suppressed on 2013-07-30. Remark: The corresponding CDS object for this gene had been created and removed before WormBase introduced the concept of unique gene identifiers.  This (dead) gene object exists as an attempt to make sure that a gene ID exists for every worm gene prediction that has ever existed....[050610 pad] Automatic assignment of Sequence_name connection using info taken from Public_name tags....This gene has been resurrected because it may be a member of a small gene family and should not have been removed....This gene was determined to be of Transposon in origin so has been removed from the C. elegans protein set. Detailed information about the origin of this gene can be found in the corresponding Transposon object associated with this gene.
+W03G1.3,W03G1.3,,Sequence name for Suppressed gene WBGene00043537. Molecular name for Suppressed gene WBGene00043537. Public name for Suppressed gene WBGene00043537. History of WBGene00043537: Killed on 2004-10-04; Resurrected on 2005-09-09; Killed on 2011-01-21; Suppressed on 2013-07-30. Remark: The corresponding CDS object for this gene had been created and removed before WormBase introduced the concept of unique gene identifiers.  This (dead) gene object exists as an attempt to make sure that a gene ID exists for every worm gene prediction that has ever existed....[050610 pad] Automatic assignment of Sequence_name connection using info taken from Public_name tags....This gene has been resurrected because it may be a member of a small gene family and should not have been removed....This gene was determined to be of Transposon in origin so has been removed from the C. elegans protein set. Detailed information about the origin of this gene can be found in the corresponding Transposon object associated with this gene.
+C17B7.13,C17B7.13,,Sequence name for Suppressed gene WBGene00044765. Molecular name for Suppressed gene WBGene00044765. Public name for Suppressed gene WBGene00044765. History of WBGene00044765: Killed on 2009-04-15; Suppressed on 2012-11-15. Remark: This gene was determined to be of Transposon in origin so has been removed from the C. elegans protein set. Detailed information about the origin of this gene can be found in the corresponding Transposon object associated with this gene.
+F53H10.2.1,,,
+T16G12.3,T16G12.3,WBGene00011804,Public name for WBGene00011804. History: N.A.
+T02G5.4,T02G5.4,WBGene00020164,Public name for WBGene00020164. History: N.A.
+T01A4.3,T01A4.3,WBGene00016561,"Public name for Dead gene WBGene00020133. History of WBGene00020133: Merged into ""WBGene00016561"" on 2009-05-07"
+K09F6.2,K09F6.2,,Sequence name for Suppressed gene WBGene00019585. Molecular name for Suppressed gene WBGene00019585. Public name for Suppressed gene WBGene00019585. History of WBGene00019585: Killed on 2009-04-15; Suppressed on 2012-11-15. Remark: This gene was determined to be of Transposon in origin so has been removed from the C. elegans protein set. Detailed information about the origin of this gene can be found in the corresponding Transposon object associated with this gene.
+C04G6.6,C04G6.6,WBGene00015456,Public name for WBGene00015456. History: N.A.
+F28F8.7,F28F8.7,WBGene00009224,Public name for WBGene00009224. History: N.A.
+F15D4.5,F15D4.5,WBGene00008862,Public name for WBGene00008862. History: N.A.
+F15D4.6,F15D4.6,WBGene00008863,Public name for WBGene00008863. History: N.A.
+F37D6.3,F37D6.3,WBGene00009509,Public name for WBGene00009509. History: N.A.
+fbxb-97,fbxb-97,WBGene00016885,Public name for WBGene00016885. History: N.A.
+Y48G1BM.8,Y48G1BM.8,WBGene00021673,Public name for WBGene00021673. History: N.A.
+W09B7.1,W09B7.1,WBGene00021106,Public name for WBGene00021106. History: N.A.
+R09E12.6,R09E12.6,,Sequence name for Suppressed gene WBGene00019985. Molecular name for Suppressed gene WBGene00019985. Public name for Suppressed gene WBGene00019985. History of WBGene00019985: Killed on 2009-04-15; Suppressed on 2012-11-15. Remark: This gene was determined to be of Transposon in origin so has been removed from the C. elegans protein set. Detailed information about the origin of this gene can be found in the corresponding Transposon object associated with this gene.
+R09E12.5,R09E12.5,,Sequence name for Suppressed gene WBGene00019984. Molecular name for Suppressed gene WBGene00019984. Public name for Suppressed gene WBGene00019984. History of WBGene00019984: Killed on 2009-04-15; Suppressed on 2013-03-14. Remark: This gene was determined to be of Transposon in origin so has been removed from the C. elegans protein set. Detailed information about the origin of this gene can be found in the corresponding Transposon object associated with this gene.
+C46C2.3,C46C2.3,WBGene00008111,Public name for WBGene00008111. History: N.A.
+Y55F3C.11,Y55F3C.11,,Sequence name for Suppressed gene WBGene00044766. Molecular name for Suppressed gene WBGene00044766. Public name for Suppressed gene WBGene00044766. History of WBGene00044766: Killed on 2009-04-15; Suppressed on 2012-11-15. Remark: This gene was determined to be of Transposon in origin so has been removed from the C. elegans protein set. Detailed information about the origin of this gene can be found in the corresponding Transposon object associated with this gene.
+B0250.8,B0250.8,WBGene00007125,Public name for WBGene00007125. History: N.A.
+F55A3.6,F55A3.6,WBGene00018851,Public name for WBGene00018851. History: N.A.
+bath-13,bath-13,WBGene00018223,Public name for WBGene00018223. History: N.A.
+Y23H5A.8,Y23H5A.8,WBGene00023172,Public name for WBGene00023172. History: N.A.
+R03D7.2,R03D7.2,WBGene00010989,Public name for WBGene00010989. History: N.A.
+W09B7.2,W09B7.2,WBGene00021107,Public name for WBGene00021107. History: N.A.
+F55A3.5,F55A3.5,WBGene00018850,Sequence name for WBGene00018850(gpx-8). History: N.A.
+C27C7.1,C27C7.1,WBGene00007766,Public name for WBGene00007766. History: N.A.
+F49F1.7,F49F1.7,WBGene00018647,Public name for WBGene00018647. History: N.A.
+F49F1.8,F49F1.8,WBGene00018648,Public name for WBGene00018648. History: N.A.
+Y53F4B.5,Y53F4B.5,WBGene00013152,Public name for WBGene00013152. History: N.A.
+C17B7.7,C17B7.7,,"Sequence name for Suppressed gene WBGene00015881. Molecular name for Suppressed gene WBGene00015881. Public name for Suppressed gene WBGene00015881. History of WBGene00015881: Split into ""WBGene00044765"" on 2006-02-24; Killed on 2009-04-15; Suppressed on 2012-11-15. Remark: This gene was determined to be of Transposon in origin so has been removed from the C. elegans protein set. Detailed information about the origin of this gene can be found in the corresponding Transposon object associated with this gene."
+fbxb-14,fbxb-14,WBGene00021098,Public name for WBGene00021098. History: N.A.
+K02B7.1,K02B7.1,,Sequence name for Suppressed gene WBGene00010489. Molecular name for Suppressed gene WBGene00010489. Public name for Suppressed gene WBGene00010489. History of WBGene00010489: Killed on 2008-11-19; Suppressed on 2012-11-19. Remark: This gene was determined to be of Transposon in origin so has been removed from the C. elegans protein set. Detailed information about the origin of this gene can be found in the corresponding Transposon object associated with this gene.
+Y73B3A.13,Y73B3A.13,WBGene00022215,Public name for WBGene00022215. History: N.A.
+K02B7.2,K02B7.2,,Sequence name for Suppressed gene WBGene00010490. Molecular name for Suppressed gene WBGene00010490. Public name for Suppressed gene WBGene00010490. History of WBGene00010490: Killed on 2011-05-23; Suppressed on 2013-07-30. Remark: This gene was determined to be of Transposon in origin so has been removed from the C. elegans protein set. Detailed information about the origin of this gene can be found in the corresponding Transposon object associated with this gene.
+F08F3.8,F08F3.8,WBGene00017264,Public name for WBGene00017264. History: N.A.
+Y48G1BM.5,Y48G1BM.5,WBGene00021671,"Public name for Dead gene WBGene00021670. History of WBGene00021670: Merged into ""WBGene00021671"" on 2009-01-09"
+Y48G1BM.6,Y48G1BM.6,WBGene00021671,"Public name for WBGene00021671. History: Split into Y48G1BM.10(WBGene00306121). History of WBGene00021671: Split into ""WBGene00306121"" on 2020-11-10"
+Y54G2A.21,Y54G2A.21,WBGene00021886,Public name for WBGene00021886. History: N.A.
+Y46H3C.6,Y46H3C.6,WBGene00021606,Public name for WBGene00021606. History: N.A.
+fbxa-192,fbxa-192,WBGene00010212,Public name for WBGene00010212. History: N.A.
+Y76B12C.8,Y76B12C.8,WBGene00022302,Public name for WBGene00022302. History: N.A.
+K09H9.7,K09H9.7,WBGene00019598,Public name for WBGene00019598. History: N.A.
+scrm-4,scrm-4,WBGene00008681,Public name for WBGene00008681. History: Renamed on 2007-05-03
+bath-20,bath-20,WBGene00015012,Public name for WBGene00015012. History: N.A.

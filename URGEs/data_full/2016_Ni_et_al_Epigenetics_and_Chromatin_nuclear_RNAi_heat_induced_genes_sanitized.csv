@@ -1,0 +1,42 @@
+Gene name,Chr,Transposon,Note,Input,Suggested Match,History
+AC8.10,X,MuDR transposable element,AC8.10/11 and AC8.3/4 are two duplicated neighboring sequences,AC8.10,WBGene00043988,Public name for WBGene00043988. History: N.A.
+AC8.11,X,MuDR transposable element,,AC8.11,WBGene00043989,Public name for WBGene00043989. History: N.A.
+AC8.3,X,MuDR transposable element,,AC8.3,WBGene00007075,Public name for WBGene00007075. History: N.A.
+AC8.4,X,MuDR transposable element,,AC8.4,WBGene00007076,Public name for WBGene00007076. History: N.A.
+B0491.2.1 (sqt-1),II,No obvious transposable elements around,"sqt-1 encodes a cuticle collagen; during larval and adult development, sqt-1 activity is required, likely redundantly, for normal cuticle, and hence organismal, morphology",,,
+C13B9.4a.1 (pdfr-1),III,A short CER9 LTR in an intron,"pdfr-1 encodes, by alternative splicing, three isoforms of a G-protein-coupled receptor (GPCR) required for normal locomotion",,,
+C13B9.4b.1,III,A short CER9 LTR in an intron,,C13B9.4b.1,WBGene00015735,Molecule name for WBGene00015735(pdfr-1). History: Renamed on 2012-08-29
+C13B9.4c.1,III,A short CER9 LTR in an intron,,C13B9.4c.1,WBGene00015735,Molecule name for WBGene00015735(pdfr-1). History: Renamed on 2012-08-29
+C18D4.6a,V,"Several repeats, a short Tc1A at 3’ of the gene",,C18D4.6a,WBGene00007675,Molecule name for WBGene00007675(C18D4.6). History: N.A.
+C40A11.10,II,Several repeats around the gene,,C40A11.10,WBGene00016553,Sequence name for WBGene00016553(mir-8199). History: N.A.
+C44B12.6,IV,Several repeats around the gene,"C44B12.6 is an ortholog of human IL25 (interleukin 25), IL17C (interleukin 17C), IL17B (interleukin 17B), IL17D (interleukin 17D), and IL17A (interleukin 17A); C44B12.6 is predicted to have cytokine activity, based on protein domain information",C44B12.6,WBGene00016639,Public name for WBGene00016639. History: N.A.
+C49C3.12 (clec-197),IV,No obvious transposable elements around,C-type LECtin,,,
+C50F4.3 (tag-329),V,No obvious transposable elements around,"tag-329 is an ortholog of human CTSL (cathepsin L), CTSV (cathepsin V) and CTSO (cathepsin O); tag-329 is predicted to have cysteine-type peptidase activity, based on protein domain information",,,
+C52E2.6 (fbxb-97),II,No obvious transposable elements around,F-box B protein,,,
+F40D4.13,V,CER15,,F40D4.13,WBGene00009572,Public name for WBGene00009572. History: N.A.
+F41G4.5,X,CER12,,F41G4.5,WBGene00018309,Public name for WBGene00018309. History: N.A.
+F41G4.7,X,CER12,,F41G4.7,WBGene00018310,"Public name for WBGene00018310. History: Split into F41G4.13(WBGene00304806). History of WBGene00018310: Split into ""WBGene00304806"" on 2019-05-20"
+F55D10. 3 (glit-1),X,No obvious transposable elements in the gene except some repeats around the gene,glit-1 is an ortholog of human TG (thyroglobulin),,,
+F57G4.9,V,"Repeat Turmoil2, Haringer Family",This gene was determined to be of Transposon in origin so has been supressed from the C. elegans protein set,F57G4.9,,Sequence name for Suppressed gene WBGene00010213. Molecular name for Suppressed gene WBGene00010213. Public name for Suppressed gene WBGene00010213. History of WBGene00010213: Killed on 2008-07-18; Suppressed on 2012-11-18. Remark: This gene was determined to be of Transposon in origin so has been removed from the C. elegans protein set. Detailed information about the origin of this gene can be found in the corresponding Transposon object associated with this gene.
+F58H7.5,IV,CER3 (gypsy),,F58H7.5,WBGene00019070,Public name for WBGene00019070. History: N.A.
+F58H7.7,IV,CER3 (gypsy),,F58H7.7,WBGene00019072,"Sequence name for WBGene00019072(fbxc-8). History: Split into F58H7.11(WBGene00271786). History of WBGene00019072: Split into ""WBGene00271786"" on 2017-09-21"
+F59B2.12,III,No obvious transposable elements around,,F59B2.12,WBGene00010314,Public name for WBGene00010314. History: N.A.
+M7.9,IV,No obvious transposable elements around,,M7.9,WBGene00010885,Public name for WBGene00010885. History: N.A.
+R09H3.3,X,CER12-I ~ 4 kb downstream,,R09H3.3,WBGene00019991,Public name for WBGene00019991. History: N.A.
+T10D4.4 (ins-31),II,Several repeats around the gene,"ins-31 encodes an insulin-like peptide of the insulin superfamily of proteins (OMIM: 176730, 147440); INS-31 is one of 38 insulin-like peptides in C. elegans, but is unique in that it contains three insulin repeats; although overexpression with INS-19 can result in low levels of larval lethality, the precise role of INS-31 in C. elegans development is not yet clear as INS-31/19 overexpression does not enhance dauer arrest in either a wild-type or daf-2 mutant background, and loss of INS-31 function does not result in a mutant phenotype",,,
+T11F9.10,V,CER15,"Paralog of F40D.13, both overlaps with CER15",T11F9.10,WBGene00011712,Public name for WBGene00011712. History: N.A.
+T11F9.18 (srh-1),V,upstream to CER15,,,,
+W08F4.9 (fbxb-14),II,No obvious transposable elements in the gene except some repeats around the gene,fbxb-14 (F-box B protein),,,
+Y37H2A.4 (fbxa-107),V,CER3 ~ 500 bp upstream,"F-box A protein. This gene encodes a protein containing an F-box, a motif predicted to mediate protein–protein interactions either with homologs of yeast Skp-1p or with other proteins; this gene’s encoded protein also contains an FTH/DUF38 motif, which may also mediate protein–protein interaction",,,
+Y38H6 C .5 (dct-10),V,"CER3-I in gene body, Tc4 right downstream","dct-10 (DAF-16/FOXO Controlled, germline Tumor affecting), dct-10 is predicted to have nucleic acid binding activity and zinc ion binding activity, based on protein domain information",,,
+Y43F4A.3,III,CER9,,Y43F4A.3,WBGene00012798,Public name for WBGene00012798. History: N.A.
+Y53F4B.10,II,Several repeats around the gene,"Y53F4B.10 is orthologous to the human gene INSULIN (IRF4; OMIM: 176730), which when mutated leads to disease",Y53F4B.10,WBGene00013157,Public name for WBGene00013157. History: N.A.
+Y56A3A.5,III,Several repeats in and around the gene,"faah-5 is an ortholog of human FAAH (fatty acid amide hydrolase) and FAAH2 (fatty acid amide hydrolase 2); faah-5 is predicted to have carbon–nitrogen ligase activity, with glutamine as amido-N-donor, based on protein domain information",Y56A3A.5,WBGene00013226,"Sequence name for WBGene00013226(faah-5). History: Split into Y56A3A.41(WBGene00269438). History of WBGene00013226: Split into ""WBGene00269438"" on 2016-04-19"
+Y68A4A.13,V,Several repeats in and around the gene,,Y68A4A.13,WBGene00044212,Public name for WBGene00044212. History: N.A.
+Y77E11A.3,IV,Several repeats around the gene,,Y77E11A.3,WBGene00022308,Public name for WBGene00022308. History: N.A.
+Y79H2A.4,III,Several Repeat around the gene,"Y79H2A.4 is an ortholog of human NDUFAB1 (NADH dehydrogenase (ubiquinone) 1, alpha/beta subcomplex, 1); Y79H2A.4 is predicted to have nucleotide binding activity, based on protein domain information",Y79H2A.4,WBGene00013581,Public name for WBGene00013581. History: N.A.
+ZC15.1,V,CER12-I downstream,,ZC15.1,WBGene00013830,Public name for WBGene00013830. History: N.A.
+ZC15.10,V,CER12-I upstream,,ZC15.10,WBGene00045050,Public name for WBGene00045050. History: N.A.
+ZC15.3,V,CER12,,ZC15.3,WBGene00013832,Public name for WBGene00013832. History: N.A.
+ZK262.8,V,CER8,,ZK262.8,WBGene00013953,Public name for WBGene00013953. History: N.A.
+ZK262.9,V,CER8,,ZK262.9,WBGene00013954,Public name for WBGene00013954. History: N.A.

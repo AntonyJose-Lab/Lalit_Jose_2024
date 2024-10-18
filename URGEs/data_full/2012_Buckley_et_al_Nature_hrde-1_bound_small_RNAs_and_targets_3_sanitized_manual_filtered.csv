@@ -1,0 +1,49 @@
+feature,pseudogene,position,rpkm,Input,Suggested Match,History
+pseudogene,ZK380.t2,chrX:1643844-1643917,3402,ZK380.t2,WBGene00023401,Public name for WBGene00023401. History: N.A.
+pseudogene,Y39E4B.14,chrIII:13162373-13164763,2461,Y39E4B.14,WBGene00014884,Public name for WBGene00014884. History: N.A.
+pseudogene,F23D12.9,chrX:14436680-14437586,1974,F23D12.9,WBGene00044217,Public name for WBGene00044217. History: N.A.
+pseudogene,F32A11.5,chrII:13130938-13134142,1540,F32A11.5,WBGene00009310,Public name for WBGene00009310. History: N.A.
+pseudogene,K08E7.10,chrIV:12561345-12562730,1485,K08E7.10,WBGene00044907,Public name for WBGene00044907. History: N.A.
+pseudogene,F43G6.3,chrII:11782923-11784023,1117,F43G6.3,WBGene00009656,Public name for WBGene00009656. History: N.A.
+pseudogene,F55H2.4,chrIII:9504679-9506997,1083,F55H2.4,WBGene00003067,Sequence name for WBGene00003067(lrg-1). History: N.A.
+pseudogene,Y23H5A.1,chrI:2629686-2632322,1035,Y23H5A.1,WBGene00000801,Sequence name for WBGene00000801(cars-2). History: Renamed on 2010-01-29
+pseudogene,C01G6.10,chrII:9289445-9291479,993,C01G6.10,WBGene00014663,Public name for WBGene00014663. History: N.A.
+pseudogene,Y60A9A.3,chrX:14375797-14376429,981,Y60A9A.3,WBGene00194675,Public name for WBGene00194675. History: N.A.
+pseudogene,C25H3.18,chrII:5689412-5689982,747,C25H3.18,WBGene00194836,Public name for WBGene00194836. History: N.A.
+pseudogene,Y73F8A.31,chrIV:15513753-15514432,732,Y73F8A.31,WBGene00013535,Sequence name for WBGene00013535(gyg-3). History: N.A.
+pseudogene,C06C3.5,chrII:9379891-9381296,705,C06C3.5,WBGene00007376,Public name for WBGene00007376. History: N.A.
+pseudogene,Y54H5A.5,chrIII:5156394-5156847,654,Y54H5A.5,WBGene00050920,Public name for WBGene00050920. History: N.A.
+pseudogene,Y46G5A.6,chrII:12744636-12746764,578,Y46G5A.6,WBGene00012898,"Public name for WBGene00012898. History: Split into Y46G5A.42(WBGene00077635), Y46G5A.43(WBGene00077636). History of WBGene00012898: Renamed on 2005-03-17; Split into ""WBGene00077636"" on 2008-02-22"
+pseudogene,C36A4.14b,chrIII:3830259-3831403,467,C36A4.14b,WBGene00194650,Molecule name for WBGene00194650(C36A4.14). History: N.A.
+pseudogene,F59H5.3,chrII:2514981-2516102,466,F59H5.3,WBGene00019131,Sequence name for WBGene00019131(bath-12). History: N.A.
+pseudogene,ZC15.4,chrV:20302103-20303412,452,ZC15.4,WBGene00014977,Public name for WBGene00014977. History: N.A.
+pseudogene,Y105C5A.14,chrIV:15646937-15648266,450,Y105C5A.14,WBGene00013638,"Public name for WBGene00013638. History: Split into Y105C5A.1268(WBGene00185102). History of WBGene00013638: Split into ""WBGene00185102"" on 2009-03-13"
+pseudogene,Y59H11AR.6,chrIV:8597748-8598714,431,Y59H11AR.6,WBGene00077437,Public name for WBGene00077437. History: N.A.
+pseudogene,Y38H8A.8,chrIV:13456949-13458817,382,Y38H8A.8,WBGene00045062,Public name for WBGene00045062. History: N.A.
+pseudogene,F41B5.1,chrV:2255388-2256533,352,F41B5.1,WBGene00023284,Public name for WBGene00023284. History: N.A.
+pseudogene,ZK637.6,chrIII:8898903-8899449,315,ZK637.6,WBGene00014987,Public name for WBGene00014987. History: N.A.
+pseudogene,F39E9.10,chrII:3302764-3303754,310,F39E9.10,WBGene00023036,Public name for WBGene00023036. History: N.A.
+pseudogene,T04A11.14,chrIV:12507385-12507543,303,T04A11.14,WBGene00045131,Public name for WBGene00045131. History: N.A.
+pseudogene,T16G12.10,chrIII:10055512-10056042,285,T16G12.10,WBGene00044222,Public name for WBGene00044222. History: N.A.
+pseudogene,C36A4.14a,chrIII:3830259-3832221,273,C36A4.14a,WBGene00194650,Molecule name for WBGene00194650(C36A4.14). History: N.A.
+pseudogene,Y105C5A.1271,chrIV:15649794-15650402,272,Y105C5A.1271,WBGene00194667,Public name for WBGene00194667. History: N.A.
+pseudogene,F21D9.6,chrV:19242848-19244957,259,F21D9.6,WBGene00009020,Public name for WBGene00009020. History: N.A.
+pseudogene,K03D3.13,chrIV:16311046-16319671,252,K03D3.13,WBGene00044670,Sequence name for WBGene00044670(rac-3). History: N.A.
+pseudogene,B0047.5,chrII:2048065-2049180,252,B0047.5,WBGene00015016,Sequence name for WBGene00015016(bath-14). History: N.A.
+pseudogene,Y46G5A.43,chrII:12742475-12744186,243,Y46G5A.43,WBGene00077636,Public name for WBGene00077636. History: N.A.
+pseudogene,Y51A2A.9,chrV:18310895-18311957,222,Y51A2A.9,WBGene00014907,Sequence name for WBGene00014907(fbxa-117). History: N.A.
+pseudogene,F52C6.7,chrII:1913609-1916381,214,F52C6.7,WBGene00018664,Sequence name for WBGene00018664(bath-11). History: N.A.
+pseudogene,T27E7.10,chrIV:14531152-14531619,178,T27E7.10,WBGene00044268,Public name for WBGene00044268. History: N.A.
+pseudogene,Y102A5C.35,chrV:16924960-16926101,174,Y102A5C.35,WBGene00044220,Public name for WBGene00044220. History: N.A.
+pseudogene,Y53F4B.6,chrII:14985729-14987149,173,Y53F4B.6,WBGene00013153,Public name for WBGene00013153. History: N.A.
+pseudogene,Y17D7C.3,chrV:18720560-18723743,168,Y17D7C.3,WBGene00045366,Public name for WBGene00045366. History: N.A.
+pseudogene,R03D7.3,chrII:10935665-10942138,156,R03D7.3,WBGene00014814,Public name for WBGene00014814. History: N.A.
+pseudogene,M162.9,chrV:19773370-19774945,144,M162.9,WBGene00014811,Public name for WBGene00014811. History: N.A.
+pseudogene,W09C5.9,chrI:13659418-13661753,144,W09C5.9,WBGene00012355,Public name for WBGene00012355. History: N.A.
+pseudogene,K09C4.3,chrX:3293276-3294357,129,K09C4.3,WBGene00002006,Sequence name for WBGene00002006(hsp-2). History: N.A.
+pseudogene,W09C5.3,chrI:13635030-13635947,128,W09C5.3,WBGene00014858,Public name for WBGene00014858. History: N.A.
+pseudogene,E01G4.7,chrII:13477400-13478859,125,E01G4.7,WBGene00045410,Public name for WBGene00045410. History: N.A.
+pseudogene,Y49E10.5,chrIII:12382433-12383643,115,Y49E10.5,WBGene00014902,Public name for WBGene00014902. History: N.A.
+pseudogene,Y63D3A.11,chrI:14085675-14086673,112,Y63D3A.11,WBGene00013410,Sequence name for WBGene00013410(fbxb-94). History: N.A.
+pseudogene,Y53C10A.1,chrI:11966261-11967582,111,Y53C10A.1,WBGene00014915,Public name for WBGene00014915. History: N.A.
+pseudogene,Y102A5C.6,chrV:16929142-16930039,105,Y102A5C.6,WBGene00014955,Public name for WBGene00014955. History: N.A.
