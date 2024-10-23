@@ -77,7 +77,7 @@ The code used, key datasets, and supporting files are available here. The stream
         - `2024_5_9_alphafold2_summary_stats`: This file provides the summary statistics of the models collected together as a batch with a particular start date using  `alphafold2_dimer_batch_computed_on_zaratan.py` or using `alphafold3_dimer_batch_computed_on_google.py`. Each line lists 'A,B,maximum PAE,distance,interaction area'
         - `batch_dimer_predictions_alphafold2_zaratan.csv`: This file provides details of the runs that were performed. Each line lists 'A,B,input_date,output_date,pair_name'.
         - `batch_multimer`: This file lists the pairs of proteins (A and B) being tested for interactions. Each line lists a pair_name as 'AB'.
-      - `Streamlined_Code/`
+  - `Streamlined_Code/`
         - `AlphaFold_related`: AlphaFold runs are performed essentially as above using these two scripts:
           - `alphafold_multimer_with_clean_up.sh`: This is a script for running a single dimer by calling `run_alphafold.py`.
           - `alphafold_multimer_batch_submission_with_clean_up.sh`: This is a script for making the files needed for submitting dimers with a fixed time request.
